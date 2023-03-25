@@ -2,6 +2,8 @@
 title: First
 sidebar: true
 sidebarlogo: fresh-white-alt
----
 
-My super sweet first blog post!!
+---
+My super sweet first blog post!! 
+
+edited by najam for karen
