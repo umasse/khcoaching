@@ -17,9 +17,11 @@ Break negative mental patterns to:
 <br>
 <br>
 
-> I have never met any professional so capable of being present for their client, noticing changes in their demeanour, an eyebrow or glow in their eye.
+> I have never met any professional so capable of being present for their client, noticing changes in their demeanour, an eyebrow or glow in their eye. <br><br>
+>
+> **Marta Masse**
 > <br>
-> **Marta Masse** <br><br> _Business Development Manager and Sales Consultant_
+> _Business Development Manager and Sales Consultant_
 
 <br>
 {{% subtitle5 "In a nutshell, I am:" %}}
