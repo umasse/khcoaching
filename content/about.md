@@ -21,7 +21,7 @@ Break negative mental patterns to:
 > <br>
 > **Marta Masse**
 > <br>
-> **Business Development Manager and Sales Consultant**
+> _Business Development Manager and Sales Consultant_
 
 <br>
 {{% subtitle5 "In a nutshell, I am:" %}}
