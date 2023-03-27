@@ -77,7 +77,7 @@ In her free time she reads, loves to travel and explore, takes walks, likes expe
 > <br>
 > **Freerk ten Hoor**
 > <br>
-> **Director Europe & Head of Sales at Centtrip**
+> _Director Europe & Head of Sales at Centtrip_
 > <br>
 
 * Coaching is time and space completely dedicated to processing your thoughts and feelings with a non-judgemental, caring, thinking parter, me!
@@ -89,7 +89,7 @@ In her free time she reads, loves to travel and explore, takes walks, likes expe
 > <br>
 > **Nicholas Miller**
 > <br>
-> **Machine Learning Engineer at Adobe**
+> _Machine Learning Engineer at Adobe_
 > <br>
 
 <br>
@@ -103,7 +103,7 @@ _About the Coaching Framework I use: Positive Intelligence (PQ) - a mental fitne
 > <br>
 > **Margarita Vallduriola**
 > <br>
-> **DP Subject Coordinator at International School of The Hague**
+> _DP Subject Coordinator at International School of The Hague_
 > <br>
 
 {{% subtitle5 "PQ will:" %}}
@@ -129,7 +129,7 @@ _About the Coaching Framework I use: Positive Intelligence (PQ) - a mental fitne
 > <br>
 > **Christy Mathers**
 > <br>
-> **Math and Science Teacher at Mont'Kiara International School**
+> _Math and Science Teacher at Mont'Kiara International School_
 
 {{% title3 "Meet the saboteurs" %}}
 Do you avoid difficult conversations or tackling tough problems? Do you procrastinate?
