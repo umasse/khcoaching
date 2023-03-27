@@ -1,0 +1,10 @@
+---
+label: fresh page tempalte
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: boolean
+  name: include_footer
+  label: include_footer
