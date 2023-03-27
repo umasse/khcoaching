@@ -196,7 +196,3 @@ The combination of those factors and her Positive Intelligence techniques have r
 **Julia Viladomiu**
 <br>
 *Educator/Coach*
-
-
-
-{{% subtitle5 "§2.2 Bacon2" %}} Beef jowl tail alcatra frankfurter bacon t-bone hamburger shankle. Ham hock ball tip spare ribs turkey fatback shank short loin buffalo meatball burgdoggen pork chop shankle. Porchetta buffalo pork belly chicken leberkas drumstick. Jerky chuck brisket spare ribs ribeye pork chop shankle beef ribs beef capicola. Boudin short ribs rump flank picanha. Brisket pork loin turducken, flank jerky pastrami pork chop spare ribs bresaola beef ribs. Cow fatback tenderloin pork loin pancetta.
