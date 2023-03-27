@@ -42,8 +42,8 @@ params:
     - logo: gutwork
       url: https://bulma.io/
   navbar:
-  - title: Features
-    url: "/"
+  - title: About
+    url: "/about"
   - title: Pricing
     url: "/"
   - title: Socials
@@ -183,6 +183,8 @@ params:
           link: "/"
         - text: AGB
           link: "/agb"
+        - text: About
+          link: "/about"
       column2:
         title: Docs
         links:
