@@ -138,24 +138,18 @@ params:
     title: Our Clients love us!
     subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
     clients:
-    - name: Irma Walters
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim
-        appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret,
-        has quando suavitate at.
-      job: Accountant
+    - name: Marta Masse
+      quote: I have never met any professional so capable of being present for their client, noticing changes in their demeanour, an eyebrow or glow in their eye.
+      job: Business Development Manager and Sales Consultant
       img: "1"
-    - name: John Bradley
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim
-        appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret,
-        has quando suavitate at.
-      job: Financial Analyst
+    - name: Freerk ten Hoor
+      quote: Karin is very professional and has the great ability to understand challenges that people face irrelevant of their occupation. It helped me get a better understanding of my road ahead which is very exciting! 
+      job: Director Europe & Head of Sales at Centtrip
       img: "2"
-    - name: Gary Blackman
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim
-        appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret,
-        has quando suavitate at.
-      job: HR Manager
-      img: "3"
+    - name: Karinna Jones-Ianello
+      quote: I needed a new direction in life and Karin helped me find it. Because Karin in thoughtful, whip-smart, and caring she is able to guide her clients with clarity and a sense of purpose.
+      job: English Teacher at CAMAS SCHOOL DISTRICT
+      img: "1"
   section5:
     title: Drop us a line or two
     subtitle: We'd love to hear from you
