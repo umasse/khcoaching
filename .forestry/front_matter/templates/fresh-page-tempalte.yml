@@ -8,3 +8,5 @@ fields:
 - type: boolean
   name: include_footer
   label: include_footer
+pages:
+- content/about.md
