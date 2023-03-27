@@ -18,11 +18,9 @@ Break negative mental patterns to:
 <br>
 
 > I have never met any professional so capable of being present for their client, noticing changes in their demeanour, an eyebrow or glow in their eye. <br><br>
->
-> **Marta Masse**
-> <br>
-> _Business Development Manager and Sales Consultant_
-
+**Marta Masse**
+<br>
+_Business Development Manager and Sales Consultant_
 <br>
 {{% subtitle5 "In a nutshell, I am:" %}}
 
@@ -45,10 +43,11 @@ Break negative mental patterns to:
 <br>
 
 > Karin is very professional and has the great ability to understand challenges that people face irrelevant of their occupation. It helped me get a better understanding of my road ahead which is very exciting!
-> <br>
-> **Freerk ten Hoor**
-> <br>
-> _Director Europe & Head of Sales at Centtrip_
+<br>
+<br>
+**Freerk ten Hoor**
+<br>
+_Director Europe & Head of Sales at Centtrip_
 
 <br>
 {{% subtitle5 "Want to meet Karin?" %}}
@@ -74,11 +73,12 @@ In her free time she reads, loves to travel and explore, takes walks, likes expe
 {{% title3 "About My Coaching" %}}
 
 > I needed a new direction in life and Karin helped me find it. Because Karin in thoughtful, whip-smart, and caring she is able to guide her clients with clarity and a sense of purpose.
-> <br>
-> **Freerk ten Hoor**
-> <br>
-> _Director Europe & Head of Sales at Centtrip_
-> <br>
+<br>
+<br>
+**Karinna Jones-Ianello**
+<br>
+_English Teacher at CAMAS SCHOOL DISTRICT_
+<br>
 
 * Coaching is time and space completely dedicated to processing your thoughts and feelings with a non-judgemental, caring, thinking parter, me!
 * We challenge beliefs, “truths”, and come up with different perspectives so that you come up with your own insights, action steps and solutions.
@@ -86,11 +86,12 @@ In her free time she reads, loves to travel and explore, takes walks, likes expe
 * My coaching helps you GROW personally and professionally.
 
 > Karin has a real knack for helping me sort out the mental clutter that I experience when I’m in my own head. She never told me what to do or what to think, but she gave me the environment and the resources to figure out what I was thinking, to reflect critically on my assumptions.
-> <br>
-> **Nicholas Miller**
-> <br>
-> _Machine Learning Engineer at Adobe_
-> <br>
+<br>
+<br>
+**Nicholas Miller**
+<br>
+_Machine Learning Engineer at Adobe_
+<br>
 
 <br>
 {{% subtitle5 "Want to meet Karin?" %}}
@@ -99,12 +100,13 @@ In her free time she reads, loves to travel and explore, takes walks, likes expe
 
 _About the Coaching Framework I use: Positive Intelligence (PQ) - a mental fitness programme_
 
-> "Doing this program has allowed me to improve my relationships with colleagues, and I have become less judgemental towards myself and others."
-> <br>
-> **Margarita Vallduriola**
-> <br>
-> _DP Subject Coordinator at International School of The Hague_
-> <br>
+> Doing this program has allowed me to improve my relationships with colleagues, and I have become less judgemental towards myself and others.
+<br>
+<br>
+**Margarita Vallduriola**
+<br>
+_DP Subject Coordinator at International School of The Hague_
+<br>
 
 {{% subtitle5 "PQ will:" %}}
 
