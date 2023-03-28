@@ -23,6 +23,7 @@ Break negative mental patterns to:
 <a class="button cta rounded primary-btn raised" href="{{ $buttonLink }}">Lets Talk</a>
 <br>
 <br>
+{{< about-hero >}}
 
 > I have never met any professional so capable of being present for their client, noticing changes in their demeanour, an eyebrow or glow in their eye. <br><br>
 **Marta Masse**
