@@ -3,14 +3,21 @@ title: About Karen
 include_footer: true
 
 ---
-I help growth-ortiented educational leaders unlock their full potential and achieve their vision.
 
+<div class="columns">
+<div class="column is-4 ">
+I help growth-ortiented educational leaders unlock their full potential and achieve their vision.
 Break negative mental patterns to:
 
 1. Gain clarity, confidence and joy
 2. Develop your authentic leadership style
 3. Implement your personal and professional vision.
+</div>
 
+<div class="column is-5 is-offset-1">
+    <img src="/images/karen/k1.jpg" alt/>
+</div>
+</div>
 <br>
 {{% subtitle5 "Let's connect and explore how I can help you." %}}
 <a class="button cta rounded primary-btn raised" href="{{ $buttonLink }}">Lets Talk</a>
@@ -29,6 +36,9 @@ _Business Development Manager and Sales Consultant_
 * Caring - I’m very empathetic, supporting others has always been my calling.
 * Growth-oriented - I love learning, and I constantly look for ways to improve and challenge myself
 * Risk-taker - I follow my passion despite the challenges
+
+<br>
+
 * Experienced -
   * Transitions such as multiple career changes, working internationally, parenting, serious relationship breakups, perimenopause.
   * Mental health issues: burnout, intense loneliness, food issues, insomnia
@@ -84,6 +94,12 @@ _English Teacher at CAMAS SCHOOL DISTRICT_
 * We challenge beliefs, “truths”, and come up with different perspectives so that you come up with your own insights, action steps and solutions.
 * Coaching saves you time and energy in the long run - it cuts down on the ruminations, the indecisiveness, you improve your clarity of mind, focus, and confidence in decision-making.
 * My coaching helps you GROW personally and professionally.
+
+
+<br>
+{{% subtitle5 "Want to know more about the four key areas that come up in GROW coaching?" %}}
+<a class="button cta rounded primary-btn raised" href="{{ $buttonLink }}">Lets Connect</a>
+<br>
 
 > Karin has a real knack for helping me sort out the mental clutter that I experience when I’m in my own head. She never told me what to do or what to think, but she gave me the environment and the resources to figure out what I was thinking, to reflect critically on my assumptions.
 <br>
