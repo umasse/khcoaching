@@ -1,0 +1,8 @@
+.navbar.is-fresh .navbar-brand img{
+    max-height: none !important;
+    height: auto;
+}
+
+.navbar-start{
+    display: none;
+}
