@@ -3,13 +3,12 @@ title: First
 sidebar: true
 sidebarlogo: fresh-white-alt
 date: 2019-08-07
-description: "move your window"
+description: move your window
 tags:
-   - writing 
-   - lorem 
+- writing
+- lorem
 
 ---
-
 ## He moved over to the window
 
 Since about that time, war had been literally continuous, though strictly speaking it had not always been the same war. For several months during his childhood there had been confused street fighting in London itself, some of which he remembered vividly.
@@ -18,26 +17,12 @@ Inside the flat a fruity voice was reading out a list of figures which had somet
 
 He moved over to the window: a smallish, frail figure, the meagerness of his body merely emphasized by the blue overalls which were the uniform of the Party. His hair was very fair, his face naturally sanguine, his skin roughened by coarse soap and blunt razor blades and the cold of the winter that had just ended.
 
-- Saxum sustinuit pugnatum medere temptamenta vellera mihi
-- Thalamoque lugubris qui loco croceum
-- Torque exploratis ornum intexuit gestamina est
-- Verbis meorum canes intraverat simul in quem
-- Cutis mirabile tandemque ut in dominis Abarin
-- Marmore deus orant
-
-## Hos sum sex o quamvis Thoantis gentes
-
-Is polus Hymenaeus extrema communes, nos versus gramen, fervet: sincera quati.
-Dixit extulerat; iunctas et [Aeaciden Illa](http://egofateri.net/), visa
-[viris](http://euntemcrepuscula.com/subiecta.html). Ignoro dixit et linquit
-moenia parilique dum deo cum, dat et superasse explorat causam crepuscula si
-nitet inplevit.
-
-Oriente nec radios nurus, quod undas, occupat conpescit femina est; resistite
-regno armenta suspirat. Mare condor dedi iussa Amoris et cacumine vellent Graios
-et praebetis quoque frementem nostris apertis Iunonigenaeque moenia. Squalidus
-quoque **cinnamaque fiducia concurrit**; teneat haec praemia flagrantemque facto
-atque, depositoque fugit pro est loquor, nempe!
+* Saxum sustinuit pugnatum medere temptamenta vellera mihi
+* Thalamoque lugubris qui loco croceum
+* Torque exploratis ornum intexuit gestamina est
+* Verbis meorum canes intraverat simul in quem
+* Cutis mirabile tandemque ut in dominis Abarin
+* Marmore deus orant
 
 ## Ocior saxa Phoebus placet
 
