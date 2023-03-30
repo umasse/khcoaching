@@ -1,1 +1,33 @@
-{{ "<!-- Layout with no content to avoid WARN message about missing page layout -->" | safeHTML }}
+
+{{ define "main" }}
+
+{{ partial "navbar.html" . }}
+{{ partial "navbar-clone.html" . }}
+
+
+<section class="section is-medium">
+  <div class="container">
+    <div class="columns">
+      <div class="column is-centered-tablet-portrait">
+        <h1 class="title section-title najam">{{ .Title }}</h1>
+        <div class="divider"></div>
+      </div>
+    </div>
+
+    <div class="content">
+
+        {{ range .Pages.ByPublishDate.Reverse }}
+        <p>
+            <h3><a class="title" href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+            <a class="summary" href="{{ .RelPermalink }}">
+                <p>{{ .Summary }}</p>
+            </a>
+        </p>
+        {{ end }}
+
+    </div>
+  </div>
+</section>
+
+    {{ partial "footer.html" . }}
+{{ end }}

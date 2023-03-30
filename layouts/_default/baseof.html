@@ -4,6 +4,8 @@
     {{ partial "meta.html" . }}
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
     {{ partial "css.html" . }}
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
+
   </head>
   <body>
     {{ if ne .Site.Params.preloader false }}
@@ -12,7 +14,6 @@
       <div id="status"></div>
     </div>
     {{ end }}
-
     {{ block "main" . }}
     {{ end }}
 

@@ -47,7 +47,9 @@ params:
   - title: Grow
     url: "/grow"
   - title: Success Stories
-    url: "/success"
+    url: "/success_stories"
+  - title: Reflections
+    url: "/blog"
   - title: Socials
     sublinks:
     - title: Facebook
