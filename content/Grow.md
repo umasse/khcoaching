@@ -53,6 +53,8 @@ Transitions, however unsettling they can be, are the perfect opportunity to grow
 <br>
 <br>
 
+<div class="mb-6">
+
 > Just by taking the time to talk about my issues with someone else, in an honest and open way, with the shared goal of trying to find solutions, you start seeing things differently. And where I couldn't see a solution, having an outsider's perspective focused on helping you find it was extremely helpful.
 I started on my new job, a job that checks boxes that I wouldn't have contemplated if it wasn't for Karin.
 <br>
@@ -60,10 +62,11 @@ I started on my new job, a job that checks boxes that I wouldn't have contemplat
 <br>
 _Senior Test Automation_
 
+</div>
 
 
-<div class="columns">
-<div class="column is-4 ">
+<div class="columns mb-6">
+<div class="column is-5">
 
 With mental fitness training (link to Positive Intelligence section) and a safe, neutral and non-judgemental coaching space (link to Coaching section), you’ll receive the tools and support you need to: 
 
@@ -73,15 +76,19 @@ With mental fitness training (link to Positive Intelligence section) and a safe,
 * Lower your stress levels, improve your well-being, and operate from a calmer piece of mind.
 * Inspire, engage and go beyond management tasks to truly leading, so that the shared values, mission and vision are lived and felt by all in the community.
 
-
 </div>
-<div class="column is-5 is-offset-1">
+
+<div class="column is-4 is-offset-1">
     <img src="/images/karen/k1.jpg" alt/>
 </div>
+
 </div>
 
 
-**Leadership coaching is a choice!** A choice to grow as a person, increase your impact, and make your personal and professional vision a reality. Growth takes committed work and investment, but the outcome can be life-changing in so many ways. Choose the Programme for you.
+
+<div class="mb-6">
+<strong>Leadership coaching is a choice!</strong> A choice to grow as a person, increase your impact, and make your personal and professional vision a reality. Growth takes committed work and investment, but the outcome can be life-changing in so many ways. Choose the Programme for you.
+</div>
 
 
 <div class="tile is-ancestor">
@@ -152,3 +159,5 @@ In this workshop you’ll
 {{% subtitle5 "Want to know more? Book a free Grow Chemistry Call " %}}
 <a class="button cta rounded primary-btn raised" href="{{ $buttonLink }}">Lets Talk</a>
 <br>
+
+
