@@ -1,3 +1,18 @@
+@font-face {
+    font-family: 'tenor';
+    src: url('../fonts/tenorsans-regular-webfont.woff2') format('woff2'),
+         url('../fonts/tenorsans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'figtree';
+    src: url('../fonts/figtree-variablefont_wght-webfont.woff2') format('woff2'),
+         url('../fonts/figtree-variablefont_wght-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
 .navbar.is-fresh .navbar-brand img{
     max-height: none !important;
     height: auto;
@@ -5,4 +20,8 @@
 
 .navbar-start{
     display: none;
+}
+
+.hero-body .title, .hero-body .subtitle {
+    font-family: figtree;
 }

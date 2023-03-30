@@ -44,8 +44,10 @@ params:
   navbar:
   - title: About
     url: "/about"
-  - title: Pricing
-    url: "/"
+  - title: Grow
+    url: "/grow"
+  - title: Success Stories
+    url: "/success"
   - title: Socials
     sublinks:
     - title: Facebook
