@@ -159,7 +159,7 @@ params:
     subtitle: We'd love to hear from you
     buttonText: Send Message
   footer:
-    logo: fresh-white-alt.svg
+    logo: logo.png
     socialmediatitle: Follow Us
     socialmedia:
     - link: https://github.com/lucperkins/github-fresh

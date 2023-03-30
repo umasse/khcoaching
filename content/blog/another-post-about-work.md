@@ -1,6 +1,6 @@
 +++
 include_footer = true
-title = "another post about work"
+title = "Another post about work"
 
 +++
 # sadness

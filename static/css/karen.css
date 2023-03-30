@@ -25,3 +25,18 @@
 .hero-body .title, .hero-body .subtitle {
     font-family: figtree;
 }
+
+.post-item{
+    display: flex;
+    justify-content: space-between;
+}
+.post-item h3 a {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #444F60;
+    border-bottom: 1px dotted #F39200;
+}
+
+.post-item h3 a:hover {
+    border-bottom: none;
+}
