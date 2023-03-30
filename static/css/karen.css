@@ -40,3 +40,7 @@
 .post-item h3 a:hover {
     border-bottom: none;
 }
+
+.menu-icon-wrapper{
+    display: none;
+}
