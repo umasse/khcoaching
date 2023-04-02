@@ -44,3 +44,41 @@
 .menu-icon-wrapper{
     display: none;
 }
+
+article.story{
+    border-bottom: 2px solid #3bb18c;
+    margin-bottom: 50px;
+    padding-bottom:20px;
+}
+
+article.story:last-child{
+    border-bottom: none;
+}
+
+article.story .meta{
+    display:flex;
+    align-items: center;
+}
+
+article.story .meta img{
+    border: 2px solid #3bb18c;
+}
+
+article.story .meta .author{
+    margin-left: 10px;
+}
+
+article.story .meta .author p{
+    font-style: italic;
+    margin-bottom: 0px;
+}
+article.story .meta .author p:first-child{
+    font-style:normal;
+    font-weight: bold;
+}
+
+section.copy{
+    margin-bottom: 50px;
+    padding-bottom:40px;
+    /* border-bottom: 2px solid #3bb18c; */
+}
