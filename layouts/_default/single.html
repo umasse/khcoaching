@@ -8,10 +8,11 @@
   <body>
     {{ if ne .Site.Params.preloader false }}
     <!-- Preloader -->
-    <div id="preloader">
+    <div id="preloader" class="css-preloader">
       <div id="status"></div>
     </div>
     {{ end }}
+
     {{ block "main" . }}
 
     {{ partial "single/single.html" . }}
@@ -19,6 +20,9 @@
     {{ if .Params.include_footer }}
     {{ partial "footer.html" . }}
     {{ end }}
+
+
+
 
     <!-- Back To Top Button -->
     <div id="backtotop"><a href="#"></a></div>

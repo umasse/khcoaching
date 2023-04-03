@@ -25,9 +25,9 @@ params:
     - 400
     - 600
   hero:
-    title: Karen Holley, Fresh hugo theme. forestry
-    subtitle: Lorem ipsum sit dolor amet is dummy text used by the typography industry
-    buttontext: Get started
+    title: Grow Yourself to Grow Your Vision
+    subtitle: I help leaders feel less overwhelmed and more in control so that they can grow their vision for their lives and for their institutions
+    buttontext: About me
     buttonlink: "#"
     image: illustrations/worker.svg
     clientlogos:
@@ -159,7 +159,7 @@ params:
     subtitle: We'd love to hear from you
     buttonText: Send Message
   footer:
-    logo: logo.png
+    logo: logofooter.png
     socialmediatitle: Follow Us
     socialmedia:
     - link: https://github.com/lucperkins/github-fresh
@@ -175,35 +175,13 @@ params:
     bulmalogo: true
     quicklinks:
       column1:
-        title: Product
+        title: Coaching Services
         links:
-        - text: Discover features
+        - text: Grow Yourself
+          link: "/grow"
+        - text: Grow Your Team
+          link: "/grow§"
+        - text: Free Mastermind Classes
           link: "/"
-        - text: Why choose our product?
-          link: "/"
-        - text: Compare features
-          link: "/"
-        - text: Our roadmap
-          link: "/"
-        - text: AGB
-          link: "/agb"
         - text: About
           link: "/about"
-      column2:
-        title: Docs
-        links:
-        - text: Get started
-          link: "/"
-        - text: User guides
-          link: "/"
-        - text: Admin guide
-          link: "/"
-        - text: Developers
-          link: "/"
-      column3:
-        title: Blog
-        links:
-        - text: Latest news
-          link: "/blog/first"
-        - text: Tech articles
-          link: "/blog/second"

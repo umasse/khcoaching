@@ -134,38 +134,49 @@ This programme is for leaders who are eager to grow and achieve lasting, transfo
 </section>
 
 
-<section class="copy">
-<div class="columns">
-<div class="column is-4">
-
-“Karin is very professional and has the great ability to understand challenges that people face irrelevant of their occupation. It helped me get a better understanding of my road ahead which is very exciting!”
-
-Freerk ten Hoor
-
-Director Europe & Head of Sales at Centtrip
-
-</div>
-
-<div class="column is-4">
-
-At work and home I stepped aside to look at my behavioural patterns from a  more distant but friendly perspective, I learnt how the saboteurs work and how they are in the way of a healthy lifestyle. Also, having empathy for others and their own saboteurs made me feel much more forgiving and connected with others. 
-
-Kati Wolfänger
-German Teacher/Careers Counsellor at International School of The Hague
-
-</div>
-
-<div class="column is-4">
-
-I became aware of past patterns that weren’t serving me, and I’ve been able to completely change them. I’m now much happier with myself. I didn’t realize how much I had changed, how I was doing things that weren’t good for me. I am back to the Christy I used to be. I feel strong in myself. I feel confident. 
-
-Christy Mathers
-
-Math and Science Teacher at Mont'Kiara International School
-
-</div>
-</div>
+  <section class="section" id="section4">
+    <div class="container">
+      <div class="content-wrapper">
+        <div class="columns is-vcentered">
+          <div class="column is-4">
+            <figure class="testimonial">
+              <blockquote>
+                Karin is very professional and has the great ability to understand challenges that people face irrelevant of their occupation. It helped me get a better understanding of my road ahead which is very exciting!
+              </blockquote>
+              <div class="author">
+                <h5>Freerk ten Hoor</h5>
+                <span>Director Europe & Head of Sales at Centtrip</span>
+              </div>
+            </figure>
+          </div>
+          <div class="column is-4">
+            <figure class="testimonial">
+              <blockquote>
+                At work and home I stepped aside to look at my behavioural patterns from a  more distant but friendly perspective, I learnt how the saboteurs work and how they are in the way of a healthy lifestyle. Also, having empathy for others and their own saboteurs made me feel much more forgiving and connected with others. 
+              </blockquote>
+              <div class="author">
+                <h5>Kati Wolfänger</h5>
+                <span>German Teacher/Careers Counsellor at International School of The Hague</span>
+              </div>
+            </figure>
+          </div>
+          <div class="column is-4">
+            <figure class="testimonial">
+              <blockquote>
+                I became aware of past patterns that weren’t serving me, and I’ve been able to completely change them. I’m now much happier with myself. I didn’t realize how much I had changed, how I was doing things that weren’t good for me. I am back to the Christy I used to be. I feel strong in myself. I feel confident. 
+              </blockquote>
+              <div class="author">
+                <h5>Christy Mathers</h5>
+                <span>Math and Science Teacher at Mont'Kiara International School</span>
+              </div>
+            </figure>
+          </div>
+        </div>
+    </div>
+  </div>
 </section>
+
+
 
 
 <section class="copy">
@@ -236,9 +247,9 @@ Develop Coaching Skills
 
 The Power of Positive Intelligence (PQ)
 
-Presentations to staff, students, and parents
-Team Building Workshop
-Improving Wellbeing and Performance - 8 week programme
+* Presentations to staff, students, and parents
+* Team Building Workshop
+* Improving Wellbeing and Performance - 8 week programme
 
 Click here for more about PQ - (link to the About page PQ section)
 
@@ -248,7 +259,7 @@ Click here for more about PQ - (link to the About page PQ section)
 
 <div class="columns">
 <div class="column is-5">
-    <img src="/images/karen/k1.jpg" alt/>
+    <img src="/images/karen/k8.jpg" alt/>
 </div>
 <div class="column is-6">
 

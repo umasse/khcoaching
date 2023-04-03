@@ -307,7 +307,9 @@ I would strongly recommend Karin as your coach in any field (you name it! Career
 <img src="/images/karen/stories/sara.png" alt/>
 
 <div class="author">
+<p>
 Yeni Lim
+</p>
 <p>
 Hanoi International School
 </p>

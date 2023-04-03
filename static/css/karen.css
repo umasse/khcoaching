@@ -46,7 +46,7 @@
 }
 
 article.story{
-    border-bottom: 2px solid #3bb18c;
+    border-bottom: 2px solid #e7e7e7;
     margin-bottom: 50px;
     padding-bottom:20px;
 }
@@ -61,7 +61,7 @@ article.story .meta{
 }
 
 article.story .meta img{
-    border: 2px solid #3bb18c;
+    border: 2px solid #999;
 }
 
 article.story .meta .author{
@@ -75,10 +75,55 @@ article.story .meta .author p{
 article.story .meta .author p:first-child{
     font-style:normal;
     font-weight: bold;
+    color:#3bb18c;
 }
 
 section.copy{
     margin-bottom: 50px;
     padding-bottom:40px;
     /* border-bottom: 2px solid #3bb18c; */
+}
+
+.content figure blockquote{
+    border-left: none;
+    text-align: left;
+    background-color: #3bb18c;
+    color:#fff;
+    font-size: 1rem;
+}
+
+.testimonial .author{
+height: auto;
+padding: 0 10px;
+}
+
+.testimonial .author h5, .testimonial .author span {
+    left: auto;
+    position: relative;
+    color: #444F60;
+    padding:0;
+}
+
+/* Home page testimonial */
+/* ============================ */
+
+.testimonial .author span{
+    line-height: 12px;
+    font-size: 12px;
+}
+
+.testimonial .author h5{
+    line-height: 1rem;
+}
+.testimonial blockquote{
+    font-size: 1rem;
+}
+.testimonial img{
+    position: relative;
+    right:0;
+    margin-bottom: 5px;
+}
+
+.none{
+    display: none;
 }
