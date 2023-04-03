@@ -4,6 +4,7 @@ sidebar: true
 sidebarlogo: fresh-white-alt
 date: 2019-08-07
 description: move your window
+include_footer: true
 tags:
 - writing
 - lorem
