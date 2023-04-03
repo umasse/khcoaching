@@ -23,7 +23,21 @@
 }
 
 .hero-body .title, .hero-body .subtitle {
-    font-family: figtree;
+    font-family: tenor;
+}
+.title-wrapper .title, .title-wrapper .subtitle{
+    font-family: tenor;
+}
+
+footer.footer-dark .footer-column .footer-header h3{
+    font-family: tenor;
+}
+.section .title, .section .subtitle{
+    font-family: tenor;
+}
+
+.content h1, .content h2, .content h3, .content h4, .content h5, .content h6{
+    font-family: tenor;
 }
 
 .post-item{

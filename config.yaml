@@ -140,7 +140,7 @@ params:
     buttonLink: "#"
   section4:
     title: Our Clients love us!
-    subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
+    subtitle:
     clients:
     - name: Marta Masse
       quote: I have never met any professional so capable of being present for their client, noticing changes in their demeanour, an eyebrow or glow in their eye.

@@ -117,7 +117,7 @@ I help leaders feel less overwhelmed and more in control so that they can grow t
 
 <section class="mb-6">
 {{% subtitle5 "Want to meet Karin?" %}}
-<a class="button cta rounded primary-btn raised" href="{{ $buttonLink }}">Lets Talk</a>
+<a class="button cta rounded primary-btn raised" href="/#contactus">Lets Talk</a>
 </section>
 
 <section class="about mb-3">
