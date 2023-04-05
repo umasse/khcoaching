@@ -233,17 +233,17 @@ _About the Coaching Framework I use: Positive Intelligence (PQ) - a mental fitne
 
 <section class="about">
   <div class="columns">
-    <div class="column is-4">
+    <div class="column is-4 feature-card is-pricing has-text-centered">
       <p>Want to know more about the four key areas that come up in GROW coaching? Join me in the free Transition as a Growth Opportunity Masterclass. </p>
-      <a href="#">Yes Please!</a>
+      <a href="#" class="button is-fullwidth primary-btn raised is-bold">Yes Please!</a>
     </div>
-    <div class="column is-4">
+    <div class="column is-4 feature-card is-pricing has-text-centered">
       <p>Want to know more how you can improve your performance, sense of calm/wellbeing and relationships using mental fitness?</p>
-      <a href="#">I am interested!</a>
+      <a href="#" class="button is-fullwidth primary-btn raised is-bold">I am interested!</a>
     </div>
-    <div class="column is-4">
+    <div class="column is-4 feature-card is-pricing has-text-centered">
       <p>Let’s meet in a Growth Chemistry Call to discuss your saboteur thought patterns and more! </p>
-      <a href="#">Sign me up!</a>
+      <a href="#" class="button is-fullwidth primary-btn raised is-bold">Sign me up!</a>
     </div>
   </div>
 </section>

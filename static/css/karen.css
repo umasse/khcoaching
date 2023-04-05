@@ -66,6 +66,45 @@ footer.footer-dark .footer-column .footer-header h3{
 }
 .section .title, .section .subtitle{
     font-family: tenor;
+    color: #3bb18c;
+}
+.section .title.najam , .section .subtitle.najam{
+    color: #363636;
+}
+
+.content.page-content img{
+    border: 2px solid #3bb18c;
+    border: 2px solid #3bb18c;
+    /* -webkit-box-shadow: 5px 5px 14px -2px #3BB18C; 
+box-shadow: 5px 5px 14px -2px #3BB18C; */
+/* -webkit-box-shadow: 2px 5px 14px -2px #133A2D; 
+box-shadow: 2px 5px 14px -2px #133A2D; */
+
+-webkit-box-shadow: 2px 5px 14px -2px #071611; 
+box-shadow: 2px 1px 14px -2px #071611;
+}
+
+
+.feature-card {
+    width: 100%;
+    background-color: #fff;
+    border-radius: 3px;
+    margin: 0 auto;
+    padding: 2.5rem;
+}
+
+.feature-card.is-pricing {
+    border: 1px solid #e3e3e3;
+    border-radius: 6px;
+    box-shadow: -1px 3px 15px #0000000f;
+    margin: 8px;
+    padding: 20px;
+    height: auto;
+    /* height: 420px; */
+}
+.feature-card.is-pricing p{
+    font-size: 20px;
+    height: 250px;
 }
 
 .content h1, .content h2, .content h3, .content h4, .content h5, .content h6{
