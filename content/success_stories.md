@@ -6,9 +6,12 @@ include_footer: true
 ---
 
 <article class="story">
+
 I experienced burnout due to a combination of personal and professional circumstances during a major international move and career change. I lost confidence in my skills and abilities, and my mind and body became ruled by fear, panic and negative self talk. 
 
+
 My main doubt about coaching with Karin was my ability to make the time and monetary commitment for it, but I discovered that my job was able to support me on both fronts. I also had a fear of failing the program, which I later discovered is not an option. The only way to fail is to just give up. The way the program is setup, the issues are literally ones that everyone has. And that the solutions are literally ones that everyone can succeed at. It’s just a matter of putting the commitment and doing them.
+
 
 The neurobiology behind PQ muscle building is fascinating! That simply activating a different part of your brain repeatedly can result in much more calm, clarity and awareness.
 
@@ -36,6 +39,7 @@ Assistant Director - International Student Transitions - Council of Internationa
 
 
 <article class="story">
+
 After years of traditional therapies, I had lost hope. Therapy was too slow for what I was going through and not fixing the immediate problems that were bringing me down and keeping me stuck. Karin came recommended, but I was hesitant, because my previous coaching experiences weren’t great. But I trusted Karin and decided it was worth trying. 
 
 My most important insight from coaching is how easy it is to actually control the negative voices once you know they are there, by just focusing on one of my senses. Who knew it was so simple!

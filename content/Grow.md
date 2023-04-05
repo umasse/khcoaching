@@ -294,6 +294,8 @@ As certified professional coach (CPC/ACC) and certified Positive Intelligence co
 
 </section>
 
+<div class="full-quote featured-quote mb-6">
+
 > Doing the PQ program has allowed me to improve my relationships with colleagues: I have become less judgmental towards myself and others by breaking down some of the invisible walls that I had build up around me after each negative and traumatic experience I had in my life. 
 <br>
 <br>
@@ -309,10 +311,9 @@ Karin is very knowledgeable and knows this program inside out: she quickly respo
 **Margarita Vallduriola**
 <br>
 _DP Subject coordinator at International School of The Hague_
+</div>
 
 
 
-
-<br>
 {{% subtitle5 "Yes, I’m very interested in the PD opportunities!" %}}
 <a class="button cta rounded primary-btn raised" href="{{ $buttonLink }}">Book Slot</a>
