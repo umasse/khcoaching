@@ -17,6 +17,34 @@
 .hero-body figure.image img {
     height: auto;
 }
+.section.section-secondary {
+    background-color: #3bb18c;
+}
+
+.navbar.is-fresh .navbar-item.is-secondary:hover{
+    color: #3bb18c !important;
+}
+.navbar.is-fresh .navbar-item.has-dropdown:hover .navbar-link {
+    color: #3bb18c !important;
+}
+.navbar.is-fresh .navbar-item.has-dropdown:hover .navbar-link:after {
+    border-color: #3bb18c !important;
+}
+
+.navbar.is-fresh .navbar-item.has-dropdown .navbar-dropdown {
+    border-top-color: #3bb18c !important;
+}
+
+.divider{
+    background: #3bb18c;
+}
+footer.footer-dark .footer-column .level-item .icon{
+    color: #3bb18c;
+}
+
+.hero-body .title, .hero-body .subtitle {
+    color: #3bb18c;
+}
 .navbar.is-fresh .navbar-brand img{
     max-height: none !important;
     height: auto;
@@ -42,6 +70,7 @@ footer.footer-dark .footer-column .footer-header h3{
 
 .content h1, .content h2, .content h3, .content h4, .content h5, .content h6{
     font-family: tenor;
+    color: #3bb18c;
 }
 
 .post-item{
@@ -126,12 +155,14 @@ padding: 0 10px;
 /* ============================ */
 
 .testimonial .author span{
-    line-height: 12px;
-    font-size: 12px;
+    line-height: 16px;
+    font-size: 13px;
+    display: inline-block;
 }
 
 .testimonial .author h5{
     line-height: 1rem;
+    margin-bottom: 5px;
 }
 .testimonial blockquote{
     font-size: 1rem;

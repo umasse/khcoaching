@@ -46,7 +46,8 @@ I help leaders feel less overwhelmed and more in control so that they can grow t
 </div>
 <div class="column is-4 is-offset-1">
 
-**Experienced**
+{{% subtitle5 "Experienced" %}}
+
 * Transitions such as multiple career changes, working internationally, parenting, serious relationship breakups, perimenopause.
 * Mental health issues: burnout, intense loneliness, food issues, insomnia
 * Coach, counsellor, teacher, trainer
@@ -57,7 +58,7 @@ I help leaders feel less overwhelmed and more in control so that they can grow t
 <div class="columns">
 <div class="column is-4 ">
 
-**Qualified:**
+{{% subtitle5 "Qualified" %}}
   * Associate Certified Coach (ACC) with the International Coaching Federation
   * Advanced Certified Professional Coach (ACA) with the International Coach Academy
   * Positive Intelligence Certified Coach
