@@ -6,11 +6,11 @@ include_footer: true
 ---
 
 <section class="copy">
-<div class="columns">
+<div class="columns is-align-items-center">
 <div class="column is-5">
     <img src="/images/karen/k1.jpg" alt/>
 </div>
-<div class="column is-6">
+<div class="column is-6 is-offset-1">
 
 {{% subtitle5 "Grow Yourself" %}}
 
@@ -23,37 +23,47 @@ Improve your sense of joy, calm and well-being.
 </div>
 </div>
 
-As a leader, it can be frustrating to feel
+<div class="card card-green">
+  <div class="card-content">
+    <div class="content">
+    <div class="grp mb-6 columns is-justify-content-space-around">
+    <div class="column is-5">
+    <p class="is-size-4 mb-0 card-green-title">As a leader, it can be frustrating to feel</p>
 
-<div class="columns">
-<div class="column is-4">
-You’re not reaching your full potential.
-</div>
+  * You’re not reaching your full potential.
+  * Your personal life is constantly on the back-burner.
+  * Your work is negatively affecting your wellbeing and relationships.
+    </div>
+    <div class="column is-5">
 
-<div class="column is-4">
-Your personal life is constantly on the back-burner.
-</div>
-
-<div class="column is-4">
-Your work is negatively affecting your wellbeing and relationships.
-</div>
-</div>
-
-This is a tough situation because you
+<p class="is-size-4 mb-0 card-green-title">This is a tough situation because you</p>
 
 * Love your job!
 * Find great purpose in promoting wellbeing and growth among others.
 * Want to make changes, but there never is enough time to even think about how, what or when.
+    </div>
+  </div>
+
+
+
+  </div>
+  </div>
+</div>
+
+
+
+
+
 
 </section>
 
 <section class="copy">
-<div class="columns">
+<div class="columns is-align-items-center">
 
 <div class="column is-5">
     <img src="/images/karen/k1.jpg" alt/>
 </div>
-<div class="column is-6">
+<div class="column is-6 is-offset-1">
 
 {{% subtitle5 "Experience the Power of Coaching" %}}
 
@@ -86,9 +96,9 @@ Inspire others so that the shared values, mission and vision are lived and felt 
 <section class="copy">
 {{% subtitle5 "Choose one of the Following Coaching Programmes" %}}
 <div class="columns">
-<div class="column is-4">
+<div class="column is-4 feature-card is-package has-text-centered">
 
-Kick-start Your Growth Programme
+<h3>Kick-start Your Growth Programme</h3>
 
 4 months
 
@@ -96,18 +106,18 @@ This programme is for leaders who are ready to grow, need a kickstart, and feel 
 
 </div>
 
-<div class="column is-4">
+<div class="column is-4  feature-card is-package has-text-centered">
 
-Outline Your Growth Strategy
+<h3>Outline Your Growth Strategy</h3>
 
 3 1:1 Coaching Sessions
 
 This mini-coaching series is for leaders who want to try coaching with me to see what it’s like, and would like to gain clarity in which areas they want to grow.
 
 </div>
-<div class="column is-4">
+<div class="column is-4  feature-card is-package has-text-centered">
 
-Transformational Growth Programme
+<h3>Transformational Growth Programme</h3>
 
 12 Months Programme
 
@@ -184,7 +194,7 @@ This programme is for leaders who are eager to grow and achieve lasting, transfo
 <div class="columns">
 <div class="column is-6">
 
-Join the Free Masterclass: 
+**Join the Free Masterclass:**
 
 Discover Positive Intelligence
 
@@ -195,7 +205,8 @@ In this workshop we’ll cover how individuals and teams can improve their perfo
 </div>
 
 <div class="column is-5">
-Join the Free Masterclass:
+
+**Join the Free Masterclass:**
 
 Transition as a Growth Opportunity
 
@@ -210,11 +221,11 @@ In this workshop, you’ll learn about 4 key areas to pay attention to while you
 
 
 <section class="copy">
-<div class="columns">
+<div class="columns is-align-items-center">
 <div class="column is-5">
     <img src="/images/karen/k1.jpg" alt/>
 </div>
-<div class="column is-6">
+<div class="column is-6 is-offset-1">
 {{% subtitle5 "Grow Your Team?" %}}
 
 Train your team in coaching skills to improve their ability to empower themselves and others to grow.
@@ -234,7 +245,7 @@ Improve the well-being, performance and relationships of your staff
 <div class="columns">
 <div class="column is-6">
 
-Develop Coaching Skills
+**Develop Coaching Skills**
 
 * Fundamentals
 * Using Coaching Models
@@ -245,25 +256,27 @@ Develop Coaching Skills
 
 <div class="column is-5">
 
-The Power of Positive Intelligence (PQ)
+**The Power of Positive Intelligence (PQ)**
 
 * Presentations to staff, students, and parents
 * Team Building Workshop
 * Improving Wellbeing and Performance - 8 week programme
 
-Click here for more about PQ - (link to the About page PQ section)
+
+<a class="button cta rounded primary-btn raised" href="/about">More about PQ</a>
 
 </div>
 </div>
 
 
-<div class="columns">
+<div class="columns is-align-items-center">
 <div class="column is-5">
     <img src="/images/karen/k8.jpg" alt/>
 </div>
-<div class="column is-6">
+<div class="column is-6 is-offset-1">
 
-As certified professional coach (CPC/ACC) and certified Positive Intelligence coach, Karin has the skills and tools to help grow your team, personally and professionally in ways they have never imagined!
+<p class="is-size-4">
+As certified professional coach (CPC/ACC) and certified Positive Intelligence coach, Karin has the skills and tools to help grow your team, personally and professionally in ways they have never imagined!</p>
 
 </div>
 </div>

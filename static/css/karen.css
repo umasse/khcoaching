@@ -73,7 +73,7 @@ footer.footer-dark .footer-column .footer-header h3{
 }
 
 .content.page-content img{
-    border: 2px solid #3bb18c;
+    /* border: 2px solid #3bb18c; */
     border: 2px solid #3bb18c;
     /* -webkit-box-shadow: 5px 5px 14px -2px #3BB18C; 
 box-shadow: 5px 5px 14px -2px #3BB18C; */
@@ -93,6 +93,25 @@ box-shadow: 2px 1px 14px -2px #071611;
     padding: 2.5rem;
 }
 
+.feature-card.is-package {
+    border: 1px solid #e3e3e3;
+    border-radius: 6px;
+    box-shadow: -1px 3px 15px #0000000f;
+    margin: 8px;
+    padding: 20px;
+    height: auto;
+
+}
+.feature-card.is-package p {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.feature-card.is-package p:last-child {
+    font-size: 16px;
+    font-weight: normal;
+}
+
 .feature-card.is-pricing {
     border: 1px solid #e3e3e3;
     border-radius: 6px;
@@ -105,6 +124,15 @@ box-shadow: 2px 1px 14px -2px #071611;
 .feature-card.is-pricing p{
     font-size: 20px;
     height: 200px;
+}
+.card.card-green{
+    background-color: #3bb18c;
+    box-shadow:  -1px 3px 15px #0000000f;
+    /* box-shadow: 2px 1px 14px -2px #071611; */
+}
+.card-green .card-green-title{
+    color:#fff;
+
 }
 
 .content h1, .content h2, .content h3, .content h4, .content h5, .content h6{
