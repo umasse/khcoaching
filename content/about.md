@@ -57,6 +57,10 @@ I help leaders feel less overwhelmed and more in control so that they can grow t
   * Positive Intelligence Certified Coach
   * Master’s degree in Counselling
   * Master’s degree in Teaching
+
+  <div class="action mt-2">
+  <a class="button cta rounded primary-btn raised" href="/#contactus">Lets Meet</a>
+  </div>
 </div>
 <div class="column is-5 is-offset-1">
     <img src="/images/karen/k9.jpg" alt/>
@@ -109,14 +113,14 @@ I help leaders feel less overwhelmed and more in control so that they can grow t
 </section>
 
 
-<section class="mb-6">
+<!-- <section class="mb-6">
 {{% subtitle5 "Want to meet Karin?" %}}
 <a class="button cta rounded primary-btn raised" href="/#contactus">Lets Talk</a>
-</section>
+</section> -->
 
 <section class="about mb-3">
 {{% title3 "About My Coaching" %}}
-<div class="columns is-align-items-center">
+<div class="columns is-align-items-center mb-5">
 <div class="column is-5">
 
 * Coaching is time and space completely dedicated to processing your thoughts and feelings with a non-judgemental, caring, thinking parter, me!
@@ -131,7 +135,7 @@ I help leaders feel less overwhelmed and more in control so that they can grow t
 </div>
 </div>
 
-_About the Coaching Framework I use: Positive Intelligence (PQ) - a mental fitness programme_
+{{% subtitle5 "About the Coaching Framework I use: Positive Intelligence (PQ) - a mental fitness programme" %}}
 
 <div class="columns is-align-items-center">
 <div class="column is-5">

@@ -7,10 +7,7 @@ include_footer: true
 
 <section class="copy">
 <div class="columns is-align-items-center">
-<div class="column is-5">
-    <img src="/images/karen/k1.jpg" alt/>
-</div>
-<div class="column is-6 is-offset-1">
+<div class="column is-6">
 
 {{% subtitle5 "Grow Yourself" %}}
 
@@ -20,6 +17,9 @@ Gain more clarity of mind and confidence to improve your focus and decision-maki
 
 Improve your sense of joy, calm and well-being.
 
+</div>
+<div class="column is-5 is-offset-1">
+    <img src="/images/karen/k1.jpg" alt/>
 </div>
 </div>
 
@@ -80,6 +80,8 @@ Inspire others so that the shared values, mission and vision are lived and felt 
 </section>
 
 <section class="copy">
+<div class="columns">
+<div class="column is-5">
 
 {{% subtitle5 "My Leadership Coaching is Right for You if you are:" %}}
 
@@ -90,6 +92,15 @@ Inspire others so that the shared values, mission and vision are lived and felt 
 * Struggling to focus on the bigger picture, your purpose, the school's vision.
 * Giving your best self to work, but lacking presence at home.
 * Missing someone with whom you can process your own thinking - it can be lonely being a leader.
+
+<p class="has-text-centered"><a class="button cta rounded primary-btn raised" href="{{ $buttonLink }}">Book Free Call</a></p>
+
+</div>
+
+<div class="column is-5 is-offset-1">
+    <img src="/images/karen/k7.jpg" alt/>
+</div>
+</div>
 
 </section>
 
@@ -130,7 +141,7 @@ This programme is for leaders who are eager to grow and achieve lasting, transfo
 </section>
 
 
-<section class="copy">
+<!-- <section class="copy">
 <div class="columns">
 <div class="column is-6">
 {{% subtitle5 "Want to know more?" %}}
@@ -141,7 +152,7 @@ This programme is for leaders who are eager to grow and achieve lasting, transfo
     <img src="/images/karen/k1.jpg" alt/>
 </div>
 </div>
-</section>
+</section> -->
 
 
   <section class="section" id="section4">

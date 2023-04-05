@@ -125,6 +125,12 @@ box-shadow: 2px 1px 14px -2px #071611;
     font-size: 20px;
     height: 200px;
 }
+
+.feature-card.is-pricing .primary-btn{
+    background-color: #3bb18c;
+    border-color: #30d5a1;
+}
+
 .card.card-green{
     background-color: #3bb18c;
     box-shadow:  -1px 3px 15px #0000000f;
@@ -133,6 +139,9 @@ box-shadow: 2px 1px 14px -2px #071611;
 .card-green .card-green-title{
     color:#fff;
 
+}
+.card.card-green ul{
+    font-size: 20px;
 }
 
 .content h1, .content h2, .content h3, .content h4, .content h5, .content h6{
