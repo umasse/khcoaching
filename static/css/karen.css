@@ -16,6 +16,11 @@
 
 .hero-body figure.image img {
     height: auto;
+        /* border: 2px solid #3bb18c; */
+        /* border: 2px solid #3bb18c; */
+        border: 2px solid #fefefe;
+        -webkit-box-shadow: 2px 5px 14px -2px #071611;
+        box-shadow: 2px 1px 14px -2px #071611;
 }
 .section.section-secondary {
     background-color: #3bb18c;
