@@ -4,26 +4,14 @@ include_footer: true
 
 ---
 
-<div class="columns">
+<div class="columns is-align-items-center">
 <div class="column is-4 ">
 
 <h1>Grow Yourself to Grow Your Vision</h1>
 
 I help leaders feel less overwhelmed and more in control so that they can grow their vision for their lives and for their institutions
 
-</div>
 
-<div class="column is-5 is-offset-1">
-    <img src="/images/karen/k10.jpg" alt/>
-</div>
-</div>
-
-
-<!-- {{< about-hero >}} -->
-
-<section class="about">
-<div class="columns">
-<div class="column is-4 ">
 {{% subtitle5 "In a nutshell, I am:" %}}
 
 * **Curious** - About the world, people, myself, how humans think, feel and behave.
@@ -31,16 +19,21 @@ I help leaders feel less overwhelmed and more in control so that they can grow t
 * **Caring** - I’m very empathetic, supporting others has always been my calling.
 * **Growth-oriented** - I love learning, and I constantly look for ways to improve and challenge myself
 * **Risk-taker** - I follow my passion despite the challenges
+
 </div>
+
 <div class="column is-5 is-offset-1">
+    <!-- <img src="/images/karen/k10.jpg" alt/> -->
     <img src="/images/karen/k12.jpg" alt/>
 </div>
 </div>
-</section>
 
-<br>
+
+<!-- {{< about-hero >}} -->
+
+
 <section class="about mb-6">
-<div class="columns">
+<div class="columns is-align-items-center">
 <div class="column is-5 ">
     <img src="/images/karen/k11.jpg" alt/>
 </div>
@@ -55,7 +48,7 @@ I help leaders feel less overwhelmed and more in control so that they can grow t
 </div>
 </div>
 
-<div class="columns">
+<div class="columns is-align-items-center">
 <div class="column is-4 ">
 
 {{% subtitle5 "Qualified" %}}
@@ -123,7 +116,7 @@ I help leaders feel less overwhelmed and more in control so that they can grow t
 
 <section class="about mb-3">
 {{% title3 "About My Coaching" %}}
-<div class="columns">
+<div class="columns is-align-items-center">
 <div class="column is-5">
 
 * Coaching is time and space completely dedicated to processing your thoughts and feelings with a non-judgemental, caring, thinking parter, me!
@@ -140,7 +133,7 @@ I help leaders feel less overwhelmed and more in control so that they can grow t
 
 _About the Coaching Framework I use: Positive Intelligence (PQ) - a mental fitness programme_
 
-<div class="columns">
+<div class="columns is-align-items-center">
 <div class="column is-5">
     <img src="/images/karen/k9.jpg" alt/>
 </div>
@@ -154,7 +147,7 @@ _About the Coaching Framework I use: Positive Intelligence (PQ) - a mental fitne
 </div>
 </div>
 
-<div class="columns">
+<div class="columns is-align-items-center">
 <div class="column is-5">
     <img src="/images/karen/k9.jpg" alt/>
 </div>
@@ -170,7 +163,7 @@ _About the Coaching Framework I use: Positive Intelligence (PQ) - a mental fitne
 </div>
 
 
-<div class="columns">
+<div class="columns is-align-items-center">
 <div class="column is-5">
     <img src="/images/karen/k9.jpg" alt/>
 </div>

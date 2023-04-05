@@ -121,6 +121,8 @@ box-shadow: 2px 1px 14px -2px #071611;
     opacity: 0.8;
 }
 
+.section.about{margin-bottom: 50px;}
+
 .post-item{
     display: flex;
     justify-content: space-between;
