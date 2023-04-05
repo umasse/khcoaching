@@ -14,7 +14,7 @@
 
 }
 
-.hero-body figure img {
+.hero-body figure.image img {
     height: auto;
 }
 .navbar.is-fresh .navbar-brand img{
