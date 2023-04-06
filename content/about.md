@@ -1,5 +1,5 @@
 ---
-title: About Karen
+title: Leadership Coach
 include_footer: true
 
 ---

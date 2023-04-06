@@ -26,6 +26,27 @@
     background-color: #3bb18c;
 }
 
+.navbar.is-fresh .navbar-item {
+    color:#303b58;
+}
+.navbar.is-fresh .navbar-item.has-dropdown .navbar-link{
+    color:#303b58;
+}
+.navbar.is-fresh .navbar-item.has-dropdown .navbar-link:after {
+    color:#303b58;
+
+}
+
+element.style {
+}
+.navbar.is-fresh .navbar-item.has-dropdown .navbar-dropdown .navbar-item {
+    padding: 10px 20px;
+}
+.navbar.is-transparent .navbar-dropdown a.navbar-item:focus, .navbar.is-transparent .navbar-dropdown a.navbar-item:hover{
+
+    color: #3bb18c !important;
+}
+
 .navbar.is-fresh .navbar-item.is-secondary:hover{
     color: #3bb18c !important;
 }
@@ -154,7 +175,7 @@ box-shadow: 2px 1px 14px -2px #071611;
 
 .content h1, .content h2, .content h3, .content h4, .content h5, .content h6{
     font-family: tenor;
-    color: #3bb18c;
+    color: #303b58;
 }
 
 .button.secondary-btn{
@@ -192,6 +213,9 @@ article.story{
     margin-bottom: 50px;
     padding-bottom:20px;
     font-size: 16px;
+}
+article.story:first-child{
+    border-bottom: 2px solid #3bb18c;
 }
 
 article.story:last-child{

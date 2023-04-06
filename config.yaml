@@ -139,7 +139,7 @@ params:
     buttonText: Get started
     buttonLink: "#"
   section4:
-    title: Our Clients love us!
+    title: 
     subtitle:
     clients:
     - name: Marta Masse

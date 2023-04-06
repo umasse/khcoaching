@@ -23,6 +23,14 @@
     {{ partial "section5.html" . }}
     {{ end }}
 
+    {{ if .Site.Params.section4 }}
+    {{ partial "section4.html" . }}
+    {{ end }}
+
+    {{ if .Site.Params.section5 }}
+    {{ partial "section5.html" . }}
+    {{ end }}
+
     {{ if .Site.Params.footer }}
     {{ partial "footer.html" . }}
     {{ end }}
