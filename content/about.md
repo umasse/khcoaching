@@ -12,7 +12,7 @@ include_footer: true
 I help leaders feel less overwhelmed and more in control so that they can grow their vision for their lives and for their institutions
 
 
-{{% subtitle5 "In a nutshell, I am:" %}}
+<h5 class="secondary h5 is-secondary">In a nutshell, I am:</h5>
 
 * **Curious** - About the world, people, myself, how humans think, feel and behave.
 * **Passionate** - About sustainability, justice and equity, diversity, coaching, education, health.
@@ -24,7 +24,7 @@ I help leaders feel less overwhelmed and more in control so that they can grow t
 
 <div class="column is-5 is-offset-1">
     <!-- <img src="/images/karen/k10.jpg" alt/> -->
-    <img src="/images/karen/k12.jpg" alt/>
+    <img src="/images/karen/k12.jpg" class="is-primary" alt/>
 </div>
 </div>
 
@@ -135,7 +135,7 @@ I help leaders feel less overwhelmed and more in control so that they can grow t
 </div>
 </div>
 
-{{% subtitle5 "About the Coaching Framework I use: Positive Intelligence (PQ) - a mental fitness programme" %}}
+{{% subtitle5 "About Positive Intelligence (PQ)" %}}
 
 <div class="columns is-align-items-center">
 <div class="column is-5">

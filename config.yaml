@@ -185,3 +185,12 @@ params:
           link: "/"
         - text: About
           link: "/about"
+      column2:
+        title: "OTHER"
+        links:
+        - text: About
+          link: /about
+        - text: Success Stories
+          link: /success_stories
+        - text: Reflections
+          link: /blog

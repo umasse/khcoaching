@@ -104,7 +104,7 @@ Inspire others so that the shared values, mission and vision are lived and felt 
 
 </section>
 
-<section class="copy">
+<!-- <section class="copy">
 {{% subtitle5 "Choose one of the Following Coaching Programmes" %}}
 <div class="columns">
 <div class="column is-4 feature-card is-package has-text-centered">
@@ -138,7 +138,7 @@ This programme is for leaders who are eager to grow and achieve lasting, transfo
 
 </div>
 
-</section>
+</section> -->
 
 
 <!-- <section class="copy">
