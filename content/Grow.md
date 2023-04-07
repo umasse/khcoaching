@@ -75,7 +75,7 @@ Inspire others so that the shared values, mission and vision are lived and felt 
 
 <section class="about checked-list mb-6">
 
-<h5 class="has-text-centered">Coaching is Right for You if You Are:</h5>
+<h5 class="">Coaching is Right for You if You Are:</h5>
 
 A high-achieving, experienced educator.
 

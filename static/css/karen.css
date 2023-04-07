@@ -138,7 +138,7 @@ section.about.checked-list p{
   /* background-color:#303b58; */
   color:#fff;
   margin:0;
-  border-bottom:1px solid #000;
+  /* border-bottom:1px solid #000; */
   padding: 15px 20px;
   font-size:1.3rem;
   line-height:1.2rem;
@@ -198,6 +198,7 @@ section.about.checked-list p{
 }
 .feature-card.is-pricing p{
     font-size: 14px;
+    text-align:left;
     /* height: 200px; */
 }
 .feature-card.is-pricing p.important{
