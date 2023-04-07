@@ -183,8 +183,6 @@ params:
           link: "/grow§"
         - text: Free Mastermind Classes
           link: "/"
-        - text: About
-          link: "/about"
       column2:
         title: "OTHER"
         links:

@@ -229,6 +229,8 @@ I help leaders feel less overwhelmed and more in control so that they can grow t
 
 <section class="about checked-list mb-6">
 
+<h5 class="">Coaching is Right for You if You Are:</h5>
+
 A high-achieving, experienced educator.
 
 Going through a stressful career or life transition.
