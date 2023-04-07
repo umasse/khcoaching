@@ -249,10 +249,10 @@ Missing someone with whom you can process your own thinking - it can be lonely b
   <section class="section" id="section4">
     <div class="container">
       <div class="content-wrapper">
-        <div class="columns is-vcentered">
+        <div class="columns is-vcentered testimonials is-secondary">
           <div class="column is-4">
             <figure class="testimonial">
-              <blockquote>
+              <blockquote >
                 Karin is very professional and has the great ability to understand challenges that people face irrelevant of their occupation. It helped me get a better understanding of my road ahead which is very exciting!
               </blockquote>
               <div class="author">
