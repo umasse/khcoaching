@@ -24,7 +24,7 @@ I help leaders feel less overwhelmed and more in control so that they can grow t
 
 <div class="column is-5 is-offset-1">
     <!-- <img src="/images/karen/k10.jpg" alt/> -->
-    <img src="/images/karen/k12.jpg" class="is-primary" alt/>
+    <img src="/images/karen/k12.jpg" class="" alt/>
 </div>
 </div>
 
