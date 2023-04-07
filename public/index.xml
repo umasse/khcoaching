@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Fresh Theme</title>
+    <title>Karen Holley</title>
     <link>http://something-fresh.org/</link>
-    <description>Recent content on Hugo Fresh Theme</description>
+    <description>Recent content on Karen Holley</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://something-fresh.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://something-fresh.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>http://something-fresh.org/blog/first/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/blog/first/</guid>
+      <description>He moved over to the window Since about that time, war had been literally continuous, though strictly speaking it had not always been the same war. For several months during his childhood there had been confused street fighting in London itself, some of which he remembered vividly.
+Inside the flat a fruity voice was reading out a list of figures which had something to do with the production of pig iron.</description>
+    </item>
+    
     <item>
       <title>AGB</title>
       <link>http://something-fresh.org/agb/</link>
@@ -16,12 +27,53 @@
     </item>
     
     <item>
-      <title>First</title>
-      <link>http://something-fresh.org/blog/first/</link>
+      <title>Another post about work</title>
+      <link>http://something-fresh.org/blog/another-post-about-work/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://something-fresh.org/blog/first/</guid>
-      <description>My super sweet first blog post!!</description>
+      <guid>http://something-fresh.org/blog/another-post-about-work/</guid>
+      <description>sadness don&amp;rsquo;t lose focus things will get better.</description>
+    </item>
+    
+    <item>
+      <title>Fourth</title>
+      <link>http://something-fresh.org/blog/fourth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/blog/fourth/</guid>
+      <description>hello friend</description>
+    </item>
+    
+    <item>
+      <title>Grow</title>
+      <link>http://something-fresh.org/grow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/grow/</guid>
+      <description>Grow Yourself Discover thoughts and feelings that are blocking you from advancing your goals and vision.
+Gain more clarity of mind and confidence to improve your focus and decision-making.
+Improve your sense of joy, calm and well-being.
+   As a leader, it can be frustrating to feel
+ You’re not reaching your full potential. Your personal life is constantly on the back-burner. Your work is negatively affecting your wellbeing and relationships.</description>
+    </item>
+    
+    <item>
+      <title>Leadership Coach</title>
+      <link>http://something-fresh.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/about/</guid>
+      <description>Grow Yourself to Grow Your Vision I help leaders feel less overwhelmed and more in control so that they can grow their vision for their lives and for their institutions
+In a nutshell, I am:  Curious - About the world, people, myself, how humans think, feel and behave. Passionate - About sustainability, justice and equity, diversity, coaching, education, health. Caring - I’m very empathetic, supporting others has always been my calling.</description>
+    </item>
+    
+    <item>
+      <title>OldGrow</title>
+      <link>http://something-fresh.org/grow_old/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/grow_old/</guid>
+      <description>You are a leader who is:  Growth-oriented, idealistic, and mission-driven. In some personal and/or professional transition. Committed to personal and professional growth, but have reached the limits of what you can do by yourself. Feeling stuck in certain areas, “busy”, reactive, stressed, or lacking direction, joy and inspiration. Struggling to focus on the bigger picture, your purpose. Giving your best self to work, but lacking presence at home. Ready to work on mental patterns and behaviours that no longer serve you and find a deep level of contentment and calm within, no matter what is going on around you.</description>
     </item>
     
     <item>
@@ -31,6 +83,16 @@
       
       <guid>http://something-fresh.org/blog/second/</guid>
       <description>My awesome blogpost My super sweet second blog post</description>
+    </item>
+    
+    <item>
+      <title>Success Stories</title>
+      <link>http://something-fresh.org/success_stories/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/success_stories/</guid>
+      <description>I experienced burnout due to a combination of personal and professional circumstances during a major international move and career change. I lost confidence in my skills and abilities, and my mind and body became ruled by fear, panic and negative self talk.
+My main doubt about coaching with Karin was my ability to make the time and monetary commitment for it, but I discovered that my job was able to support me on both fronts.</description>
     </item>
     
   </channel>

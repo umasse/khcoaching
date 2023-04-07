@@ -2,14 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://something-fresh.org/agb/</loc>
-  </url><url>
     <loc>http://something-fresh.org/blog/</loc>
+    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://something-fresh.org/blog/first/</loc>
+    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://something-fresh.org/</loc>
+    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://something-fresh.org/agb/</loc>
+  </url><url>
+    <loc>http://something-fresh.org/blog/another-post-about-work/</loc>
+  </url><url>
+    <loc>http://something-fresh.org/blog/fourth/</loc>
+  </url><url>
+    <loc>http://something-fresh.org/grow/</loc>
+  </url><url>
+    <loc>http://something-fresh.org/about/</loc>
+  </url><url>
+    <loc>http://something-fresh.org/grow_old/</loc>
   </url><url>
     <loc>http://something-fresh.org/blog/second/</loc>
+  </url><url>
+    <loc>http://something-fresh.org/success_stories/</loc>
   </url>
 </urlset>

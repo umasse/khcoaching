@@ -123,21 +123,6 @@ footer.footer-dark .footer-column .footer-header h3{
     box-shadow: 2px 1px 14px -2px #071611;
 }
 
-
-section.about.checked-list{
-  /* padding-left:10px; */
-}
-section.about.checked-list p{
-  background: #303b58 url("../images/karen/home/checkmark_green.png") 1% 50% / 30px 25px no-repeat;
-  /* background-color:#303b58; */
-  color:#fff;
-  margin:0;
-  border-bottom:1px solid #000;
-  padding: 5px 20px;
-  font-size:1.3rem;
-  padding-left:50px;
-}
-
 .feature-card {
     width: 100%;
     background-color: #fff;
@@ -172,38 +157,16 @@ section.about.checked-list p{
     margin: 8px;
     padding: 20px;
     height: auto;
-    display:flex;
-    flex-direction:column;
-    justify-content:space-between;
     /* height: 420px; */
 }
-
-.feature-card.is-pricing .info{
-  margin-bottom:40px;
-}
-
-.feature-card.is-pricing img {
-  border:none;
-  max-width:300px;
-  height:200px;
-  box-shadow:none;
-  margin-bottom:30px;
-}
 .feature-card.is-pricing p{
-    font-size: 14px;
-    /* height: 200px; */
-}
-.feature-card.is-pricing p.important{
-  font-weight:bold;
-}
-.feature-card.is-pricing p.important:first-letter{
-  font-size: 18px;
-  color:#303b58;
+    font-size: 20px;
+    height: 200px;
 }
 
 .feature-card.is-pricing .primary-btn{
-    /* background-color: #3bb18c;
-    border-color: #30d5a1; */
+    background-color: #3bb18c;
+    border-color: #30d5a1;
     cursor: pointer;
 }
 
