@@ -246,7 +246,7 @@ Missing someone with whom you can process your own thinking - it can be lonely b
 
 
 
-  <section class="section" id="section4">
+<section class="section" id="section4">
     <div class="container">
       <div class="content-wrapper">
         <div class="columns is-vcentered testimonials is-secondary">

@@ -38,11 +38,8 @@ body{
 }
 .navbar.is-fresh .navbar-item.has-dropdown .navbar-link:after {
     color:#303b58;
-
 }
 
-element.style {
-}
 .navbar.is-fresh .navbar-item.has-dropdown .navbar-dropdown .navbar-item {
     padding: 10px 20px;
 }
@@ -68,6 +65,7 @@ element.style {
 .divider{
     background: #3bb18c;
 }
+
 footer.footer-dark .footer-column .level-item .icon{
     color: #3bb18c;
 }
@@ -121,6 +119,14 @@ footer.footer-dark .footer-column .footer-header h3{
     border: 2px solid #303b58;
     -webkit-box-shadow: 2px 5px 14px -2px #071611; 
     box-shadow: 2px 1px 14px -2px #071611;
+}
+
+section.copy p.checked {
+  background:  url("../images/karen/home/checkmark_green.png") 0px 0px / 28px 20px no-repeat;
+  padding-left:35px;
+  line-height:20px;
+  margin-bottom:10px;
+  /* padding-bottom:10px; */
 }
 
 
@@ -208,18 +214,23 @@ section.about.checked-list p{
     cursor: pointer;
 }
 
-.card.card-green{
-    background-color: #3bb18c;
+.card.card-lists{
+    background-color: #303b58;
     box-shadow:  -1px 3px 15px #0000000f;
+    color:#fff;
     /* box-shadow: 2px 1px 14px -2px #071611; */
 }
-.card-green .card-green-title{
-    color:#fff;
-
+.card-lists .card-lists-title{
+    color:#3bb18c;
 }
-.card.card-green ul{
+.card.card-lists ul{
     font-size: 20px;
+    line-height:20px;
 }
+.card.card-lists ul li{
+  margin-bottom:15px;
+}
+
 .featured-quote blockquote{
     background-color: #303b58;
     color:#fff;
