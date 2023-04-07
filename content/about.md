@@ -139,7 +139,7 @@ I help leaders feel less overwhelmed and more in control so that they can grow t
 
 <div class="columns is-align-items-center">
 <div class="column is-5">
-    <img src="/images/karen/k9.jpg" alt/>
+    <img src="/images/karen/about/pq.png" alt/>
 </div>
 <div class="column is-5">
 
@@ -153,7 +153,7 @@ I help leaders feel less overwhelmed and more in control so that they can grow t
 
 <div class="columns is-align-items-center">
 <div class="column is-5">
-    <img src="/images/karen/k9.jpg" alt/>
+    <img src="/images/karen/about/pie.png" alt/>
 </div>
 <div class="column is-5">
 
@@ -169,7 +169,7 @@ I help leaders feel less overwhelmed and more in control so that they can grow t
 
 <div class="columns is-align-items-center">
 <div class="column is-5">
-    <img src="/images/karen/k9.jpg" alt/>
+    <img src="/images/karen/about/mindsetmatters.jpg" alt/>
 </div>
 <div class="column is-5">
 
@@ -227,20 +227,99 @@ I help leaders feel less overwhelmed and more in control so that they can grow t
   </div>
 </section>
 
+<section class="about checked-list mb-6">
+
+A high-achieving, experienced educator.
+
+Going through a stressful career or life transition.
+
+Committed to growth, but have reached the limits of what you can do by yourself.
+
+Feeling stuck in certain areas, “busy”, reactive, stressed, or lacking joy and inspiration.
+
+Struggling to focus on the bigger picture, your purpose, the school's vision.
+
+Giving your best self to work, but lacking presence at home.
+
+Missing someone with whom you can process your own thinking - it can be lonely being a leader.
+</section>
+
+
+
+  <section class="section" id="section4">
+    <div class="container">
+      <div class="content-wrapper">
+        <div class="columns is-vcentered">
+          <div class="column is-4">
+            <figure class="testimonial">
+              <blockquote>
+                Karin is very professional and has the great ability to understand challenges that people face irrelevant of their occupation. It helped me get a better understanding of my road ahead which is very exciting!
+              </blockquote>
+              <div class="author">
+                <h5>Freerk ten Hoor</h5>
+                <span>Director Europe & Head of Sales at Centtrip</span>
+              </div>
+            </figure>
+          </div>
+          <div class="column is-4">
+            <figure class="testimonial">
+              <blockquote>
+                At work and home I stepped aside to look at my behavioural patterns from a  more distant but friendly perspective, I learnt how the saboteurs work and how they are in the way of a healthy lifestyle. Also, having empathy for others and their own saboteurs made me feel much more forgiving and connected with others. 
+              </blockquote>
+              <div class="author">
+                <h5>Kati Wolfänger</h5>
+                <span>German Teacher/Careers Counsellor at International School of The Hague</span>
+              </div>
+            </figure>
+          </div>
+          <div class="column is-4">
+            <figure class="testimonial">
+              <blockquote>
+                I became aware of past patterns that weren’t serving me, and I’ve been able to completely change them. I’m now much happier with myself. I didn’t realize how much I had changed, how I was doing things that weren’t good for me. I am back to the Christy I used to be. I feel strong in myself. I feel confident. 
+              </blockquote>
+              <div class="author">
+                <h5>Christy Mathers</h5>
+                <span>Math and Science Teacher at Mont'Kiara International School</span>
+              </div>
+            </figure>
+          </div>
+        </div>
+    </div>
+  </div>
+</section>
+
 
 <section class="about">
   <div class="columns">
-    <div class="column is-4 feature-card is-pricing has-text-centered">
-      <p>Want to know more about the four key areas that come up in GROW coaching? Join me in the free Transition as a Growth Opportunity Masterclass. </p>
-      <a href="#" class="button is-fullwidth primary-btn raised is-bold">Yes Please!</a>
-    </div>
-    <div class="column is-4 feature-card is-pricing has-text-centered">
-      <p>Want to know more how you can improve your performance, sense of calm/wellbeing and relationships using mental fitness?</p>
-      <a href="#" class="button is-fullwidth primary-btn raised is-bold">I am interested!</a>
-    </div>
-    <div class="column is-4 feature-card is-pricing has-text-centered">
-      <p>Let’s meet in a Growth Chemistry Call to discuss your saboteur thought patterns and more! </p>
-      <a href="#" class="button is-fullwidth primary-btn raised is-bold">Sign me up!</a>
-    </div>
+
+  <div class="column is-4 feature-card is-pricing has-text-centered">
+  <div class="info">
+    <img src="/images/karen/home/one_leaf.png" class="" alt/>
+    <h4>Grow Master Class</h4>
+    <p>Learn about optimal conditions for personal growth, how we self-sabotage, and 3 mental muscles that help us grow.</p>
+  </div>
+  <a href="https://app.squarespacescheduling.com/schedule/9c387e5a?showHeader=true" target="_blank" class="button is-fullwidth primary-btn raised is-bold">Sign me up!</a>
+  </div>
+
+  <div class="column is-4 feature-card is-pricing has-text-centered">
+  <div class="info">
+  <img src="/images/karen/home/two_leaves.png" class="" alt/>
+  <h4>Grow Chemistry Call</h4>
+  <p class="important">Explore what your personal and professional vision looks like. </p>
+  <p> Decide on which <strong>first step</strong> you'll take TODAY to get there. </p>
+  </div>
+  <a href="#" class="button is-fullwidth primary-btn raised is-bold">Lets talk!</a>
+  </div>
+  
+  <div class="column is-4 feature-card is-pricing has-text-centered">
+  <div class="info">
+  <img src="/images/karen/home/team_of_leaves.png" class="" alt/>
+  <h4>Grow Your Team</h4>
+  <p>Develop fundamental coaching skills.</p>
+  <p> Improve performance, wellbeing, and team culture</p>
+  </div>
+  <a href="#" class="button is-fullwidth primary-btn raised is-bold">Book a conversation with me!</a>
+  </div>
+
   </div>
 </section>

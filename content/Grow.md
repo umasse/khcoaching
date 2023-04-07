@@ -41,7 +41,7 @@ Improve your sense of joy, calm and well-being.
 * Love your job!
 * Find great purpose in promoting wellbeing and growth among others.
 * Want to make changes, but there never is enough time to even think about how, what or when.
-    </div>
+  </div>
   </div>
 
 
