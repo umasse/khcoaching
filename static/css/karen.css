@@ -436,7 +436,7 @@ section.copy{
 section.section-imagine{
   display:block;
   color:#fff;
-  background: linear-gradient(0deg, rgb(4 4 4 / 30%), rgb(0 0 0 / 80%)), url(../images/karen/k3.jpg) top left / cover no-repeat;
+  background: linear-gradient(0deg, rgb(4 4 4 / 30%), rgb(0 0 0 / 80%)), url(../images/karen/k3.jpg) center center / cover no-repeat;
   /* background-size:cover; */
 }
 
