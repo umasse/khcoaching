@@ -158,6 +158,13 @@ params:
     title: Drop us a line or two
     subtitle: We'd love to hear from you
     buttonText: Send Message
+  section6:
+    title: Unlock your potential as a leader
+    subtitle: 
+    buttonText: Send Message
+    msg1: Feel more calm and centered
+    msg2: Gain more clarity, confidence and joy
+    msg3: Develop your authentic leadership style
   footer:
     logo: logofooter.png
     socialmediatitle: Follow Us

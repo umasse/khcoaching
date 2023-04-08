@@ -1,0 +1,36 @@
+{{- $section6   := .Site.Params.section6 }}
+{{- if eq $section6 true }}
+{{- $section6 = dict "_" "_" }}
+{{- end }}
+{{- $title      := index $section6 "title" | default ""}}
+{{- $subtitle   := index $section6 "subtitle" | default "" }}
+{{- $msg1   := index $section6 "msg1" | default "" }}
+{{- $msg2   := index $section6 "msg2" | default "" }}
+{{- $msg3   := index $section6 "msg3" | default "" }}
+{{- $action     := index $section6 "action" }}
+{{- $method     := index $section6 "method" }}
+{{- $buttonText := index $section6 "buttontext" | default "Send Message" }}
+<section class="section section-light-grey is-medium" id="contactus">
+  <div class="container">
+    <div class="has-text-centered">
+      <h4 class="title is-4 is-spaced">{{ $title }}</h4>
+      <h3 class="subtitle is-5 is-muted">{{ $subtitle }}</h3>
+      <div class="divider is-centered"></div>
+
+      <section class="mt-5">
+        <div class="columns unlock-list">
+          <div class="column is-4">
+            <p class="has-text-left">{{ $msg1}}</p>
+          </div>
+          <div class="column is-4">
+            <p class="has-text-left">{{ $msg2}}</p>
+          </div>
+          <div class="column is-4">
+            <p class="has-text-left">{{ $msg3}}</p>
+          </div>
+        </div>
+      </section>
+    </div>
+
+  </div>
+</section>
