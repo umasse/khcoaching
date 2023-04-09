@@ -24,7 +24,7 @@ In a short time I have noticed increased confidence, better productivity, identi
 My experience with Karin: Five stars all the way!
 
 <div class="meta">
-<img src="/images/karen/stories/sara.png" alt/>
+<img src="/images/karen/stories/SarahPearl.jpg" alt/>
 
 <div class="author">
 <p>Sarah Pearl</p>
@@ -33,8 +33,6 @@ Assistant Director - International Student Transitions - Council of Internationa
 </p>
 </div>
 </div>
-
-
 </article>
 
 
@@ -56,15 +54,13 @@ I am now almost completely out of my depression after about 9 months. It’s wor
 
 If you feel lost or stuck in any area of your life, here is someone that will 100% find the way to help you out. 6/5 stars
 
-Marta Masse
-
 
 
 <div class="meta">
-<img src="/images/karen/stories/sara.png" alt/>
+<img src="/images/karen/stories/marta2.jpg" alt/>
 
 <div class="author">
-<p>Sarah Pearl</p>
+<p>Marta Masse</p>
 <p> Business Development Manager, Entrepreneur and Sales Consultant</p>
 </div>
 </div>
@@ -85,7 +81,7 @@ English Teacher at Camas School District
 
 
 <div class="meta">
-<img src="/images/karen/stories/sara.png" alt/>
+<img src="/images/karen/stories/Karinna.jpg" alt/>
 
 <div class="author">
 <p>Karinna Jones-Ianello</p>
@@ -115,10 +111,8 @@ I changed my approach to job hunting in a healthier way, I had a sense of accoun
 Yesterday, I started on my new job, a job that checks boxes that I wouldn't have contemplated if it wasn't for Karin.
 
 
-
 <div class="meta">
-<img src="/images/karen/stories/sara.png" alt/>
-
+<img src="/images/karen/stories/raul.jpg" alt/>
 <div class="author">
 <p>Raul Masse</p>
 <p>
@@ -126,7 +120,6 @@ Senior Test Automation
 </p>
 </div>
 </div>
-
 </article>
 
 
@@ -145,13 +138,11 @@ I could not recommend her enough to anyone going through a transitioning situati
 
 
 <div class="meta">
-<img src="/images/karen/stories/sara.png" alt/>
+<img src="/images/karen/stories/Julia.jpg" alt/>
 
 <div class="author">
 <p>Julia Viladomiu</p>
-<p>
-Educator/Coach
-</p>
+<p>Educator/Coach</p>
 </div>
 </div>
 
@@ -181,7 +172,7 @@ I could have probably got to the place I am now, on my own, but it would have ta
 
 
 <div class="meta">
-<img src="/images/karen/stories/sara.png" alt/>
+<img src="/images/karen/stories/Christy.jpg" alt/>
 
 <div class="author">
 <p>Christy Mathers</p>
@@ -206,15 +197,12 @@ I wanted to end each session with a couple of manageable concrete steps I could 
 After our individual sessions reached a natural stopping point, I joined a Positive Intelligence pod which she led and facilitated. It was an absolutely lovely group of people, and Karin laid the groundwork for a really rewarding and supportive community!
 
 
-
 <div class="meta">
-<img src="/images/karen/stories/sara.png" alt/>
+<img src="/images/karen/stories/Nick.jpg" alt/>
 
 <div class="author">
 <p>Nicholas Miller</p>
-<p>
-Machine Learning Engineer at Adobe
-</p>
+<p>Machine Learning Engineer at Adobe</p>
 </div>
 </div>
 
@@ -235,7 +223,7 @@ Margarita Vallduriola
 
 
 <div class="meta">
-<img src="/images/karen/stories/sara.png" alt/>
+<img src="/images/karen/stories/SarahPearl.jpg" alt/>
 
 <div class="author">
 <p>Margarita Vallduriola</p>
@@ -259,7 +247,7 @@ I can only recommend this course with Karin!
 
 
 <div class="meta">
-<img src="/images/karen/stories/sara.png" alt/>
+<img src="/images/karen/stories/KatiWolfanger.jpg" alt/>
 
 <div class="author">
 <p>
@@ -287,7 +275,7 @@ I am grateful to have her in my life. I highly recommend Karin as a coach for th
 
 
 <div class="meta">
-<img src="/images/karen/stories/sara.png" alt/>
+<img src="/images/karen/stories/SarahPearl.jpg" alt/>
 
 <div class="author">
 <p>
@@ -308,7 +296,7 @@ I would strongly recommend Karin as your coach in any field (you name it! Career
 
 
 <div class="meta">
-<img src="/images/karen/stories/sara.png" alt/>
+<img src="/images/karen/stories/SarahPearl.jpg" alt/>
 
 <div class="author">
 <p>

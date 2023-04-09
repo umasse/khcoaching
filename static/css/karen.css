@@ -407,10 +407,11 @@ section.copy{
 
 .section-feeling{
   display:block;
+  padding:50px 24px;
 }
 
 .section-feeling h5{
-  font-size:18px;
+  font-size:20px;
   font-weight:bold;
 }
 
@@ -418,6 +419,7 @@ section.copy{
   background-color:#303b58;
   display:block;
   color:#fff;
+  padding:50px 24px;
 }
 .section-wonder strong{
   color:#fff;
@@ -429,7 +431,7 @@ section.copy{
 }
 
 .section-wonder h5{
-  font-size:18px;
+  font-size:20px;
   font-weight:bold;
 }
 
