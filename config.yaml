@@ -28,7 +28,7 @@ params:
     title: Grow Yourself to Grow Your Vision
     subtitle: I help leaders feel less overwhelmed and more in control so that they can grow their vision for their lives and for their institutions
     buttontext: About me
-    buttonlink: "#"
+    buttonlink: "/about"
     image: karen/k13.jpg
     clientlogos:
     - logo: systek
@@ -53,13 +53,13 @@ params:
   - title: Socials
     sublinks:
     - title: Facebook
-      url: "/"
-    - title: Twitter
-      url: "/"
-    - title: Insta
-      url: "/"
+      url: "https://www.facebook.com/Karinholleycoaching"
+    - title: Instagram
+      url: "https://www.instagram.com/karinholleycoaching/"
+    - title: Linkedin
+      url: "https://www.linkedin.com/in/karin-holley-cpc-acc-a9842235/"
   - title: Sign up
-    url: "/"
+    url: "https://app.squarespacescheduling.com/schedule/9c387e5a?showHeader=true"
     button: true
   sidebar:
     logo: fresh-square
@@ -169,16 +169,12 @@ params:
     logo: logofooter.png
     socialmediatitle: Follow Us
     socialmedia:
-    - link: https://github.com/lucperkins/github-fresh
-      icon: github
-    - link: https://dribbble.com/#
-      icon: dribbble
-    - link: https://facebook.com/#
+    - link: https://www.linkedin.com/in/karin-holley-cpc-acc-a9842235/ 
+      icon: linkedin
+    - link: https://www.facebook.com/Karinholleycoaching
       icon: facebook
-    - link: https://twitter.com/lucperkins
-      icon: twitter
-    - link: https://bitbucket.org/#
-      icon: bitbucket
+    - link: https://www.instagram.com/karinholleycoaching/
+      icon: instagram
     bulmalogo: true
     quicklinks:
       column1:
