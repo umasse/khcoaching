@@ -6,7 +6,7 @@ sidebarlogo: fresh-white-alt
 include_footer: true
 ---
 
-My daughter painted this tree when she was about 10 years old.
+<img src="/images/karen/posts/tree.jpg" class="is-pulled-left mr-5 is-3 column"> My daughter painted this tree when she was about 10 years old.
 What is unusual about it, is that she's given the root system just as much attention and space as the part of the tree most of us draw when we think of a "tree".
 
 I've been having conversations with clients and other people about what growth means for them. This has made me think even more about my own definition of growth. Years later - my daughter now 13 - I realise that she has actually visually represented, the way I see growth.

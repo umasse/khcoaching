@@ -218,12 +218,8 @@ The course is very straightforward, without no-nonsense and based on the idea th
 This program has helped me deal with stressful situations on the long run: I still apply the PQ reps in my daily routines, and they are now part of my life. Despite my extremely busy life as a full time teacher and a single mother, I have had the most easy 'come back' to school ever! 
 
 
-Margarita Vallduriola
-
-
-
 <div class="meta">
-<img src="/images/karen/stories/sarah_pearl_bw.jpg" alt/>
+<img src="/images/karen/stories/margarita_vallduriola_bw.jpg" alt/>
 
 <div class="author">
 <p>Margarita Vallduriola</p>
@@ -275,7 +271,7 @@ I am grateful to have her in my life. I highly recommend Karin as a coach for th
 
 
 <div class="meta">
-<img src="/images/karen/stories/sarah_pearl_bw.jpg" alt/>
+<img src="/images/karen/stories/valeria_iatam_bw.jpg" alt/>
 
 <div class="author">
 <p>
@@ -296,7 +292,7 @@ I would strongly recommend Karin as your coach in any field (you name it! Career
 
 
 <div class="meta">
-<img src="/images/karen/stories/sarah_pearl_bw.jpg" alt/>
+<img src="/images/karen/stories/yeni_lim_bw.jpg" alt/>
 
 <div class="author">
 <p>
