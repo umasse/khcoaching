@@ -157,8 +157,8 @@ Missing someone with whom you can process your own thinking - it can be lonely b
   <img src="/images/karen/home/two_leaves.png" class="" alt/>
   <h4>Grow Chemistry Call</h4>
   <p>Discover which saboteurs might be interfering with your goals.</p>
-  <p class="important">Explore what your personal and professional vision looks like. </p>
-  <p> Decide on which <strong>first step</strong> you'll take TODAY to get there. </p>
+  <p class="">Explore what your personal and professional vision looks like. </p>
+  <p> Decide on which first step you'll take TODAY to get there. </p>
   </div>
   <a href="#" class="button is-fullwidth primary-btn raised is-bold">Lets talk!</a>
   </div>

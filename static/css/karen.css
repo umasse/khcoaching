@@ -254,6 +254,7 @@ article.media.icon-box p.image{
 }
 .card-lists .card-lists-title{
     color:#3bb18c;
+  font-weight:bold;
 }
 .card.card-lists ul{
     font-size: 20px;
@@ -446,6 +447,7 @@ section.copy{
 .section-wonder h5{
   font-size:20px;
   font-weight:bold;
+   color: #3bb18c;
 }
 
 section.section-imagine{
