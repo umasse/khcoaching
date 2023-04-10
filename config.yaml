@@ -183,9 +183,9 @@ params:
         - text: Grow Yourself
           link: "/grow"
         - text: Grow Your Team
-          link: "/grow§"
+          link: "/grow"
         - text: Free Mastermind Classes
-          link: "/"
+          link: "/grow"
       column2:
         title: "OTHER"
         links:

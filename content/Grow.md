@@ -7,7 +7,7 @@ include_footer: true
 
 <section class="copy">
 <div class="columns is-align-items-center">
-<div class="column is-6">
+<div class="column is-5">
 
 {{% subtitle5 "Grow Yourself" %}}
 
@@ -18,7 +18,7 @@ include_footer: true
 <p class="has-text-centered">
 <a class="button cta rounded primary-btn raised" href="{{ $buttonLink }}">Book a Grow Chemistry Call</a></p>
 </div>
-<div class="column is-5 is-offset-1">
+<div class="column is-6 is-offset-1">
     <img src="/images/karen/k14.jpg" alt/>
 </div>
 </div>
