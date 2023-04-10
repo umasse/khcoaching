@@ -422,14 +422,18 @@ section.copy{
 .section-feeling{
   display:block;
   padding:50px 24px;
+  font-size:20px;
 }
 
 .section-feeling h5{
   font-size:20px;
   font-weight:bold;
+  color:#3bb18c;
+  font-family:tenor;
 }
 
 .section-wonder{
+  font-size:20px;
   background-color:#303b58;
   display:block;
   color:#fff;
@@ -451,6 +455,7 @@ section.copy{
 }
 
 section.section-imagine{
+  font-size:20px;
   display:block;
   color:#fff;
   background: linear-gradient(0deg, rgb(4 4 4 / 30%), rgb(0 0 0 / 80%)), url(../images/karen/k3.jpg) center center / cover no-repeat;
@@ -471,10 +476,10 @@ section.section-imagine div.copy{
 
 section.section-imagine div.copy p{
   margin-bottom:20px;
-  font-size:16px;
 }
 
 section.section-imagine h5{
+   color: #3bb18c;
   font-size:20px;
   font-weight:bold;
 }
@@ -524,4 +529,14 @@ section.section-imagine h5{
 .footer-contact a.button{
     text-decoration: none;
 
+}
+
+.media.icon-box .media-content .content p .icon-box-title{
+  font-weight:bold;
+  font-size:20px;
+  font-family:tenor;
+}
+.media.icon-box .media-content .content p .icon-box-text{
+  font-size:20px;
+  font-family:figtree;
 }
