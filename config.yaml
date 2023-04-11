@@ -1,5 +1,5 @@
 ---
-baseURL: http://something-fresh.org/
+baseURL: https://karinholley.com/asdlfaewjnfwewkj/
 languageCode: en-us
 title: Karin Holley
 module:
@@ -27,7 +27,7 @@ params:
     - 600
   hero:
     title: Grow Yourself to Grow Your Vision
-    subtitle: I help leaders feel less overwhelmed and more in control so that they can grow their vision for their lives and for their institutions
+    subtitle: As a coach I empower leaders to unlock their full potential and grow their vision for their lives and institutions. I provide them with the tools and support they need to facilitate mindset changes, gain more joy, clarity and confidence in order to increase their impact.
     buttontext: About me
     buttonlink: "/about"
     image: karin/k13.jpg
@@ -43,14 +43,16 @@ params:
     - logo: gutwork
       url: https://bulma.io/
   navbar:
+  - title: Home
+    url: "/"
   - title: About
     url: "/about"
   - title: Grow
     url: "/grow"
   - title: Success Stories
     url: "/success_stories"
-  - title: Reflections
-    url: "/blog"
+#  - title: Reflections
+#    url: "/blog"
   - title: Socials
     sublinks:
     - title: Facebook
@@ -168,7 +170,7 @@ params:
     msg3: Develop your authentic leadership style
   footer:
     logo: logofooter.png
-    socialmediatitle: Follow Us
+    socialmediatitle: Socials
     socialmedia:
     - link: https://www.linkedin.com/in/karin-holley-cpc-acc-a9842235/ 
       icon: linkedin
@@ -185,7 +187,7 @@ params:
           link: "/grow"
         - text: Grow Your Team
           link: "/grow"
-        - text: Free Mastermind Classes
+        - text: Free Mastermind Class
           link: "/grow"
       column2:
         title: "OTHER"
@@ -194,5 +196,5 @@ params:
           link: /about
         - text: Success Stories
           link: /success_stories
-        - text: Reflections
-          link: /blog
+#        - text: Reflections
+#          link: /blog

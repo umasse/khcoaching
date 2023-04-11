@@ -29,7 +29,7 @@ My experience with Karin: Five stars all the way!
 <div class="author">
 <p>Sarah Pearl</p>
 <p>
-Assistant Director - International Student Transitions - Council of International Schools
+Assistant Director International Student Transitions at Council of International Schools
 </p>
 </div>
 </div>
@@ -52,16 +52,14 @@ Her coaching makes you deeply think about what you are saying and become aware o
 
 I am now almost completely out of my depression after about 9 months. It’s worked way faster than therapy. I have tools for when I struggle, and I use them daily. My structure and willpower, which used to be very difficult to keep constant, have become easy. Coaching has helped me a lot with my restlessness and my ability to focus. 
 
-If you feel lost or stuck in any area of your life, here is someone that will 100% find the way to help you out. 6/5 stars
-
-
+If you feel lost or stuck in any area of your life, here is someone that will 100% find the way to help you out. 6/5 stars!
 
 <div class="meta">
 <img src="/images/karin/stories/marta_masse_bw.jpg" alt/>
 
 <div class="author">
 <p>Marta Masse</p>
-<p> Business Development Manager, Entrepreneur and Sales Consultant</p>
+<p>Business Development Manager, Entrepreneur and Sales Consultant</p>
 </div>
 </div>
 
@@ -73,13 +71,6 @@ If you feel lost or stuck in any area of your life, here is someone that will 10
 I needed a new direction in life and Karin helped me find it. Working with Karin as a coach individually and in a group setting with the PQ program, helped me see areas of my life that I was sabotaging. Because Karin in thoughtful, whip-smart, and caring, she is able to guide her clients with clarity and a sense of purpose. 
 
 I highly recommend Karin as a mental fitness coach. She will show you how to build your mental fitness in no time, but the rest is in you. 
-
-
-Karinna Jones-Ianello 
-
-English Teacher at Camas School District
-
-
 <div class="meta">
 <img src="/images/karin/stories/karinna_jones_bw.jpg" alt/>
 
@@ -116,7 +107,7 @@ Yesterday, I started on my new job, a job that checks boxes that I wouldn't have
 <div class="author">
 <p>Raul Masse</p>
 <p>
-Senior Test Automation
+Senior Test Automation Engineer at Luxhub
 </p>
 </div>
 </div>
@@ -278,7 +269,7 @@ I am grateful to have her in my life. I highly recommend Karin as a coach for th
 Valeria Iatan
 </p>
 <p>
-Mindfulness Trainer • Performance Coach
+Sales Consultant at Iglu.com
 </p>
 </dv>
 </div>
@@ -299,10 +290,7 @@ I would strongly recommend Karin as your coach in any field (you name it! Career
 Yeni Lim
 </p>
 <p>
-Hanoi International School
-</p>
-<p>
-Mindfulness Trainer • Performance Coach
+Music Teacher at Hanoi International School
 </p>
 </dv>
 </div>
@@ -313,7 +301,7 @@ Mindfulness Trainer • Performance Coach
 
 <br>
 {{% subtitle5 "Want to meet ?" %}}
-<a class="button cta rounded primary-btn raised" href="{{ $buttonLink }}">Lets Talk</a>
+<a class="button cta rounded primary-btn raised" href="{{ $buttonLink }}">Let's talk</a>
 <br>
 
 

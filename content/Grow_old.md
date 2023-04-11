@@ -49,7 +49,7 @@ Transitions, however unsettling they can be, are the perfect opportunity to grow
 
 <br>
 {{% subtitle5 "Use Your Transition to Grow and Unlock your Potential - Start today!" %}}
-<a class="button cta rounded primary-btn raised" href="{{ $buttonLink }}">Lets Talk</a>
+<a class="button cta rounded primary-btn raised" href="{{ $buttonLink }}">Let's Talk</a>
 <br>
 <br>
 
@@ -157,7 +157,7 @@ In this workshop you’ll
 
 <br>
 {{% subtitle5 "Want to know more? Book a free Grow Chemistry Call " %}}
-<a class="button cta rounded primary-btn raised" href="{{ $buttonLink }}">Lets Talk</a>
+<a class="button cta rounded primary-btn raised" href="{{ $buttonLink }}">Let's Talk</a>
 <br>
 
 

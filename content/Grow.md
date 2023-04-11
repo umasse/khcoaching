@@ -60,13 +60,13 @@ include_footer: true
 
 {{% subtitle5 "Experience the Power of Coaching" %}}
 
-Create time and space for personal and professional growth.
+Create **time and space** for personal and professional **growth**.
 
-Receive tools to manage your stress levels and gain more clarity of mind.
+Receive **tools to manage your stress** and gain more clarity of mind.
 
-Develop more confidence in yourself as a leader. 
+Develop **more confidence** in yourself as a leader. 
 
-Inspire others so that the shared values, mission and vision are lived and felt by all in the community.
+**Inspire others** so that the shared values, mission and vision are lived and felt by all in the community.
 
 </div>
 </div>
@@ -144,12 +144,12 @@ Missing someone with whom you can process your own thinking - it can be lonely b
   <div class="info">
   <img src="/images/karin/home/one_leaf.png" class="" alt/>
   <h4>Grow Master Class</h4>
-  <p>Learn about optimal conditions for personal growth, how we self-sabotage, and 3 mental muscles that help us grow.</p>
+  <p>Learn about optimal conditions for personal growth.</p>
   <p>Find out how you self-sabotage.</p>
   <p>Discover 3 mental muscles that help you handle life’s challenges with a more positive mindset.</p>
 
   </div>
-  <a href="https://app.squarespacescheduling.com/schedule/9c387e5a?showHeader=true" target="_blank" class="button is-fullwidth primary-btn raised is-bold">Sign me up!</a>
+  <a href="https://app.squarespacescheduling.com/schedule/9c387e5a?showHeader=true" target="_blank" class="button is-fullwidth primary-btn raised is-bold">Sign up</a>
   </div>
 
   <div class="column is-4 feature-card is-pricing has-text-centered">
@@ -160,7 +160,7 @@ Missing someone with whom you can process your own thinking - it can be lonely b
   <p class="">Explore what your personal and professional vision looks like. </p>
   <p> Decide on which first step you'll take TODAY to get there. </p>
   </div>
-  <a href="#" class="button is-fullwidth primary-btn raised is-bold">Lets talk!</a>
+  <a href="#" class="button is-fullwidth primary-btn raised is-bold">Let's talk</a>
   </div>
   
   <div class="column is-4 feature-card is-pricing has-text-centered">
@@ -171,7 +171,7 @@ Missing someone with whom you can process your own thinking - it can be lonely b
 <p>Build trust and a positive, collaborative working culture.</p>
 <p>Improve the well-being, performance and relationships of your staff.</p>
   </div>
-  <a href="#" class="button is-fullwidth primary-btn raised is-bold">Book a conversation with me!</a>
+  <a href="#" class="button is-fullwidth primary-btn raised is-bold">Book a conversation</a>
   </div>
 
   </div>

@@ -1,5 +1,6 @@
 ---
-title: Leadership Coach
+#title: Leadership Coach
+title: About Karin
 include_footer: true
 
 ---
@@ -9,14 +10,13 @@ include_footer: true
 
 <h1>Grow Yourself to Grow Your Vision</h1>
 
-I help leaders feel less overwhelmed and more in control so that they can grow their vision for their lives and for their institutions
-
+Leadership Coach for Educators
 
 <h5 class="secondary h5 is-secondary">In a nutshell, I am:</h5>
 
-* **Curious** - About the world, people, myself, how humans think, feel and behave.
-* **Passionate** - About sustainability, justice and equity, diversity, coaching, education, health.
-* **Caring** - I’m very empathetic, supporting others has always been my calling.
+* **Curious** - About the world, people, myself, how humans think, feel and behave
+* **Passionate** - About sustainability, justice and equity, diversity, coaching, education, health
+* **Caring** - I’m very empathetic, supporting others has always been my calling
 * **Growth-oriented** - I love learning, and I constantly look for ways to improve and challenge myself
 * **Risk-taker** - I follow my passion despite the challenges
 
@@ -41,9 +41,9 @@ I help leaders feel less overwhelmed and more in control so that they can grow t
 
 {{% subtitle5 "Experienced" %}}
 
-* Transitions such as multiple career changes, working internationally, parenting, serious relationship breakups, perimenopause.
-* Mental health issues: burnout, intense loneliness, food issues, insomnia
-* Coach, counsellor, teacher, trainer
+* **Transitions** such as multiple career changes, working internationally, parenting, serious relationship breakups, perimenopause
+* **Mental health issues:** burnout, intense loneliness, food issues, insomnia
+* **Coach, Trainer,** Counsellor, Teacher
 
 </div>
 </div>
@@ -52,14 +52,14 @@ I help leaders feel less overwhelmed and more in control so that they can grow t
 <div class="column is-4 ">
 
 {{% subtitle5 "Qualified" %}}
-  * Associate Certified Coach (ACC) with the International Coaching Federation
-  * Advanced Certified Professional Coach (ACA) with the International Coach Academy
-  * Positive Intelligence Certified Coach
+  * **Associate Certified Coach (ACC)** with the International Coaching Federation
+  * **Advanced Certified Professional Coach (ACA)** with the International Coach Academy
+  * **Positive Intelligence Certified Coach**
   * Master’s degree in Counselling
   * Master’s degree in Teaching
 
   <div class="action mt-2">
-  <a class="button cta rounded primary-btn raised" href="/#contactus">Lets Meet</a>
+  <a class="button cta rounded primary-btn raised" href="/#contactus">Let's Meet</a>
   </div>
 </div>
 <div class="column is-5 is-offset-1">
@@ -115,7 +115,7 @@ I help leaders feel less overwhelmed and more in control so that they can grow t
 
 <!-- <section class="mb-6">
 {{% subtitle5 "Want to meet Karin?" %}}
-<a class="button cta rounded primary-btn raised" href="/#contactus">Lets Talk</a>
+<a class="button cta rounded primary-btn raised" href="/#contactus">Let's Talk</a>
 </section> -->
 
 <section class="about mb-3">
@@ -123,10 +123,10 @@ I help leaders feel less overwhelmed and more in control so that they can grow t
 <div class="columns is-align-items-center mb-5">
 <div class="column is-5">
 
-* Coaching is time and space completely dedicated to processing your thoughts and feelings with a non-judgemental, caring, thinking parter, me!
-* We challenge beliefs, “truths”, and come up with different perspectives so that you come up with your own insights, action steps and solutions.
-* Coaching saves you time and energy in the long run - it cuts down on the ruminations, the indecisiveness, you improve your clarity of mind, focus, and confidence in decision-making.
-* My coaching helps you GROW personally and professionally.
+* **Coaching is time and space dedicated to processing your thoughts** and feelings with a non-judgemental, caring, thinking parter: me!
+* **We challenge beliefs** and discover different perspectives, so that you come up with **your own insights**, action steps and solutions.
+* **Coaching saves you time and energy** in the long run - it reduces ruminations and indecisiveness while improving your clarity of mind and confidence in decision-making.
+* My coaching helps you **grow personally and professionally**.
 
 </div>
 
@@ -143,11 +143,11 @@ I help leaders feel less overwhelmed and more in control so that they can grow t
 </div>
 <div class="column is-5">
 
-{{% subtitle5 "PQ will:" %}}
+{{% subtitle5 "PQ will" %}}
 
-* Drastically accelerate your awareness of your negative mental habits (saboteurs).
-* Give you the tools to pause and choose more positive responses to challenging situations.
-* Allow you to feel calmer and more grounded throughout your day.
+* Drastically accelerate your **awareness of negative mental habits (saboteurs)**.
+* Give you the tools to pause and **choose more positive responses** to challenging situations.
+* Allow you to **feel calmer** and more grounded throughout your day.
 </div>
 </div>
 
@@ -157,12 +157,12 @@ I help leaders feel less overwhelmed and more in control so that they can grow t
 </div>
 <div class="column is-5">
 
-{{% subtitle5 "PQ is" %}}
+{{% subtitle5 "PQ" %}}
 
-* Research-based mental fitness program developed by University of Stanford professor Shirzad Chamine.
-* Has included more than a million participants from around the globe.
-* Synthesizes recent discoveries across neuroscience, positive psychology, cognitive behavioural psychology, and performance science
-* A simple yet incredibly powerful tool and framework.
+* Is a **research-based mental fitness program** developed by University of Stanford professor Shirzad Chamine.
+* Has included more than half a million participants from around the globe.
+* Synthesizes recent discoveries across neuroscience, positive psychology, cognitive behavioural psychology, and performance science.
+* Is a **simple yet incredibly powerful tool and framework**.
 </div>
 </div>
 
@@ -174,10 +174,11 @@ I help leaders feel less overwhelmed and more in control so that they can grow t
 <div class="column is-5">
 
 
-{{% subtitle5 "PQ in combination with Karin’s individual and group coaching provides lasting results" %}}
+{{% subtitle5 "PQ combined with Karin’s coaching creates lasting results" %}}
 
 * Peak performance
-* Peace of mind/wellbeing
+* Peace of mind
+* Wellbeing
 * Healthy relationships
 
 </div>
@@ -236,7 +237,7 @@ I help leaders feel less overwhelmed and more in control so that they can grow t
     <h4>Grow Master Class</h4>
     <p>Learn about optimal conditions for personal growth, how we self-sabotage, and 3 mental muscles that help us grow.</p>
   </div>
-  <a href="https://app.squarespacescheduling.com/schedule/9c387e5a?showHeader=true" target="_blank" class="button is-fullwidth primary-btn raised is-bold">Sign me up!</a>
+  <a href="https://app.squarespacescheduling.com/schedule/9c387e5a?showHeader=true" target="_blank" class="button is-fullwidth primary-btn raised is-bold">Sign up</a>
   </div>
 
   <div class="column is-4 feature-card is-pricing has-text-centered">
@@ -246,7 +247,7 @@ I help leaders feel less overwhelmed and more in control so that they can grow t
   <p class="">Explore what your personal and professional vision looks like. </p>
   <p> Decide on which first step you'll take TODAY to get there. </p>
   </div>
-  <a href="#" class="button is-fullwidth primary-btn raised is-bold">Lets talk!</a>
+  <a href="#" class="button is-fullwidth primary-btn raised is-bold">Let's talk</a>
   </div>
   
   <div class="column is-4 feature-card is-pricing has-text-centered">
@@ -256,7 +257,7 @@ I help leaders feel less overwhelmed and more in control so that they can grow t
   <p>Develop fundamental coaching skills.</p>
   <p> Improve performance, wellbeing, and team culture</p>
   </div>
-  <a href="#" class="button is-fullwidth primary-btn raised is-bold">Book a conversation with me!</a>
+  <a href="#" class="button is-fullwidth primary-btn raised is-bold">Book a conversation</a>
   </div>
 
   </div>
