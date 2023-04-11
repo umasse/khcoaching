@@ -14,7 +14,7 @@ As a third culture kid - now adult - my survival strategy was to adapt. Adapt to
 
 But now, after having left the familiar comfort zone of teaching and counselling, I'm having to come up with a new "survival" mechanism. It's no longer about blending in, and not really about surviving, but about thriving. It's about finding my voice as a coach, being authentic to who I am, my style, my passion, my purpose. It's a bit like having a blank canvas and thinking about which colors are MINE. Not the colors I need to blend in to my surroundings anymore.
 
-<img src="/images/karen/posts/karen.jpg" class="is-pulled-left mr-5 is-3 column">I feel like a chameleon who's gone from green camouflage to daring to show my bright colours and spots.
+<img src="/images/karin/posts/karin.jpg" class="is-pulled-left mr-5 is-3 column">I feel like a chameleon who's gone from green camouflage to daring to show my bright colours and spots.
 
 So yesterday, I went shopping and bought the brightest, most colourful blazer ever. I hadn't picked it out myself. The sales woman handed it to me and said I should try it. I thought, really?? This? Definitely not my usual style, but ok. I put it on and ... I felt so HAPPY! It made me feel playful and powerful at the same time.
 

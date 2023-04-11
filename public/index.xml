@@ -1,20 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Karen Holley</title>
+    <title>Karin Holley</title>
     <link>http://something-fresh.org/</link>
-    <description>Recent content on Karen Holley</description>
+    <description>Recent content on Karin Holley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://something-fresh.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://something-fresh.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First</title>
+      <title>Second Article</title>
+      <link>http://something-fresh.org/blog/second/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/blog/second/</guid>
+      <description>My daughter painted this tree when she was about 10 years old. What is unusual about it, is that she&amp;rsquo;s given the root system just as much attention and space as the part of the tree most of us draw when we think of a &amp;ldquo;tree&amp;rdquo;.
+I&amp;rsquo;ve been having conversations with clients and other people about what growth means for them. This has made me think even more about my own definition of growth.</description>
+    </item>
+    
+    <item>
+      <title>Article 1</title>
       <link>http://something-fresh.org/blog/first/</link>
-      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>http://something-fresh.org/blog/first/</guid>
-      <description>He moved over to the window Since about that time, war had been literally continuous, though strictly speaking it had not always been the same war. For several months during his childhood there had been confused street fighting in London itself, some of which he remembered vividly.
-Inside the flat a fruity voice was reading out a list of figures which had something to do with the production of pig iron.</description>
+      <description>As a third culture kid - now adult - my survival strategy was to adapt. Adapt to the local surroundings, blend in, do as the Romans do. The &amp;ldquo;chameleon&amp;rdquo; strategy. It has served me well.
+But now, after having left the familiar comfort zone of teaching and counselling, I&amp;rsquo;m having to come up with a new &amp;ldquo;survival&amp;rdquo; mechanism. It&amp;rsquo;s no longer about blending in, and not really about surviving, but about thriving.</description>
     </item>
     
     <item>
@@ -50,11 +60,13 @@ Inside the flat a fruity voice was reading out a list of figures which had somet
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://something-fresh.org/grow/</guid>
-      <description>Grow Yourself Discover thoughts and feelings that are blocking you from advancing your goals and vision.
+      <description>Grow Yourself Discover mental patterns that are blocking you from advancing your goals and vision.
 Gain more clarity of mind and confidence to improve your focus and decision-making.
 Improve your sense of joy, calm and well-being.
-   As a leader, it can be frustrating to feel
- You’re not reaching your full potential. Your personal life is constantly on the back-burner. Your work is negatively affecting your wellbeing and relationships.</description>
+Explore what your vision looks like and decide on which first step you&#39;ll take TODAY to get there.
+Book a Grow Chemistry Call
+As a leader, it can be frustrating to feel
+You’re not reaching your full potential.</description>
     </item>
     
     <item>
@@ -64,7 +76,7 @@ Improve your sense of joy, calm and well-being.
       
       <guid>http://something-fresh.org/about/</guid>
       <description>Grow Yourself to Grow Your Vision I help leaders feel less overwhelmed and more in control so that they can grow their vision for their lives and for their institutions
-In a nutshell, I am:  Curious - About the world, people, myself, how humans think, feel and behave. Passionate - About sustainability, justice and equity, diversity, coaching, education, health. Caring - I’m very empathetic, supporting others has always been my calling.</description>
+In a nutshell, I am: Curious - About the world, people, myself, how humans think, feel and behave. Passionate - About sustainability, justice and equity, diversity, coaching, education, health. Caring - I’m very empathetic, supporting others has always been my calling.</description>
     </item>
     
     <item>
@@ -73,16 +85,7 @@ In a nutshell, I am:  Curious - About the world, people, myself, how humans thin
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://something-fresh.org/grow_old/</guid>
-      <description>You are a leader who is:  Growth-oriented, idealistic, and mission-driven. In some personal and/or professional transition. Committed to personal and professional growth, but have reached the limits of what you can do by yourself. Feeling stuck in certain areas, “busy”, reactive, stressed, or lacking direction, joy and inspiration. Struggling to focus on the bigger picture, your purpose. Giving your best self to work, but lacking presence at home. Ready to work on mental patterns and behaviours that no longer serve you and find a deep level of contentment and calm within, no matter what is going on around you.</description>
-    </item>
-    
-    <item>
-      <title>Second</title>
-      <link>http://something-fresh.org/blog/second/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://something-fresh.org/blog/second/</guid>
-      <description>My awesome blogpost My super sweet second blog post</description>
+      <description>You are a leader who is: Growth-oriented, idealistic, and mission-driven. In some personal and/or professional transition. Committed to personal and professional growth, but have reached the limits of what you can do by yourself. Feeling stuck in certain areas, “busy”, reactive, stressed, or lacking direction, joy and inspiration. Struggling to focus on the bigger picture, your purpose. Giving your best self to work, but lacking presence at home. Ready to work on mental patterns and behaviours that no longer serve you and find a deep level of contentment and calm within, no matter what is going on around you.</description>
     </item>
     
     <item>

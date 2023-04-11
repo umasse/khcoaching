@@ -19,7 +19,7 @@ include_footer: true
 <a class="button cta rounded primary-btn raised" href="{{ $buttonLink }}">Book a Grow Chemistry Call</a></p>
 </div>
 <div class="column is-6 is-offset-1">
-    <img src="/images/karen/k14.jpg" alt/>
+    <img src="/images/karin/k14.jpg" alt/>
 </div>
 </div>
 
@@ -54,7 +54,7 @@ include_footer: true
 <div class="columns is-align-items-center">
 
 <div class="column is-5">
-    <img src="/images/karen/k7.jpg" alt/>
+    <img src="/images/karin/k7.jpg" alt/>
 </div>
 <div class="column is-6 is-offset-1">
 
@@ -142,7 +142,7 @@ Missing someone with whom you can process your own thinking - it can be lonely b
 
   <div class="column is-4 feature-card is-pricing has-text-centered">
   <div class="info">
-  <img src="/images/karen/home/one_leaf.png" class="" alt/>
+  <img src="/images/karin/home/one_leaf.png" class="" alt/>
   <h4>Grow Master Class</h4>
   <p>Learn about optimal conditions for personal growth, how we self-sabotage, and 3 mental muscles that help us grow.</p>
   <p>Find out how you self-sabotage.</p>
@@ -154,7 +154,7 @@ Missing someone with whom you can process your own thinking - it can be lonely b
 
   <div class="column is-4 feature-card is-pricing has-text-centered">
   <div class="info">
-  <img src="/images/karen/home/two_leaves.png" class="" alt/>
+  <img src="/images/karin/home/two_leaves.png" class="" alt/>
   <h4>Grow Chemistry Call</h4>
   <p>Discover which saboteurs might be interfering with your goals.</p>
   <p class="">Explore what your personal and professional vision looks like. </p>
@@ -165,7 +165,7 @@ Missing someone with whom you can process your own thinking - it can be lonely b
   
   <div class="column is-4 feature-card is-pricing has-text-centered">
   <div class="info">
-  <img src="/images/karen/home/team_of_leaves.png" class="" alt/>
+  <img src="/images/karin/home/team_of_leaves.png" class="" alt/>
   <h4>Grow Your Team</h4>
 <p>Train your team in coaching skills to improve their ability to empower themselves and others to grow.</p>
 <p>Build trust and a positive, collaborative working culture.</p>

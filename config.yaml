@@ -1,7 +1,7 @@
 ---
 baseURL: http://something-fresh.org/
 languageCode: en-us
-title: Karen Holley
+title: Karin Holley
 module:
   imports:
     path: github.com/StefMa/hugo-fresh
@@ -29,7 +29,7 @@ params:
     subtitle: I help leaders feel less overwhelmed and more in control so that they can grow their vision for their lives and for their institutions
     buttontext: About me
     buttonlink: "/about"
-    image: karen/k13.jpg
+    image: karin/k13.jpg
     clientlogos:
     - logo: systek
       url: https://google.com

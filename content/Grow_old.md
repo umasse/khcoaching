@@ -27,7 +27,7 @@ _Senior Test Automation_
 
 <div class="columns">
 <div class="column is-5">
-    <img src="/images/karen/k1.jpg" alt/>
+    <img src="/images/karin/k1.jpg" alt/>
 </div>
 <div class="column is-4 is-offset-1">
 
@@ -79,7 +79,7 @@ With mental fitness training (link to Positive Intelligence section) and a safe,
 </div>
 
 <div class="column is-4 is-offset-1">
-    <img src="/images/karen/k1.jpg" alt/>
+    <img src="/images/karin/k1.jpg" alt/>
 </div>
 
 </div>

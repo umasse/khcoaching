@@ -23,8 +23,8 @@ I help leaders feel less overwhelmed and more in control so that they can grow t
 </div>
 
 <div class="column is-5 is-offset-1">
-    <!-- <img src="/images/karen/k10.jpg" alt/> -->
-    <img src="/images/karen/k12.jpg" class="" alt/>
+    <!-- <img src="/images/karin/k10.jpg" alt/> -->
+    <img src="/images/karin/k12.jpg" class="" alt/>
 </div>
 </div>
 
@@ -35,7 +35,7 @@ I help leaders feel less overwhelmed and more in control so that they can grow t
 <section class="about mb-6">
 <div class="columns is-align-items-center">
 <div class="column is-5 ">
-    <img src="/images/karen/k11.jpg" alt/>
+    <img src="/images/karin/k11.jpg" alt/>
 </div>
 <div class="column is-4 is-offset-1">
 
@@ -63,7 +63,7 @@ I help leaders feel less overwhelmed and more in control so that they can grow t
   </div>
 </div>
 <div class="column is-5 is-offset-1">
-    <img src="/images/karen/k9.jpg" alt/>
+    <img src="/images/karin/k9.jpg" alt/>
 </div>
 </div>
 
@@ -131,7 +131,7 @@ I help leaders feel less overwhelmed and more in control so that they can grow t
 </div>
 
 <div class="column is-5 is-offset-1">
-    <img src="/images/karen/k7.jpg" alt/>
+    <img src="/images/karin/k7.jpg" alt/>
 </div>
 </div>
 
@@ -139,7 +139,7 @@ I help leaders feel less overwhelmed and more in control so that they can grow t
 
 <div class="columns is-align-items-center">
 <div class="column is-5">
-    <img src="/images/karen/about/pq.png" alt/>
+    <img src="/images/karin/about/pq.png" alt/>
 </div>
 <div class="column is-5">
 
@@ -153,7 +153,7 @@ I help leaders feel less overwhelmed and more in control so that they can grow t
 
 <div class="columns is-align-items-center">
 <div class="column is-5">
-    <img src="/images/karen/about/pie.png" alt/>
+    <img src="/images/karin/about/pie.png" alt/>
 </div>
 <div class="column is-5">
 
@@ -169,7 +169,7 @@ I help leaders feel less overwhelmed and more in control so that they can grow t
 
 <div class="columns is-align-items-center">
 <div class="column is-5">
-    <img src="/images/karen/about/mindsetmatters.jpg" alt/>
+    <img src="/images/karin/about/mindsetmatters.jpg" alt/>
 </div>
 <div class="column is-5">
 
@@ -232,7 +232,7 @@ I help leaders feel less overwhelmed and more in control so that they can grow t
 
   <div class="column is-4 feature-card is-pricing has-text-centered">
   <div class="info">
-    <img src="/images/karen/home/one_leaf.png" class="" alt/>
+    <img src="/images/karin/home/one_leaf.png" class="" alt/>
     <h4>Grow Master Class</h4>
     <p>Learn about optimal conditions for personal growth, how we self-sabotage, and 3 mental muscles that help us grow.</p>
   </div>
@@ -241,7 +241,7 @@ I help leaders feel less overwhelmed and more in control so that they can grow t
 
   <div class="column is-4 feature-card is-pricing has-text-centered">
   <div class="info">
-  <img src="/images/karen/home/two_leaves.png" class="" alt/>
+  <img src="/images/karin/home/two_leaves.png" class="" alt/>
   <h4>Grow Chemistry Call</h4>
   <p class="">Explore what your personal and professional vision looks like. </p>
   <p> Decide on which first step you'll take TODAY to get there. </p>
@@ -251,7 +251,7 @@ I help leaders feel less overwhelmed and more in control so that they can grow t
   
   <div class="column is-4 feature-card is-pricing has-text-centered">
   <div class="info">
-  <img src="/images/karen/home/team_of_leaves.png" class="" alt/>
+  <img src="/images/karin/home/team_of_leaves.png" class="" alt/>
   <h4>Grow Your Team</h4>
   <p>Develop fundamental coaching skills.</p>
   <p> Improve performance, wellbeing, and team culture</p>

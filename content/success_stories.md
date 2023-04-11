@@ -24,7 +24,7 @@ In a short time I have noticed increased confidence, better productivity, identi
 My experience with Karin: Five stars all the way!
 
 <div class="meta">
-<img src="/images/karen/stories/sarah_pearl_bw.jpg" alt/>
+<img src="/images/karin/stories/sarah_pearl_bw.jpg" alt/>
 
 <div class="author">
 <p>Sarah Pearl</p>
@@ -57,7 +57,7 @@ If you feel lost or stuck in any area of your life, here is someone that will 10
 
 
 <div class="meta">
-<img src="/images/karen/stories/marta_masse_bw.jpg" alt/>
+<img src="/images/karin/stories/marta_masse_bw.jpg" alt/>
 
 <div class="author">
 <p>Marta Masse</p>
@@ -81,7 +81,7 @@ English Teacher at Camas School District
 
 
 <div class="meta">
-<img src="/images/karen/stories/karinna_jones_bw.jpg" alt/>
+<img src="/images/karin/stories/karinna_jones_bw.jpg" alt/>
 
 <div class="author">
 <p>Karinna Jones-Ianello</p>
@@ -112,7 +112,7 @@ Yesterday, I started on my new job, a job that checks boxes that I wouldn't have
 
 
 <div class="meta">
-<img src="/images/karen/stories/raul_masse_bw.jpg" alt/>
+<img src="/images/karin/stories/raul_masse_bw.jpg" alt/>
 <div class="author">
 <p>Raul Masse</p>
 <p>
@@ -138,7 +138,7 @@ I could not recommend her enough to anyone going through a transitioning situati
 
 
 <div class="meta">
-<img src="/images/karen/stories/julia_viladomiu_bw.jpg" alt/>
+<img src="/images/karin/stories/julia_viladomiu_bw.jpg" alt/>
 
 <div class="author">
 <p>Julia Viladomiu</p>
@@ -172,7 +172,7 @@ I could have probably got to the place I am now, on my own, but it would have ta
 
 
 <div class="meta">
-<img src="/images/karen/stories/christy_mathers_bw.jpg" alt/>
+<img src="/images/karin/stories/christy_mathers_bw.jpg" alt/>
 
 <div class="author">
 <p>Christy Mathers</p>
@@ -198,7 +198,7 @@ After our individual sessions reached a natural stopping point, I joined a Posit
 
 
 <div class="meta">
-<img src="/images/karen/stories/nick_miller_bw.jpg" alt/>
+<img src="/images/karin/stories/nick_miller_bw.jpg" alt/>
 
 <div class="author">
 <p>Nicholas Miller</p>
@@ -219,7 +219,7 @@ This program has helped me deal with stressful situations on the long run: I sti
 
 
 <div class="meta">
-<img src="/images/karen/stories/margarita_vallduriola_bw.jpg" alt/>
+<img src="/images/karin/stories/margarita_vallduriola_bw.jpg" alt/>
 
 <div class="author">
 <p>Margarita Vallduriola</p>
@@ -243,7 +243,7 @@ I can only recommend this course with Karin!
 
 
 <div class="meta">
-<img src="/images/karen/stories/kati_wolfanger_bw.jpg" alt/>
+<img src="/images/karin/stories/kati_wolfanger_bw.jpg" alt/>
 
 <div class="author">
 <p>
@@ -271,7 +271,7 @@ I am grateful to have her in my life. I highly recommend Karin as a coach for th
 
 
 <div class="meta">
-<img src="/images/karen/stories/valeria_iatam_bw.jpg" alt/>
+<img src="/images/karin/stories/valeria_iatam_bw.jpg" alt/>
 
 <div class="author">
 <p>
@@ -292,7 +292,7 @@ I would strongly recommend Karin as your coach in any field (you name it! Career
 
 
 <div class="meta">
-<img src="/images/karen/stories/yeni_lim_bw.jpg" alt/>
+<img src="/images/karin/stories/yeni_lim_bw.jpg" alt/>
 
 <div class="author">
 <p>

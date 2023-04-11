@@ -126,7 +126,7 @@ footer.footer-dark .footer-column .footer-header h3{
 }
 
 section.copy p.checked {
-  background:  url("../images/karen/home/checkmark_green.png") 0px 0px / 28px 20px no-repeat;
+  background:  url("../images/karin/home/checkmark_green.png") 0px 0px / 28px 20px no-repeat;
   padding-left:35px;
   line-height:22px;
   margin-bottom:15px;
@@ -135,12 +135,12 @@ section.copy p.checked {
 
 section .unlock-list {}
 section .unlock-list div.column {
-  /* background: #303b58 url("../images/karen/home/checkmark_green.png") 1% 50% / 30px 25px no-repeat; */
+  /* background: #303b58 url("../images/karin/home/checkmark_green.png") 1% 50% / 30px 25px no-repeat; */
   display:flex;
 
 }
 section .unlock-list p{
-  background: #303b58 url("../images/karen/home/checkmark_green.png") 2% 50% / 30px 25px no-repeat;
+  background: #303b58 url("../images/karin/home/checkmark_green.png") 2% 50% / 30px 25px no-repeat;
   padding-left:50px;
   padding-right:20px;
   color:#fff;
@@ -160,7 +160,7 @@ section.about.checked-list h5{
 }
 
 section.about.checked-list p{
-  background: #303b58 url("../images/karen/home/checkmark_green.png") 1% 50% / 30px 25px no-repeat;
+  background: #303b58 url("../images/karin/home/checkmark_green.png") 1% 50% / 30px 25px no-repeat;
   /* background-color:#303b58; */
   color:#fff;
   margin:0;
@@ -458,14 +458,14 @@ section.section-imagine{
   font-size:20px;
   display:block;
   color:#fff;
-  background: linear-gradient(0deg, rgb(4 4 4 / 30%), rgb(0 0 0 / 80%)), url(../images/karen/k3.jpg) center center / cover no-repeat;
+  background: linear-gradient(0deg, rgb(4 4 4 / 30%), rgb(0 0 0 / 80%)), url(../images/karin/k3.jpg) center center / cover no-repeat;
   /* background-size:cover; */
 }
 
 
 section.section-imagine .container{
   overflow:hidden;
-  /* background: linear-gradient(0deg, rgb(4 4 4 / 30%), rgb(0 0 0 / 80%)), url(../images/karen/k3.jpg) top left / cover no-repeat; */
+  /* background: linear-gradient(0deg, rgb(4 4 4 / 30%), rgb(0 0 0 / 80%)), url(../images/karin/k3.jpg) top left / cover no-repeat; */
   min-height:500px;
 }
 section.section-imagine div.copy{
