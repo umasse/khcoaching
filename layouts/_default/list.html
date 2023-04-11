@@ -11,6 +11,7 @@
       <div class="column is-centered-tablet-portrait">
         <h1 class="title section-title najam">{{ .Title }}</h1>
         <div class="divider"></div>
+        <div class="content">{{ .Content }}</div>
       </div>
     </div>
 
@@ -21,15 +22,14 @@
               {{if not .Date.IsZero}}
               <time class="pull-right hidden-tablet">{{ .Date.Format (.Site.Params.dateformat | default "Jan 02 '06") }}</time>
               {{end}}
-            <!-- <p>{{ .Summary }}</p> -->
         </div>
-        
-
+        <div class="post-item">{{ .Summary }}</div>
+        <div class="post-item"><a href="{{ .RelPermalink }}"  {{if .Draft}}class="draft"{{end}}>Read more...</a><br><br></div>
         {{ end }}
 
     </div>
   </div>
 </section>
 
-    {{ partial "footer.html" . }}
+{{ partial "footer.html" . }}
 {{ end }}
