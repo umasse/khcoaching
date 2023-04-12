@@ -458,7 +458,7 @@ section.section-imagine{
   font-size:20px;
   display:block;
   color:#fff;
-  background: linear-gradient(0deg, rgb(4 4 4 / 30%), rgb(0 0 0 / 80%)), url(../images/karin/k3.jpg) center center / cover no-repeat;
+  background: linear-gradient(0deg, rgb(4 4 4 / 30%), rgb(0 0 0 / 80%)), url(../images/karin/k4flipped.jpg) center center / cover no-repeat;
   /* background-size:cover; */
 }
 
@@ -483,6 +483,11 @@ section.section-imagine h5{
   font-size:20px;
   font-weight:bold;
 }
+
+.section-imagine strong{
+    color:#fff;
+  }
+  
 
 /* Home page testimonial */
 /* ============================ */

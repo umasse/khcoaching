@@ -2,30 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://something-fresh.org/blog/</loc>
+    <loc>https://karinholley.com/asdlfaewjnfwewkj/</loc>
     <lastmod>2023-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://something-fresh.org/</loc>
+    <loc>https://karinholley.com/asdlfaewjnfwewkj/blog/second/</loc>
     <lastmod>2023-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://something-fresh.org/blog/second/</loc>
-    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://something-fresh.org/blog/first/</loc>
+    <loc>https://karinholley.com/asdlfaewjnfwewkj/blog/first/</loc>
     <lastmod>2023-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://something-fresh.org/agb/</loc>
+    <loc>https://karinholley.com/asdlfaewjnfwewkj/tags/lorem/</loc>
+    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://something-fresh.org/blog/another-post-about-work/</loc>
+    <loc>https://karinholley.com/asdlfaewjnfwewkj/tags/</loc>
+    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://something-fresh.org/blog/fourth/</loc>
+    <loc>https://karinholley.com/asdlfaewjnfwewkj/tags/writing/</loc>
+    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://something-fresh.org/grow/</loc>
+    <loc>https://karinholley.com/asdlfaewjnfwewkj/blog/</loc>
+    <lastmod>2017-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://something-fresh.org/about/</loc>
+    <loc>https://karinholley.com/asdlfaewjnfwewkj/about/</loc>
   </url><url>
-    <loc>http://something-fresh.org/grow_old/</loc>
+    <loc>https://karinholley.com/asdlfaewjnfwewkj/agb/</loc>
   </url><url>
-    <loc>http://something-fresh.org/success_stories/</loc>
+    <loc>https://karinholley.com/asdlfaewjnfwewkj/blog/another-post-about-work/</loc>
+  </url><url>
+    <loc>https://karinholley.com/asdlfaewjnfwewkj/categories/</loc>
+  </url><url>
+    <loc>https://karinholley.com/asdlfaewjnfwewkj/blog/fourth/</loc>
+  </url><url>
+    <loc>https://karinholley.com/asdlfaewjnfwewkj/grow/</loc>
+  </url><url>
+    <loc>https://karinholley.com/asdlfaewjnfwewkj/grow_old/</loc>
+  </url><url>
+    <loc>https://karinholley.com/asdlfaewjnfwewkj/success_stories/</loc>
   </url>
 </urlset>

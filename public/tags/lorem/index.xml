@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lorem on Karin Holley</title>
+    <link>https://karinholley.com/asdlfaewjnfwewkj/tags/lorem/</link>
+    <description>Recent content in lorem on Karin Holley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://karinholley.com/asdlfaewjnfwewkj/tags/lorem/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Article 1</title>
+      <link>https://karinholley.com/asdlfaewjnfwewkj/blog/first/</link>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://karinholley.com/asdlfaewjnfwewkj/blog/first/</guid>
+      <description>As a third culture kid - now adult - my survival strategy was to adapt. Adapt to the local surroundings, blend in, do as the Romans do.</description>
+    </item>
+    
+  </channel>
+</rss>
