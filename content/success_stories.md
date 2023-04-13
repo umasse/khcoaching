@@ -7,6 +7,37 @@ include_footer: true
 
 <article class="story">
 
+I started coaching with Karin to gain traction on elusive long term goals - things I'd been working on for years, but hadn't made much progress with
+
+I had some doubts about what the purpose of coaching would be for me, whether I needed it, or how it might help. I decided to go ahead with it anyway based on the first meetings I had with Karin, particularly the one where we talked about getting into classrooms. It was enlightening to see through our discussion that what I had perceived as obstacles to getting into classrooms weren't the source of the problem. 
+
+The PQ training has been incredibly powerful for me. I have found that it makes it possible for me to address many of the challenges around balance, stress and focus that contributing to my coaching goals.
+
+What makes Karin an effective coach for educators is that she shares a love of learning and commitment to students. She understands why this work is so hard and so important. 
+She’s patient and a great listener. Rather than give advice, she asks questions that help me to see or maybe to hear my own reflections more clearly so that I can advise myself.  
+
+Regarding coaching outcomes, today, one of my students said that I seem a lot less busy! I feel more empowered to take on the challenges of a new role. Most of all, I thought that these were pretty much just my issues and I didn't feel comfortable sharing them. As a new leader, I feel like I ought to have this figured out. The coaching sessions and the PQ pods have helped me to see that many of my questions and challenges are shared by others, and, as a result, I'm able to give myself a bit more grace.
+
+Absolutely 5 stars!
+
+<div class="meta">
+<img src="/images/karin/stories/marie_favret_bw.jpg" alt/>
+
+<div class="author">
+<p>
+Marie Favret
+</p>
+<p>
+Secondary School Principal at The International School of Azerbaijan
+</p>
+</div>
+</div>
+
+</article>
+
+
+<article class="story">
+
 I experienced burnout due to a combination of personal and professional circumstances during a major international move and career change. I lost confidence in my skills and abilities, and my mind and body became ruled by fear, panic and negative self talk. 
 
 
@@ -292,36 +323,6 @@ Yeni Lim
 </p>
 <p>
 Music Teacher at Hanoi International School
-</p>
-</div>
-</div>
-
-</article>
-
-<article class="story">
-
-I started coaching with Karin to gain traction on elusive long term goals - things I'd been working on for years, but hadn't made much progress with
-
-I had some doubts about what the purpose of coaching would be for me, whether I needed it, or how it might help. I decided to go ahead with it anyway based on the first meetings I had with Karin, particularly the one where we talked about getting into classrooms. It was enlightening to see through our discussion that what I had perceived as obstacles to getting into classrooms weren't the source of the problem. 
-
-The PQ training has been incredibly powerful for me. I have found that it makes it possible for me to address many of the challenges around balance, stress and focus that contributing to my coaching goals.
-
-What makes Karin an effective coach for educators is that she shares a love of learning and commitment to students. She understands why this work is so hard and so important. 
-She’s patient and a great listener. Rather than give advice, she asks questions that help me to see or maybe to hear my own reflections more clearly so that I can advise myself.  
-
-Regarding coaching outcomes, today, one of my students said that I seem a lot less busy! I feel more empowered to take on the challenges of a new role. Most of all, I thought that these were pretty much just my issues and I didn't feel comfortable sharing them. As a new leader, I feel like I ought to have this figured out. The coaching sessions and the PQ pods have helped me to see that many of my questions and challenges are shared by others, and, as a result, I'm able to give myself a bit more grace.
-
-Absolutely 5 stars!
-
-<div class="meta">
-<img src="/images/karin/stories/marie_favret_bw.jpg" alt/>
-
-<div class="author">
-<p>
-Marie Favret
-</p>
-<p>
-Secondary School Principal at The International School of Azerbaijan
 </p>
 </div>
 </div>
