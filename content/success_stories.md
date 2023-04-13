@@ -201,11 +201,13 @@ After our individual sessions reached a natural stopping point, I joined a Posit
 
 <article class="story">
 
-Knowing that traditional coaching practices only provided me with temporary boost of my well-being, I decided to give the Positive Intelligence course a try while being kindly guided by Karin as a coach. 
+Karin introduced me to Positive Intelligence Coaching, which combines positive psychology, neurobiology, performance science, and cognitive-behavioral theory. The course's focus is PQreps, which involves hyperfocusing on the senses for 10 seconds several times a day. This practice offers immediate stress relief and rewires the self-command area of the brain responsible for a calm state of mind and emotional self-sabotage reduction.
 
-The course is very straightforward, without no-nonsense and based on the idea that hyper-focusing on the senses for a period of 10 seconds, several times a day (this is what is known as PQ reps) not only gives you some immediate stress relief but also rewires the part of the brain called self-command that is responsible for a calm state of mind and getting rid of emotional self-sabotages. Doing PQ reps is easy and there is an application that reminds you when and how to do them: the more you do them, the more you notice a positive effect. 
+The program is straightforward, and the PQreps are easy to do with the help of a reminder app. As one continues to practice PQreps, the positive effects become more noticeable. Karin is an empathetic coach who encourages vulnerability and provides the right push to avoid victim saboteur.
 
-This program has helped me deal with stressful situations on the long run: I still apply the PQ reps in my daily routines, and they are now part of my life. Despite my extremely busy life as a full time teacher and a single mother, I have had the most easy 'come back' to school ever! 
+This program has helped me deal with stressful situations on a long-term basis. PQreps are now part of my daily routine, and despite my extremely busy life as a full-time teacher and a single mother, I have had the easiest "come back" to school ever! The program has also helped me break down the invisible walls I had built up around myself and improve my relationships with colleagues.
+
+As a teacher, I can see the benefits of implementing this coaching program in schools as part of mentorship and well-being programs. Karin's knowledge of the program and prompt responses to queries make her an excellent coach. I highly recommend both Karin and Positive Intelligence Coaching to anyone, even those who consider themselves balanced, as practicing the exercises regularly can bring long-term positive effects under the guidance of a skilled coach.
 
 
 <div class="meta">
@@ -242,7 +244,7 @@ Kati Wolfänger
 <p>
 German Teacher/Careers Counsellor at International School of The Hague
 </p>
-</dv>
+</div>
 </div>
 
 
@@ -270,7 +272,7 @@ Valeria Iatan
 <p>
 Sales Consultant at Iglu.com
 </p>
-</dv>
+</div>
 </div>
 
 
@@ -291,12 +293,40 @@ Yeni Lim
 <p>
 Music Teacher at Hanoi International School
 </p>
-</dv>
+</div>
 </div>
 
 </article>
 
+<article class="story">
 
+I started coaching with Karin to gain traction on elusive long term goals - things I'd been working on for years, but hadn't made much progress with
+
+I had some doubts about what the purpose of coaching would be for me, whether I needed it, or how it might help. I decided to go ahead with it anyway based on the first meetings I had with Karin, particularly the one where we talked about getting into classrooms. It was enlightening to see through our discussion that what I had perceived as obstacles to getting into classrooms weren't the source of the problem. 
+
+The PQ training has been incredibly powerful for me. I have found that it makes it possible for me to address many of the challenges around balance, stress and focus that contributing to my coaching goals.
+
+What makes Karin an effective coach for educators is that she shares a love of learning and commitment to students. She understands why this work is so hard and so important. 
+She’s patient and a great listener. Rather than give advice, she asks questions that help me to see or maybe to hear my own reflections more clearly so that I can advise myself.  
+
+Regarding coaching outcomes, today, one of my students said that I seem a lot less busy! I feel more empowered to take on the challenges of a new role. Most of all, I thought that these were pretty much just my issues and I didn't feel comfortable sharing them. As a new leader, I feel like I ought to have this figured out. The coaching sessions and the PQ pods have helped me to see that many of my questions and challenges are shared by others, and, as a result, I'm able to give myself a bit more grace.
+
+Absolutely 5 stars!
+
+<div class="meta">
+<img src="/images/karin/stories/marie_favret_bw.jpg" alt/>
+
+<div class="author">
+<p>
+Marie Favret
+</p>
+<p>
+Secondary School Principal at The International School of Azerbaijan
+</p>
+</div>
+</div>
+
+</article>
 
 <br>
 {{% subtitle5 "Want to meet ?" %}}

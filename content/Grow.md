@@ -100,11 +100,11 @@ Missing someone with whom you can process your own thinking - it can be lonely b
         <div class="column is-4">
           <figure class="testimonial">
             <blockquote >
-              Karin is very professional and has the great ability to understand challenges that people face irrelevant of their occupation. It helped me get a better understanding of my road ahead which is very exciting!
+              What a marvelous experience! Karin has a real knack for helping me sort out the mental clutter that I experience when I’m in my own head.
             </blockquote>
             <div class="author">
-              <h5>Freerk ten Hoor</h5>
-              <span>Director Europe & Head of Sales at Centtrip</span>
+              <h5>Nicholas Miller</h5>
+              <span>Machine Learning Engineer at Adobe</span>
             </div>
           </figure>
         </div>
