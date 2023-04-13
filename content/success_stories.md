@@ -48,7 +48,7 @@ Karin asks questions that I haven’t had any other therapist, coach, or person 
 
 She is totally non-judgemental. No matter how wild or different the other person is, she is completely open-minded, positive, and patient. 
 
-Her coaching makes you deeply think about what you are saying and become aware of own mental structures. This heightened awareness, the constructive approach of making decision and plans, helps you progress faster to what you’re aiming for instead of mindlessly running around.
+Her coaching makes you deeply think about what you are saying and become aware of own mental structures. This heightened awareness, the constructive approach of making decisions and plans, helps you progress faster to what you’re aiming for instead of mindlessly running around.
 
 I am now almost completely out of my depression after about 9 months. It’s worked way faster than therapy. I have tools for when I struggle, and I use them daily. My structure and willpower, which used to be very difficult to keep constant, have become easy. Coaching has helped me a lot with my restlessness and my ability to focus. 
 
@@ -68,7 +68,7 @@ If you feel lost or stuck in any area of your life, here is someone that will 10
 
 <article class="story">
 
-I needed a new direction in life and Karin helped me find it. Working with Karin as a coach individually and in a group setting with the PQ program, helped me see areas of my life that I was sabotaging. Because Karin in thoughtful, whip-smart, and caring, she is able to guide her clients with clarity and a sense of purpose. 
+I needed a new direction in life and Karin helped me find it. Working with Karin as a coach individually and in a group setting with the PQ program, helped me see areas of my life that I was sabotaging. Because Karin is thoughtful, whip-smart, and caring, she is able to guide her clients with clarity and a sense of purpose. 
 
 I highly recommend Karin as a mental fitness coach. She will show you how to build your mental fitness in no time, but the rest is in you. 
 <div class="meta">
@@ -87,7 +87,7 @@ English Teacher at Camas School District
 
 <article class="story">
 
-After 2 years of Covid, instead of looking forward to going back to the old routine I was dreading it. I realized that I wasn't happy with some aspects of my life, and felt like maybe this was going to be the way it was going to be for the rest of my life: not particularly happy but semi comfortably with how things were. The way I saw it, this was a middle-age crisis. Should I try to change something? My circumstances? Myself? Or just hold on and see.
+After 2 years of Covid, instead of looking forward to going back to the old routine I was dreading it. I realized that I wasn't happy with some aspects of my life, and felt like maybe this was going to be the way it was going to be for the rest of my life: not particularly happy but semi comfortable with how things were. The way I saw it, this was a middle-age crisis. Should I try to change something? My circumstances? Myself? Or just hold on and see.
 
 I didn't know if I needed therapy, something else, or nothing at all. When someone proposed coaching to me, I was a bit sceptic, but it couldn't hurt,  so I gave it a go.
 
@@ -97,7 +97,7 @@ Defining clear objectives or tasks to accomplish between sessions helped tremend
 
 Above all else, what was surprising was the pace at which these actions were having an effect, I didn't have an idea on how long it would take, but I didn't expect for just a couple of months and 6 sessions in total to have the effect it did.
 
-I changed my approach to job hunting in a healthier way, I had a sense of accountability to help with procrastinating and in general had a sense of accomplishment that led to happier self.
+I changed my approach to job hunting in a healthier way. I had a sense of accountability to help with procrastinating and in general had a sense of accomplishment that led to happier self.
 
 Yesterday, I started on my new job, a job that checks boxes that I wouldn't have contemplated if it wasn't for Karin.
 
@@ -120,12 +120,11 @@ I have been coached by Karin over the last 6 months, and the meetings have becom
 
 Her coaching presence and the safe atmosphere that she creates are a perfect combo to reflect, mirror and grow. Her teaching background and natural curiosity feel like a genuine combination to make the right questions.
 
-Not feeling judged or disregarded at any time plus all the above helps to sit on an environment that allows vulnerability to flow, and with that answers to your own questions just appear.
+Not feeling judged or disregarded at any time, plus all the above, helps to sit on an environment that allows vulnerability to flow, and with that answers to your own questions just appear.
 
 The combination of those factors and her Positive Intelligence techniques have really helped me to get out of “the feeling stuck” sensation and realize other ways of acting, thinking and overcoming personal and professional issues.
 
-I could not recommend her enough to anyone going through a transitioning situation on their lives.
-
+I could not recommend her enough to anyone going through a transition in their lives.
 
 
 <div class="meta">
@@ -144,7 +143,7 @@ I could not recommend her enough to anyone going through a transitioning situati
 
 I was going through some big and difficult things, lots of transition. I knew I needed support, and I didn’t think my therapist could help me any more. To be honest, I wasn’t sure if Karin or the coaching could help me either, but I had worked with her. I knew she was nice, very professional, dedicated, and that she did nothing half-assed. So I trusted Karin to be the same in coaching.
 
-I wasn’t sure about the PQ program in the beginning. In my mind wiggling my toes and breathing would not have the strength to change my current state of mind, I found that simply slowing down and focusing on just one thing intensely did in fact help. Knowing how to calm yourself down, and realizing when you’ve been sabotaged, that self-awareness is invaluable. 
+I wasn’t sure about the PQ program in the beginning. In my mind wiggling my toes and breathing would not have the strength to change my current state of mind. I found that simply slowing down and focusing on just one thing intensely did in fact help. Knowing how to calm yourself down, and realizing when you’ve been sabotaged, that self-awareness is invaluable. 
 
 Learning about the saboteurs was what really helped me. I didn’t believe it at first, but they are very real! If something is feeling difficult, there is a saboteur involved. So now, when things feel challenging, I sit down, stop, and ask myself, what’s wrong here? Before, I would avoid and ignore the problem, keep going, and hope it would go away. I finally understood what was holding me back and could verbalize it. Clearly, learning to identify my saboteurs and harness the powers of my sage can be used in all aspects of my life. 
 
@@ -152,7 +151,7 @@ What can I say about Karin? Karin is good, no Karin is great, no Karin is mighty
 
 Karin understands that she cannot simply give you the answers you want, or you will not learn. Which, as painful as that sometimes is, and on occasion I have wished that Karin would just bail me out, she doesn’t. That being said, she is very good at pointing you in the right direction and guiding you to where you want to be. I can tell from her body language that she feels and understands what I’m going through, but she stays professional and doesn’t try to rescue me. 
 
-The fact that Karin was in education is very helpful. She has a full understanding of the stress, the burnout, the doing more than you should because you feel the dedication to the school and the students regardless whether they’re paying you for it or not getting. However, I don’t think the coaching is specifically for education, it’s universal. 
+The fact that Karin was in education is very helpful. She has a full understanding of the stress, the burnout, the doing more than you should because you feel the dedication to the school and the students regardless whether they’re paying you for it or not. However, I don’t think the coaching is specifically for education, it’s universal. 
 
 Coaching has made me aware of past patterns that weren’t serving me, and I’ve been able to completely change them. I’m now much happier with myself. I am back to the Christy I used to be. I didn’t realize how much I had changed. I used to feel a big void, and I’d fill it with things that weren’t good for me. And now, I no longer do that. I have set boundaries and face challenges instead of avoiding them, and do things I enjoy and that are healthy for me. My relationships have improved. I feel strong in myself. I feel confident. 
 
