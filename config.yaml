@@ -71,6 +71,7 @@ params:
   - title: Contact
     url: "https://app.squarespacescheduling.com/schedule/9c387e5a?showHeader=true"
     button: true
+    target: "_blank"
   sidebar:
     logo: fresh-square
     sections:
