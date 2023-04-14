@@ -244,8 +244,8 @@ Leadership Coach for Educators
   <div class="info">
   <img src="/images/karin/home/two_leaves.png" class="" alt/>
   <h4>Grow Chemistry Call</h4>
-  <p class="">Explore what your personal and professional vision looks like. </p>
-  <p> Decide on which first step you'll take TODAY to get there. </p>
+  <p>Explore what your personal and professional vision looks like.</p>
+  <p>Decide on which first step you'll take TODAY to get there. </p>
   </div>
   <a href="#" class="button is-fullwidth primary-btn raised is-bold">Let's talk</a>
   </div>
@@ -255,7 +255,7 @@ Leadership Coach for Educators
   <img src="/images/karin/home/team_of_leaves.png" class="" alt/>
   <h4>Grow Your Team</h4>
   <p>Develop fundamental coaching skills.</p>
-  <p> Improve performance, wellbeing, and team culture</p>
+  <p>Improve performance, wellbeing, and team culture.</p>
   </div>
   <a href="#" class="button is-fullwidth primary-btn raised is-bold">Book a conversation</a>
   </div>
