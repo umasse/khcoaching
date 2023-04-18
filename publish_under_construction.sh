@@ -1,5 +1,5 @@
 #!/bin/bash
-hugo
+hugo --cacheDir ~/Websites/.cache
 cd public
 mv index.html index_draft.html
 cp under_construction.html index.html
