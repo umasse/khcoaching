@@ -234,7 +234,7 @@ Leadership Coach for Educators
   <div class="column is-4 feature-card is-pricing has-text-centered">
   <div class="info">
     <img src="/images/karin/home/one_leaf.png" class="" alt/>
-    <h4>Mental Fitness Masterclass</h4>
+    <h4>Grow Masterclass</h4>
     <p>Learn about optimal conditions for personal growth, how we self-sabotage, and 3 mental muscles that help us grow.</p>
   </div>
   <a href="https://appointmentcalendarkarinholley.as.me/?appointmentType=44191676" target="_blank" class="button is-fullwidth primary-btn raised is-bold">Sign up</a>

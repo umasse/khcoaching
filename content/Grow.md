@@ -143,7 +143,7 @@ Missing someone with whom you can process your own thinking - it can be lonely b
   <div class="column is-4 feature-card is-pricing has-text-centered">
   <div class="info">
   <img src="/images/karin/home/one_leaf.png" class="" alt/>
-  <h4>Mental Fitness Masterclass</h4>
+  <h4>Grow Masterclass</h4>
   <p>Learn about optimal conditions for personal growth.</p>
   <p>Find out how you self-sabotage.</p>
   <p>Discover 3 mental muscles that help you handle life’s challenges with a more positive mindset.</p>
