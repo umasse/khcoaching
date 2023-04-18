@@ -237,7 +237,7 @@ Leadership Coach for Educators
     <h4>Mental Fitness Masterclass</h4>
     <p>Learn about optimal conditions for personal growth, how we self-sabotage, and 3 mental muscles that help us grow.</p>
   </div>
-  <a href="https://app.squarespacescheduling.com/schedule/9c387e5a?showHeader=true" target="_blank" class="button is-fullwidth primary-btn raised is-bold">Sign up</a>
+  <a href="https://appointmentcalendarkarinholley.as.me/?appointmentType=44191676" target="_blank" class="button is-fullwidth primary-btn raised is-bold">Sign up</a>
   </div>
 
   <div class="column is-4 feature-card is-pricing has-text-centered">
@@ -247,7 +247,7 @@ Leadership Coach for Educators
   <p>Explore what your personal and professional vision looks like.</p>
   <p>Decide on which first step you'll take TODAY to get there. </p>
   </div>
-  <a href="#" class="button is-fullwidth primary-btn raised is-bold">Let's talk</a>
+  <a href="https://appointmentcalendarkarinholley.as.me/?appointmentType=32552403" class="button is-fullwidth primary-btn raised is-bold">Let's talk</a>
   </div>
   
   <div class="column is-4 feature-card is-pricing has-text-centered">
@@ -257,7 +257,7 @@ Leadership Coach for Educators
   <p>Develop fundamental coaching skills.</p>
   <p>Improve performance, wellbeing, and team culture.</p>
   </div>
-  <a href="#" class="button is-fullwidth primary-btn raised is-bold">Book a conversation</a>
+  <a href="https://appointmentcalendarkarinholley.as.me/?appointmentType=41163147" class="button is-fullwidth primary-btn raised is-bold">Book a conversation</a>
   </div>
 
   </div>

@@ -7,7 +7,7 @@ include_footer: true
 
 <article class="story">
 
-I started coaching with Karin to gain traction on elusive long term goals - things I'd been working on for years, but hadn't made much progress with
+I started coaching with Karin to gain traction on elusive long term goals - things I'd been working on for years, but hadn't made much progress with.
 
 I had some doubts about what the purpose of coaching would be for me, whether I needed it, or how it might help. I decided to go ahead with it anyway based on the first meetings I had with Karin, particularly the one where we talked about getting into classrooms. It was enlightening to see through our discussion that what I had perceived as obstacles to getting into classrooms weren't the source of the problem. 
 

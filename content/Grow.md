@@ -16,7 +16,7 @@ include_footer: true
 <p class="checked mb-5">Improve your sense of <strong>joy, calm</strong> and well-being.</p>
 <p><strong>Explore what your vision looks like</strong> and decide on which <strong>first step</strong> you'll take TODAY to get there.</p>
 <p class="has-text-centered">
-<a class="button cta rounded primary-btn raised" href="{{ $buttonLink }}">Book a Grow Chemistry Call</a></p>
+<a class="button cta rounded primary-btn raised" href="https://appointmentcalendarkarinholley.as.me/?appointmentType=32552403">Book a Grow Chemistry Call</a></p>
 </div>
 <div class="column is-6 is-offset-1">
     <img src="/images/karin/k14.jpg" alt/>
@@ -149,7 +149,7 @@ Missing someone with whom you can process your own thinking - it can be lonely b
   <p>Discover 3 mental muscles that help you handle life’s challenges with a more positive mindset.</p>
 
   </div>
-  <a href="https://app.squarespacescheduling.com/schedule/9c387e5a?showHeader=true" target="_blank" class="button is-fullwidth primary-btn raised is-bold">Sign up</a>
+  <a href="https://appointmentcalendarkarinholley.as.me/?appointmentType=44191676" target="_blank" class="button is-fullwidth primary-btn raised is-bold">Sign up</a>
   </div>
 
   <div class="column is-4 feature-card is-pricing has-text-centered">
@@ -160,7 +160,7 @@ Missing someone with whom you can process your own thinking - it can be lonely b
   <p class="">Explore what your personal and professional vision looks like. </p>
   <p> Decide on which first step you'll take TODAY to get there. </p>
   </div>
-  <a href="#" class="button is-fullwidth primary-btn raised is-bold">Let's talk</a>
+  <a href="https://appointmentcalendarkarinholley.as.me/?appointmentType=32552403" class="button is-fullwidth primary-btn raised is-bold">Let's talk</a>
   </div>
   
   <div class="column is-4 feature-card is-pricing has-text-centered">
@@ -171,7 +171,7 @@ Missing someone with whom you can process your own thinking - it can be lonely b
 <p>Build trust and a positive, collaborative working culture.</p>
 <p>Improve the well-being, performance and relationships of your staff.</p>
   </div>
-  <a href="#" class="button is-fullwidth primary-btn raised is-bold">Book a conversation</a>
+  <a href="https://appointmentcalendarkarinholley.as.me/?appointmentType=41163147" class="button is-fullwidth primary-btn raised is-bold">Book a conversation</a>
   </div>
 
   </div>

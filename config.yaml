@@ -70,7 +70,7 @@ params:
     - title: Linkedin
       url: "https://www.linkedin.com/in/karin-holley-cpc-acc-a9842235/"
   - title: Contact
-    url: "https://app.squarespacescheduling.com/schedule/9c387e5a?showHeader=true"
+    url: "https://appointmentcalendarkarinholley.as.me/?appointmentType=category:Coaching"
     button: true
     target: "_blank"
   sidebar:
