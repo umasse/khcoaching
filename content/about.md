@@ -228,9 +228,9 @@ Leadership Coach for Educators
   </div>
 </section>
 
+<!-- 
 <section class="about">
   <div class="columns">
-
   <div class="column is-4 feature-card is-pricing has-text-centered">
   <div class="info">
     <img src="/images/karin/home/one_leaf.png" class="" alt/>
@@ -239,7 +239,6 @@ Leadership Coach for Educators
   </div>
   <a href="https://appointmentcalendarkarinholley.as.me/?appointmentType=44191676" target="_blank" class="button is-fullwidth primary-btn raised is-bold">Sign up</a>
   </div>
-
   <div class="column is-4 feature-card is-pricing has-text-centered">
   <div class="info">
   <img src="/images/karin/home/two_leaves.png" class="" alt/>
@@ -249,7 +248,6 @@ Leadership Coach for Educators
   </div>
   <a href="https://appointmentcalendarkarinholley.as.me/?appointmentType=32552403" class="button is-fullwidth primary-btn raised is-bold">Let's talk</a>
   </div>
-  
   <div class="column is-4 feature-card is-pricing has-text-centered">
   <div class="info">
   <img src="/images/karin/home/team_of_leaves.png" class="" alt/>
@@ -259,6 +257,7 @@ Leadership Coach for Educators
   </div>
   <a href="https://appointmentcalendarkarinholley.as.me/?appointmentType=41163147" class="button is-fullwidth primary-btn raised is-bold">Book a conversation</a>
   </div>
-
   </div>
-</section>
+</section> -->
+
+{{< grow-coaching-options >}}
