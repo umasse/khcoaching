@@ -11,7 +11,7 @@ I started coaching with Karin to gain traction on elusive long term goals - thin
 
 I had some doubts about what the purpose of coaching would be for me, whether I needed it, or how it might help. I decided to go ahead with it anyway based on the first meetings I had with Karin, particularly the one where we talked about getting into classrooms. It was enlightening to see through our discussion that what I had perceived as obstacles to getting into classrooms weren't the source of the problem. 
 
-The PQ training has been incredibly powerful for me. I have found that it makes it possible for me to address many of the challenges around balance, stress and focus that contributing to my coaching goals.
+For years I've read so much about mindfulness, meditation and wellbeing, but struggled to practice consistently in the midst of a busy life with young children and a demanding job. The PQ training was incredibly powerful for me. It has provided a simple and incredibly effective way to tap into this knowledge, be present and feel happy and calm. I have found that PQ enables me to address many of the challenges around balance, stress and focus that contribute to my coaching goals. It's so simple and it works!
 
 What makes Karin an effective coach for educators is that she shares a love of learning and commitment to students. She understands why this work is so hard and so important. 
 She’s patient and a great listener. Rather than give advice, she asks questions that help me to see or maybe to hear my own reflections more clearly so that I can advise myself.  
@@ -247,7 +247,7 @@ As a teacher, I can see the benefits of implementing this coaching program in sc
 <div class="author">
 <p>Margarita Vallduriola</p>
 <p>
-DP Subject coordinator at International School of The Hague
+Subject Area Leader at International School of The Hague
 </p>
 </div>
 </div>
