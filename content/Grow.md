@@ -168,4 +168,4 @@ Missing someone with whom you can process your own thinking - it can be lonely b
   </div>
 </section> -->
 
-{{< grow-coaching-options >}}
+{{< shortcode-grow-coaching-options >}}

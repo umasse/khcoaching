@@ -228,36 +228,4 @@ Leadership Coach for Educators
   </div>
 </section>
 
-<!-- 
-<section class="about">
-  <div class="columns">
-  <div class="column is-4 feature-card is-pricing has-text-centered">
-  <div class="info">
-    <img src="/images/karin/home/one_leaf.png" class="" alt/>
-    <h4>Grow Masterclass</h4>
-    <p>Learn about optimal conditions for personal growth, how we self-sabotage, and 3 mental muscles that help us grow.</p>
-  </div>
-  <a href="https://appointmentcalendarkarinholley.as.me/?appointmentType=44191676" target="_blank" class="button is-fullwidth primary-btn raised is-bold">Sign up</a>
-  </div>
-  <div class="column is-4 feature-card is-pricing has-text-centered">
-  <div class="info">
-  <img src="/images/karin/home/two_leaves.png" class="" alt/>
-  <h4>Grow Chemistry Call</h4>
-  <p>Explore what your personal and professional vision looks like.</p>
-  <p>Decide on which first step you'll take TODAY to get there. </p>
-  </div>
-  <a href="https://appointmentcalendarkarinholley.as.me/?appointmentType=32552403" class="button is-fullwidth primary-btn raised is-bold">Let's talk</a>
-  </div>
-  <div class="column is-4 feature-card is-pricing has-text-centered">
-  <div class="info">
-  <img src="/images/karin/home/team_of_leaves.png" class="" alt/>
-  <h4>Grow Your Team</h4>
-  <p>Develop fundamental coaching skills.</p>
-  <p>Improve performance, wellbeing, and team culture.</p>
-  </div>
-  <a href="https://appointmentcalendarkarinholley.as.me/?appointmentType=41163147" class="button is-fullwidth primary-btn raised is-bold">Book a conversation</a>
-  </div>
-  </div>
-</section> -->
-
-{{< grow-coaching-options >}}
+{{< shortcode-grow-coaching-options >}}
