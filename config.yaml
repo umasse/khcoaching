@@ -67,7 +67,7 @@ params:
     - title: Linkedin
       url: "https://www.linkedin.com/in/karin-holley-cpc-acc-a9842235/"
   - title: Contact
-    url: "https://appointmentcalendarkarinholley.as.me/?appointmentType=category:Coaching"
+    url: "https://appointmentcalendarkarinholley.as.me/"
     button: true
     target: "_blank"
   sidebar:
