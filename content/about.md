@@ -41,7 +41,7 @@ Empower educational leaders to be the best versions of themselves so that they c
 </div>
 <div class="column is-4 is-offset-1">
 
-{{% subtitle5 "Experienced" %}}
+<h5 class="secondary h5 is-secondary">Experienced in:</h5>
 
 * **Transitions** such as multiple career changes, working internationally, parenting, serious relationship breakups, perimenopause
 * **Mental health issues:** burnout, intense loneliness, food issues, insomnia
@@ -53,7 +53,8 @@ Empower educational leaders to be the best versions of themselves so that they c
 <div class="columns is-align-items-center">
 <div class="column is-4 ">
 
-{{% subtitle5 "Qualified" %}}
+<h5 class="secondary h5 is-secondary">Qualifications:</h5>
+
   * **Associate Certified Coach (ACC)** with the International Coaching Federation
   * **Advanced Certified Professional Coach (ACA)** with the International Coach Academy
   * **Positive Intelligence Certified Coach**
