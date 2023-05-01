@@ -13,12 +13,14 @@ include_footer: true
 Leadership Coach for Educators
 
 <h5 class="secondary h5 is-secondary">In a nutshell, I am:</h5>
+Curious, passionate about education and coaching, caring, and a risk-taker.<br><br>
 
-* **Curious** - About the world, people, myself, how humans think, feel and behave
-* **Passionate** - About sustainability, justice and equity, diversity, coaching, education, health
-* **Caring** - I’m very empathetic, supporting others has always been my calling
-* **Growth-oriented** - I love learning, and I constantly look for ways to improve and challenge myself
-* **Risk-taker** - I follow my passion despite the challenges
+<h5 class="secondary h5 is-secondary">My values are:</h5>
+Connection, trust, believing in yourself, growth, and making a difference. 
+<br><br>
+
+<h5 class="secondary h5 is-secondary">My mission is to:</h5>
+Empower educational leaders to be the best versions of themselves so that they can build great schools. 
 
 </div>
 
