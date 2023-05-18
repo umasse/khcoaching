@@ -33,8 +33,8 @@ params:
   hero:
     title: Grow Yourself to Grow Your Vision
     subtitle: As a coach I empower educational leaders to unlock their full potential and grow their vision for their lives and institutions. I provide them with the tools and support they need to facilitate mindset changes, gain more joy, clarity and confidence in order to increase their impact.
-    buttontext: About me
-    buttonlink: "/about"
+    buttontext: My coaching services
+    buttonlink: "/grow"
     image: karin/k13.jpg
     clientlogos:
     - logo: systek
@@ -50,22 +50,23 @@ params:
   navbar:
   - title: Home
     url: "/"
-  - title: About
-    url: "/about"
-  - title: Grow
-    url: "/grow"
+  - title: Coaching Services
+    url: "/coaching_services"
   - title: Success Stories
     url: "/success_stories"
+  - title: About
+    url: "/about"
+
 #  - title: Reflections
 #    url: "/blog"
-  - title: Socials
-    sublinks:
-    - title: Facebook
-      url: "https://www.facebook.com/Karinholleycoaching"
-    - title: Instagram
-      url: "https://www.instagram.com/karinholleycoaching/"
-    - title: Linkedin
-      url: "https://www.linkedin.com/in/karin-holley-cpc-acc-a9842235/"
+  # - title: Socials
+  #   sublinks:
+  #   - title: Facebook
+  #     url: "https://www.facebook.com/Karinholleycoaching"
+  #   - title: Instagram
+  #     url: "https://www.instagram.com/karinholleycoaching/"
+  #   - title: Linkedin
+  #     url: "https://www.linkedin.com/in/karin-holley-cpc-acc-a9842235/"
   - title: Contact
     url: "https://appointmentcalendarkarinholley.as.me/"
     button: true
@@ -187,14 +188,16 @@ params:
     bulmalogo: true
     quicklinks:
       column1:
-        title: Coaching Services
+        title: Menu
         links:
-        - text: Grow
-          link: "/grow"
-        - text: About
-          link: /about
+        - text: Home
+          link: /
+        - text: Coaching Services
+          link: "/coaching_services"
         - text: Success Stories
           link: /success_stories
+        - text: About
+          link: /about
       # column1:
       #   title: Coaching Services
       #   links:

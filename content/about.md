@@ -8,12 +8,10 @@ include_footer: true
 <div class="columns is-align-items-center">
 <div class="column is-4 ">
 
-<h1>Grow Yourself to Grow Your Vision</h1>
+<h1>Leadership Coach for Educators</h1>
 
-Leadership Coach for Educators
-
-<h5 class="secondary h5 is-secondary">In a nutshell, I am:</h5>
-Curious, passionate about education and coaching, caring, and a risk-taker.<br><br>
+<h5 class="secondary h5 is-secondary">In a nutshell, I have:</h5>
+20 years of experience in international education.<br><br>
 
 <h5 class="secondary h5 is-secondary">My values are:</h5>
 Connection, trust, believing in yourself, growth, and making a difference. 
@@ -25,7 +23,6 @@ Empower educational leaders to be the best versions of themselves so that they c
 </div>
 
 <div class="column is-5 is-offset-1">
-    <!-- <img src="/images/karin/k10.jpg" alt/> -->
     <img src="/images/karin/k12.jpg" class="" alt/>
 </div>
 </div>
@@ -41,11 +38,10 @@ Empower educational leaders to be the best versions of themselves so that they c
 </div>
 <div class="column is-4 is-offset-1">
 
-<h5 class="secondary h5 is-secondary">Experienced in:</h5>
+<h5 class="secondary h5 is-secondary">Experienced in helping with:</h5>
 
 * **Transitions** such as multiple career changes, working internationally, parenting, serious relationship breakups, perimenopause
-* **Mental health issues:** burnout, intense loneliness, food issues, insomnia
-* **Coach, Trainer,** Counsellor, Teacher
+* **Mental health issues:** burnout, loneliness, anxiety, insomnia
 
 </div>
 </div>
@@ -56,8 +52,8 @@ Empower educational leaders to be the best versions of themselves so that they c
 <h5 class="secondary h5 is-secondary">Qualifications:</h5>
 
   * **Associate Certified Coach (ACC)** with the International Coaching Federation
-  * **Advanced Certified Professional Coach (ACA)** with the International Coach Academy
-  * **Positive Intelligence Certified Coach**
+  * **Advanced Certified Professional Coach (CPC)** with the International Coach Academy
+  * **Certified Positive Intelligence Coach (CPQC)**
   * Master’s degree in Counselling
   * Master’s degree in Teaching
 
@@ -102,7 +98,7 @@ Empower educational leaders to be the best versions of themselves so that they c
       <div class="column is-4">
         <figure class="testimonial">
           <blockquote>
-            I needed a new direction in life and Karin helped me find it. Because Karin in thoughtful, whip-smart, and caring she is able to guide her clients with clarity and a sense of purpose.
+            I needed a new direction in life and Karin helped me find it. Because Karin is thoughtful, whip-smart, and caring she is able to guide her clients with clarity and a sense of purpose.
           </blockquote>
           <div class="author">
             <h5>Karinna Jones-Ianello</h5>

@@ -1,6 +1,6 @@
 ---
-title: Grow
-pageid: grows
+title: Coaching Services
+pageid: coaching
 include_footer: true
 
 ---
