@@ -16,7 +16,7 @@ include_footer: true
 <p class="checked mb-5">Improve your sense of <strong>joy, calm</strong> and well-being.</p>
 <p><strong>Explore what your vision looks like</strong> and decide on which <strong>first step</strong> you'll take TODAY to get there.</p>
 <p class="has-text-centered">
-<a class="button cta rounded primary-btn raised" href="https://appointmentcalendarkarinholley.as.me/?appointmentType=32552403">Book a Grow Chemistry Call</a></p>
+<a class="button cta rounded primary-btn raised" href="https://appointmentcalendarkarinholley.as.me/?appointmentType=32552403">Book a Grow Discovery Call</a></p>
 </div>
 <div class="column is-6 is-offset-1">
     <img src="/images/karin/k14.jpg" alt/>
@@ -150,7 +150,7 @@ Missing someone with whom you can process your own thinking - it can be lonely b
   <div class="column is-4 feature-card is-pricing has-text-centered">
   <div class="info">
   <img src="/images/karin/home/two_leaves.png" class="" alt/>
-  <h4>Grow Chemistry Call</h4>
+  <h4>Grow Discovery Call</h4>
   <p>Explore what your personal and professional vision looks like.</p>
   <p>Decide on which first step you'll take TODAY to get there. </p>
   </div>
