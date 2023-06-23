@@ -156,7 +156,7 @@ In this workshop you’ll
 
 
 <br>
-{{% subtitle5 "Want to know more? Book a free Grow Chemistry Call " %}}
+{{% subtitle5 "Want to know more? Book a free Grow Discovery Call " %}}
 <a class="button cta rounded primary-btn raised" href="{{ $buttonLink }}">Let's Talk</a>
 <br>
 
