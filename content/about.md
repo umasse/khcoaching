@@ -1,6 +1,6 @@
 ---
 #title: Leadership Coach
-title: About Karin
+title: About Me
 include_footer: true
 
 ---
@@ -8,18 +8,17 @@ include_footer: true
 <div class="columns is-align-items-center">
 <div class="column is-4 ">
 
-<h1>Leadership Coach for Educators</h1>
+{{% title3 "Mental Fitness Coach for Leaders" %}}
 
-<h5 class="secondary h5 is-secondary">In a nutshell, I have:</h5>
-20 years of experience in international education.<br><br>
+{{% secondarytitle5 "I am:" %}}
+An ICF certified coach with 20 years of experience in international education and leadership development.<br><br>
 
-<h5 class="secondary h5 is-secondary">My values are:</h5>
+{{% secondarytitle5 "I value:" %}}
 Connection, trust, believing in yourself, growth, and making a difference. 
 <br><br>
 
-<h5 class="secondary h5 is-secondary">My mission is to:</h5>
-Empower educational leaders to be the best versions of themselves so that they can build great schools. 
-
+{{% secondarytitle5 "I help:" %}}
+Leaders across various sectors to unleash their full potential and create positive change in their organizations and communities.
 </div>
 
 <div class="column is-5 is-offset-1">
@@ -38,18 +37,7 @@ Empower educational leaders to be the best versions of themselves so that they c
 </div>
 <div class="column is-4 is-offset-1">
 
-<h5 class="secondary h5 is-secondary">Experienced in helping with:</h5>
-
-* **Transitions** such as multiple career changes, working internationally, parenting, serious relationship breakups, perimenopause
-* **Mental health issues:** burnout, loneliness, anxiety, insomnia
-
-</div>
-</div>
-
-<div class="columns is-align-items-center">
-<div class="column is-4 ">
-
-<h5 class="secondary h5 is-secondary">Qualifications:</h5>
+{{% secondarytitle5 "Qualifications:" %}}
 
   * **Associate Certified Coach (ACC)** with the International Coaching Federation
   * **Advanced Certified Professional Coach (CPC)** with the International Coach Academy
@@ -57,8 +45,20 @@ Empower educational leaders to be the best versions of themselves so that they c
   * Master’s degree in Counselling
   * Master’s degree in Teaching
 
+</div>
+</div>
+
+<div class="columns is-align-items-center">
+<div class="column is-4 ">
+
+{{% secondarytitle5 "I specialize in:" %}}
+
+* **Mental Fitness**, helping you develop the skills and habits to overcome negative thoughts and emotions, and to achieve your peak performance and well-being.
+* **Transitions** such as career changes, working internationally, parenting, relationship breakups, perimenopause
+* **Mental health issues:** burnout, loneliness, anxiety, insomnia
+
   <div class="action mt-2">
-  <a class="button cta rounded primary-btn raised" href="/#contactus">Let's Meet</a>
+    {{% primarybutton1 "What my clients say" "/success_stories" %}}
   </div>
 </div>
 <div class="column is-5 is-offset-1">
@@ -118,35 +118,21 @@ Empower educational leaders to be the best versions of themselves so that they c
 </section> -->
 
 <section class="about mb-3">
-{{% title3 "About My Coaching" %}}
+{{% title3 "How I Coach" %}}
 <div class="columns is-align-items-center mb-5">
 <div class="column is-5">
 
-* **Coaching is time and space dedicated to processing your thoughts** and feelings with a non-judgemental, caring, thinking parter: me!
-* **We challenge beliefs** and discover different perspectives, so that you come up with **your own insights**, action steps and solutions.
-* **Coaching saves you time and energy** in the long run - it reduces ruminations and indecisiveness while improving your clarity of mind and confidence in decision-making.
+* **Coaching is a partnership** where you have a non-judgemental, caring, and supportive thinking partner: me!
+* **We explore your beliefs** and discover new perspectives, so that you come up with **your own insights**, action steps and solutions.
+* **Coaching saves you time and energy** by reducing ruminations and indecisiveness while enhancing your clarity of mind and confidence in decision-making.
 * My coaching helps you **grow personally and professionally**.
+* I help you develop your authentic leadership style using the **Positive Intelligence (PQ) Mental Fitness** framework.
 
+{{% primarybutton1 "More about Coaching" "/coaching_services" %}}
 </div>
 
 <div class="column is-5 is-offset-1">
     <img src="/images/karin/k7.jpg" alt/>
-</div>
-</div>
-
-{{% subtitle5 "About Positive Intelligence (PQ)" %}}
-
-<div class="columns is-align-items-center">
-<div class="column is-5">
-    <img src="/images/karin/about/pq.png" alt/>
-</div>
-<div class="column is-5">
-
-{{% subtitle5 "PQ will" %}}
-
-* Drastically accelerate your **awareness of negative mental habits (saboteurs)**.
-* Give you the tools to pause and **choose more positive responses** to challenging situations.
-* Allow you to **feel calmer** and more grounded throughout your day.
 </div>
 </div>
 
@@ -156,15 +142,15 @@ Empower educational leaders to be the best versions of themselves so that they c
 </div>
 <div class="column is-5">
 
-{{% subtitle5 "PQ" %}}
+{{% secondarytitle5 "Positive Intelligence (PQ) Mental Fitness" %}}
 
+* Helps you go from self-sabotage to **self-mastery**.
 * Is a **research-based mental fitness program** developed by University of Stanford professor Shirzad Chamine.
-* Has included more than half a million participants from around the globe.
+* Has benefited more than half a million participants from around the globe.
 * Synthesizes recent discoveries across neuroscience, positive psychology, cognitive behavioural psychology, and performance science.
 * Is a **simple yet incredibly powerful tool and framework**.
 </div>
 </div>
-
 
 <div class="columns is-align-items-center">
 <div class="column is-5">
@@ -172,6 +158,22 @@ Empower educational leaders to be the best versions of themselves so that they c
 </div>
 <div class="column is-5">
 
+{{% secondarytitle5 "PQ combined with my coaching will" %}}
+
+* Drastically accelerate your **awareness of negative mental habits (saboteurs)**.
+* Give you the tools to pause and **choose more positive responses** to challenging situations.
+* Allow you to **feel calmer** and more grounded throughout your day.
+* Improve your **professional and personal relationships**.
+</div>
+</div>
+
+
+<!-- 
+<div class="columns is-align-items-center">
+<div class="column is-5">
+    <img src="/images/karin/about/pq.png" alt/>
+</div>
+<div class="column is-5">
 
 {{% subtitle5 "PQ combined with Karin’s coaching creates lasting results" %}}
 
@@ -182,6 +184,8 @@ Empower educational leaders to be the best versions of themselves so that they c
 
 </div>
 </div>
+//-->
+
 </section>
 
 

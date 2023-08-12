@@ -32,10 +32,10 @@ params:
     - 600
   hero:
     title: Grow Yourself to Grow Your Vision
-    subtitle: As a coach I empower educational leaders to unlock their full potential and grow their vision for their lives and institutions. I provide them with the tools and support they need to facilitate mindset changes, gain more joy, clarity and confidence in order to increase their impact.
-    buttontext: My coaching services
-    buttonlink: "/grow"
-    image: karin/k13.jpg
+    subtitle: As a certified mental fitness and leadership coach I empower you to unlock your full potential and grow your vision for your life and institution. I provide you with the tools and support you need to facilitate mindset changes, gain more joy, clarity and confidence in order to increase your impact.
+    buttontext: My coaching
+    buttonlink: "/coaching_services"
+    image: karin/k15cropped.jpg
     clientlogos:
     - logo: systek
       url: https://google.com
@@ -50,13 +50,27 @@ params:
   navbar:
   - title: Home
     url: "/"
-  - title: Coaching Services
+  - title: Coaching
     url: "/coaching_services"
   - title: Success Stories
     url: "/success_stories"
   - title: About
     url: "/about"
-
+  - title: Contact
+    #url: "https://appointmentcalendarkarinholley.as.me/"
+    #target: "_blank"
+    #button: true
+    sublinks:
+    - title: Email me
+      url: "mailto:coaching@karinholley.com"
+    - title: Book an appointment
+      url: "https://appointmentcalendarkarinholley.as.me/"
+    - title: Facebook
+      url: "https://www.facebook.com/Karinholleycoaching"
+    - title: Instagram
+      url: "https://www.instagram.com/karinholleycoaching/"
+    - title: Linkedin
+      url: "https://www.linkedin.com/in/karin-holley-cpc-acc-a9842235/"
 #  - title: Reflections
 #    url: "/blog"
   # - title: Socials
@@ -67,10 +81,6 @@ params:
   #     url: "https://www.instagram.com/karinholleycoaching/"
   #   - title: Linkedin
   #     url: "https://www.linkedin.com/in/karin-holley-cpc-acc-a9842235/"
-  - title: Contact
-    url: "https://appointmentcalendarkarinholley.as.me/"
-    button: true
-    target: "_blank"
   sidebar:
     logo: fresh-square
     sections:
@@ -192,7 +202,7 @@ params:
         links:
         - text: Home
           link: /
-        - text: Coaching Services
+        - text: Coaching
           link: "/coaching_services"
         - text: Success Stories
           link: /success_stories

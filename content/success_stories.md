@@ -329,11 +329,6 @@ Music Teacher at Hanoi International School
 
 </article>
 
-<br>
-{{% subtitle5 "Want to meet ?" %}}
-<a class="button cta rounded primary-btn raised" href="{{ $buttonLink }}">Let's talk</a>
-<br>
-
-
+{{< shortcode-grow-coaching-options >}}
 
 

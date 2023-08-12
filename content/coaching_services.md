@@ -1,5 +1,5 @@
 ---
-title: Coaching Services
+title: Coaching
 pageid: coaching
 include_footer: true
 
@@ -9,7 +9,7 @@ include_footer: true
 <div class="columns is-align-items-center">
 <div class="column is-5">
 
-{{% subtitle5 "Grow Yourself" %}}
+{{% title3 "ICF Certified Mental Fitness Leadership Coach" %}}
 
 <p class="checked">Discover <strong>mental patterns that are blocking you</strong> from advancing your goals and vision.</p>
 <p class="checked">Gain more <strong>clarity of mind </strong> and <strong>confidence</strong> to improve your focus and decision-making.</p>
@@ -75,9 +75,9 @@ Develop **more confidence** in yourself as a leader.
 
 <section class="about checked-list mb-6">
 
-<h5 class="">Coaching is Right for You if You Are:</h5>
+<h5 class="">My Coaching is Right for You if You Are:</h5>
 
-A high-achieving, experienced educator.
+High-achieving and experienced.
 
 Going through a stressful career or life transition.
 
@@ -85,7 +85,7 @@ Committed to growth, but have reached the limits of what you can do by yourself.
 
 Feeling stuck in certain areas, “busy”, reactive, stressed, or lacking joy and inspiration.
 
-Struggling to focus on the bigger picture, your purpose, the school's vision.
+Struggling to focus on the bigger picture, your purpose, your organization's vision.
 
 Giving your best self to work, but lacking presence at home.
 
