@@ -65,12 +65,14 @@ params:
       url: "mailto:coaching@karinholley.com"
     - title: Book an appointment
       url: "https://appointmentcalendarkarinholley.as.me/"
+    - title: Newsletter
+      url: "http://eepurl.com/iuXTLM"
     - title: Facebook
       url: "https://www.facebook.com/Karinholleycoaching"
     - title: Instagram
       url: "https://www.instagram.com/karinholleycoaching/"
     - title: Linkedin
-      url: "https://www.linkedin.com/in/karin-holley-cpc-acc-a9842235/"
+      url: "https://www.linkedin.com/in/karin-holley/"
 #  - title: Reflections
 #    url: "/blog"
   # - title: Socials
@@ -80,7 +82,7 @@ params:
   #   - title: Instagram
   #     url: "https://www.instagram.com/karinholleycoaching/"
   #   - title: Linkedin
-  #     url: "https://www.linkedin.com/in/karin-holley-cpc-acc-a9842235/"
+  #     url: "https://www.linkedin.com/in/karin-holley/"
   sidebar:
     logo: fresh-square
     sections:
@@ -189,7 +191,7 @@ params:
     logo: logofooter.png
     socialmediatitle: Socials
     socialmedia:
-    - link: https://www.linkedin.com/in/karin-holley-cpc-acc-a9842235/ 
+    - link: https://www.linkedin.com/in/karin-holley/
       icon: linkedin
     - link: https://www.facebook.com/Karinholleycoaching
       icon: facebook
