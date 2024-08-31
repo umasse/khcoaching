@@ -2,46 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reflections on Coaching on Karin Holley</title>
-    <link>https://karinholley.com/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content in Reflections on Coaching on Karin Holley</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://karinholley.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second Article</title>
-      <link>https://karinholley.com/blog/second/</link>
+      <link>http://localhost:1313/blog/second/</link>
       <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://karinholley.com/blog/second/</guid>
+      <guid>http://localhost:1313/blog/second/</guid>
       <description>My daughter painted this tree when she was about 10 years old. What is unusual about it, is that she&amp;rsquo;s given the root system just as much attention and space as the part of the tree most of us draw when we think of a &amp;ldquo;tree&amp;rdquo;.</description>
     </item>
-    
     <item>
       <title>Article 1</title>
-      <link>https://karinholley.com/blog/first/</link>
+      <link>http://localhost:1313/blog/first/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://karinholley.com/blog/first/</guid>
+      <guid>http://localhost:1313/blog/first/</guid>
       <description>As a third culture kid - now adult - my survival strategy was to adapt. Adapt to the local surroundings, blend in, do as the Romans do.</description>
     </item>
-    
     <item>
       <title>Another post about work</title>
-      <link>https://karinholley.com/blog/another-post-about-work/</link>
+      <link>http://localhost:1313/blog/another-post-about-work/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://karinholley.com/blog/another-post-about-work/</guid>
+      <guid>http://localhost:1313/blog/another-post-about-work/</guid>
       <description>sadness don&amp;rsquo;t lose focus things will get better.</description>
     </item>
-    
     <item>
       <title>Fourth</title>
-      <link>https://karinholley.com/blog/fourth/</link>
+      <link>http://localhost:1313/blog/fourth/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://karinholley.com/blog/fourth/</guid>
+      <guid>http://localhost:1313/blog/fourth/</guid>
       <description>hello friend</description>
     </item>
-    
   </channel>
 </rss>
