@@ -205,7 +205,7 @@ Without a doubt, I would give Karin a glowing five-star-plus review. Her coachin
 <!-- img src="/images/karin/stories/marta_masse_bw.jpg" alt/ -->
 
 <div class="author">
-<p>Pauline O’Brian</p>
+<p>Pauline O’Brien</p>
 
 <p>Director of Global Recruitment Strategy and Leadership at International School Services</p>
 

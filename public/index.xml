@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Karin Holley</title>
-    <link>http://localhost:1313/</link>
+    <link>https://karinholley.com/</link>
     <description>Recent content on Karin Holley</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Feb 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://karinholley.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second Article</title>
-      <link>http://localhost:1313/blog/second/</link>
+      <link>https://karinholley.com/blog/second/</link>
       <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/second/</guid>
+      <guid>https://karinholley.com/blog/second/</guid>
       <description>My daughter painted this tree when she was about 10 years old. What is unusual about it, is that she&amp;rsquo;s given the root system just as much attention and space as the part of the tree most of us draw when we think of a &amp;ldquo;tree&amp;rdquo;.</description>
     </item>
     <item>
       <title>Article 1</title>
-      <link>http://localhost:1313/blog/first/</link>
+      <link>https://karinholley.com/blog/first/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/first/</guid>
+      <guid>https://karinholley.com/blog/first/</guid>
       <description>As a third culture kid - now adult - my survival strategy was to adapt. Adapt to the local surroundings, blend in, do as the Romans do.</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://karinholley.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://karinholley.com/about/</guid>
       <description>Mental Fitness Coach for Leaders I am: An ICF certified coach with 20 years of experience in international education and leadership development.</description>
     </item>
     <item>
       <title>AGB</title>
-      <link>http://localhost:1313/agb/</link>
+      <link>https://karinholley.com/agb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/agb/</guid>
+      <guid>https://karinholley.com/agb/</guid>
       <description>§1 Lorem Bacon ipsum dolor amet pig pork hamburger tenderloin burgdoggen spare ribs bacon pancetta pork loin tail turducken. Chicken pastrami jerky tongue ball tip strip steak.</description>
     </item>
     <item>
       <title>Another post about work</title>
-      <link>http://localhost:1313/blog/another-post-about-work/</link>
+      <link>https://karinholley.com/blog/another-post-about-work/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/another-post-about-work/</guid>
+      <guid>https://karinholley.com/blog/another-post-about-work/</guid>
       <description>sadness don&amp;rsquo;t lose focus things will get better.</description>
     </item>
     <item>
       <title>Coaching</title>
-      <link>http://localhost:1313/coaching_services/</link>
+      <link>https://karinholley.com/coaching_services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/coaching_services/</guid>
+      <guid>https://karinholley.com/coaching_services/</guid>
       <description>ICF Certified Mental Fitness Leadership Coach Discover mental patterns that are blocking you from advancing your goals and vision.</description>
     </item>
     <item>
       <title>Fourth</title>
-      <link>http://localhost:1313/blog/fourth/</link>
+      <link>https://karinholley.com/blog/fourth/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/fourth/</guid>
+      <guid>https://karinholley.com/blog/fourth/</guid>
       <description>hello friend</description>
     </item>
     <item>
       <title>OldGrow</title>
-      <link>http://localhost:1313/grow_old/</link>
+      <link>https://karinholley.com/grow_old/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/grow_old/</guid>
+      <guid>https://karinholley.com/grow_old/</guid>
       <description>You are a leader who is: Growth-oriented, idealistic, and mission-driven. In some personal and/or professional transition. Committed to personal and professional growth, but have reached the limits of what you can do by yourself.</description>
     </item>
     <item>
       <title>Success Stories</title>
-      <link>http://localhost:1313/success_stories/</link>
+      <link>https://karinholley.com/success_stories/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/success_stories/</guid>
+      <guid>https://karinholley.com/success_stories/</guid>
       <description>&amp;nbsp; I started coaching with Karin to gain traction on elusive long term goals - things I&amp;rsquo;d been working on for years, but hadn&amp;rsquo;t made much progress with.</description>
     </item>
   </channel>
