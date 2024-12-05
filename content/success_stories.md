@@ -82,10 +82,8 @@ Assistant Director International Student Transitions at Council of International
 <article class="story">
 
 <div class="video-embed" style="float: right; margin-left: 20px;">
-    <script src="https://fast.wistia.com/embed/medias/0mgl01fhqd.jsonp" async></script>
-    <script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
-    <span class="wistia_embed wistia_async_0mgl01fhqd popover=true" style="display:inline-block;height:124px;position:relative;width:220px">&nbsp;</span>
-  </div>
+<script src="https://fast.wistia.com/embed/medias/zkwqmg7ddx.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><span class="wistia_embed wistia_async_zkwqmg7ddx popover=true" style="display:inline-block;height:124px;position:relative;width:220px">&nbsp;</span>
+</div>
 
 After years of traditional therapies, I had lost hope. Therapy was too slow for what I was going through and not fixing the immediate problems that were bringing me down and keeping me stuck. Karin came recommended, but I was hesitant, because my previous coaching experiences weren’t great. But I trusted Karin and decided it was worth trying. 
 

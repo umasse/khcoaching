@@ -2,74 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Karin Holley</title>
-    <link>https://karinholley.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Karin Holley</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Feb 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://karinholley.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second Article</title>
-      <link>https://karinholley.com/blog/second/</link>
+      <link>http://localhost:1313/blog/second/</link>
       <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://karinholley.com/blog/second/</guid>
-      <description>My daughter painted this tree when she was about 10 years old. What is unusual about it, is that she&amp;rsquo;s given the root system just as much attention and space as the part of the tree most of us draw when we think of a &amp;ldquo;tree&amp;rdquo;.</description>
+      <guid>http://localhost:1313/blog/second/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/karin/posts/tree.jpg&#34; class=&#34;is-pulled-left mr-5 is-3 column&#34;&gt; My daughter painted this tree when she was about 10 years old.&#xA;What is unusual about it, is that she&amp;rsquo;s given the root system just as much attention and space as the part of the tree most of us draw when we think of a &amp;ldquo;tree&amp;rdquo;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Article 1</title>
-      <link>https://karinholley.com/blog/first/</link>
+      <link>http://localhost:1313/blog/first/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://karinholley.com/blog/first/</guid>
-      <description>As a third culture kid - now adult - my survival strategy was to adapt. Adapt to the local surroundings, blend in, do as the Romans do.</description>
+      <guid>http://localhost:1313/blog/first/</guid>
+      <description>&lt;p&gt;As a third culture kid - now adult - my survival strategy was to adapt. Adapt to the local surroundings, blend in, do as the Romans do. The &amp;ldquo;chameleon&amp;rdquo; strategy. It has served me well.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>https://karinholley.com/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://karinholley.com/about/</guid>
-      <description>Mental Fitness Coach for Leaders I am: An ICF certified coach with 20 years of experience in international education and leadership development.</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;div class=&#34;columns is-align-items-center&#34;&gt;&#xA;&lt;div class=&#34;column is-4 &#34;&gt;&#xA;&lt;h3 class=&#34;title is-3&#34;&gt;ICF PCC Certified Leadership, Mindset, and Somatics Coach&lt;/h3&gt;&#xA;&lt;h5 class=&#34;secondary h5 is-secondary&#34;&gt;I am:&lt;/h5&gt;&#xA;An ICF PCC certified coach with 20 years of experience in international education and leadership development.&lt;br&gt;&lt;br&gt;&#xA;&lt;h5 class=&#34;secondary h5 is-secondary&#34;&gt;I value:&lt;/h5&gt;&#xA;Connection, trust, believing in yourself, growth, and making a difference. &#xA;&lt;br&gt;&lt;br&gt;&#xA;&lt;h5 class=&#34;secondary h5 is-secondary&#34;&gt;I help:&lt;/h5&gt;&#xA;Leaders across various sectors to unleash their full potential and create positive change in their organizations and communities.&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;column is-5 is-offset-1&#34;&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/images/karin/k12.jpg&#34; class=&#34;&#34; alt/&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;!-- &lt;div class=&#34;columns&#34;&gt;&#xA;&lt;div class=&#34;column is-4 &#34;&gt;&#xA;    I help growth-ortiented educational leaders unlock their full potential and achieve their vision.&#xA;    Break negative mental patterns to:&#xA;    &#xA;1. Gain clarity, confidence and joy&#xA;2. Develop your authentic leadership style&#xA;3. Implement your personal and professional vision.&#xA;&lt;/div&gt;&#xA;&#xA;    &lt;div class=&#34;column is-5 is-offset-1&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/images/karin/k1.jpg&#34; alt/&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt; --&gt;&#xA;&lt;section class=&#34;about mb-6&#34;&gt;&#xA;&lt;div class=&#34;columns is-align-items-center&#34;&gt;&#xA;&lt;div class=&#34;column is-5 &#34;&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/images/karin/k11.jpg&#34; alt/&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;column is-4 is-offset-1&#34;&gt;&#xA;&lt;h5 class=&#34;secondary h5 is-secondary&#34;&gt;Qualifications:&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Professional Certified Coach (PCC)&lt;/strong&gt; with the International Coaching Federation&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Advanced Certified Professional Coach (CPC)&lt;/strong&gt; with the International Coach Academy&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Certified Group Coach&lt;/strong&gt; with the International Coach Academy&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Certified Positive Intelligence Coach (CPQC)&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Certified Somatics Coach&lt;/strong&gt; with Coaches Rising&lt;/li&gt;&#xA;&lt;li&gt;Master’s degree in Counselling&lt;/li&gt;&#xA;&lt;li&gt;Master’s degree in Teaching&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;columns is-align-items-center&#34;&gt;&#xA;&lt;div class=&#34;column is-4 &#34;&gt;&#xA;&lt;h5 class=&#34;secondary h5 is-secondary&#34;&gt;I specialize in:&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Positive Intelligence&lt;/strong&gt;: helping you develop the skills and habits to overcome negative thought patterns and develop the ability to deal with challenges with a positive mindset in order to improve your performance, relationships and well-being.&lt;/p&gt;</description>
     </item>
     <item>
       <title>AGB</title>
-      <link>https://karinholley.com/agb/</link>
+      <link>http://localhost:1313/agb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://karinholley.com/agb/</guid>
-      <description>§1 Lorem Bacon ipsum dolor amet pig pork hamburger tenderloin burgdoggen spare ribs bacon pancetta pork loin tail turducken. Chicken pastrami jerky tongue ball tip strip steak.</description>
+      <guid>http://localhost:1313/agb/</guid>
+      <description>&lt;h3 class=&#34;title is-3&#34;&gt;§1 Lorem&lt;/h3&gt;&#xA;&lt;p&gt;Bacon ipsum dolor amet pig pork hamburger tenderloin burgdoggen spare ribs bacon pancetta pork loin tail turducken. Chicken pastrami jerky tongue ball tip strip steak. Ball tip alcatra turkey, cupim strip steak swine short loin tenderloin pancetta corned beef ribeye cow short ribs. Turkey turducken flank filet mignon beef ribs pastrami rump, andouille prosciutto picanha kevin strip steak. Corned beef fatback landjaeger hamburger alcatra, bacon buffalo tongue cow biltong salami sirloin swine.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Another post about work</title>
-      <link>https://karinholley.com/blog/another-post-about-work/</link>
+      <link>http://localhost:1313/blog/another-post-about-work/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://karinholley.com/blog/another-post-about-work/</guid>
-      <description>sadness don&amp;rsquo;t lose focus things will get better.</description>
+      <guid>http://localhost:1313/blog/another-post-about-work/</guid>
+      <description>&lt;h1 id=&#34;sadness&#34;&gt;sadness&lt;/h1&gt;&#xA;&lt;p&gt;don&amp;rsquo;t lose focus things will get better.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Coaching</title>
-      <link>https://karinholley.com/coaching_services/</link>
+      <link>http://localhost:1313/coaching_services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://karinholley.com/coaching_services/</guid>
-      <description>ICF Certified Mental Fitness Leadership Coach Discover mental patterns that are blocking you from advancing your goals and vision.</description>
+      <guid>http://localhost:1313/coaching_services/</guid>
+      <description>&lt;section class=&#34;copy&#34;&gt;&#xA;&lt;div class=&#34;columns is-align-items-center&#34;&gt;&#xA;&lt;div class=&#34;column is-5&#34;&gt;&#xA;&lt;h3 class=&#34;title is-3&#34;&gt;ICF PCC Certified Leadership, Mindset, and Somatics Coach&lt;/h3&gt;&#xA;&lt;p class=&#34;checked&#34;&gt;Discover &lt;strong&gt;mental and behavioural patterns that are blocking you&lt;/strong&gt; from advancing your goals and vision.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fourth</title>
-      <link>https://karinholley.com/blog/fourth/</link>
+      <link>http://localhost:1313/blog/fourth/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://karinholley.com/blog/fourth/</guid>
-      <description>hello friend</description>
+      <guid>http://localhost:1313/blog/fourth/</guid>
+      <description>&lt;p&gt;hello friend&lt;/p&gt;</description>
     </item>
     <item>
       <title>OldGrow</title>
-      <link>https://karinholley.com/grow_old/</link>
+      <link>http://localhost:1313/grow_old/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://karinholley.com/grow_old/</guid>
-      <description>You are a leader who is: Growth-oriented, idealistic, and mission-driven. In some personal and/or professional transition. Committed to personal and professional growth, but have reached the limits of what you can do by yourself.</description>
+      <guid>http://localhost:1313/grow_old/</guid>
+      <description>&lt;h5 class=&#34;subtitle is-5&#34;&gt;You are a leader who is:&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Growth-oriented, idealistic, and mission-driven.&lt;/li&gt;&#xA;&lt;li&gt;In some personal and/or professional transition.&lt;/li&gt;&#xA;&lt;li&gt;Committed to personal and professional growth, but have reached the limits of what you can do by yourself.&lt;/li&gt;&#xA;&lt;li&gt;Feeling stuck in certain areas, “busy”, reactive, stressed, or lacking direction, joy and inspiration.&lt;/li&gt;&#xA;&lt;li&gt;Struggling to focus on the bigger picture, your purpose.&lt;/li&gt;&#xA;&lt;li&gt;Giving your best self to work, but lacking presence at home.&lt;/li&gt;&#xA;&lt;li&gt;Ready to work on mental patterns and behaviours that no longer serve you and find a deep level of contentment and calm within, no matter what is going on around you.&lt;/li&gt;&#xA;&lt;li&gt;Missing someone with whom you can talk to and process your own thinking with - it can be lonely being a leader.&lt;/li&gt;&#xA;&lt;li&gt;Ready to be vulnerable, honest, take risks, take action, have serious conversations, but also laugh and be light.&lt;/li&gt;&#xA;&lt;li&gt;Wanting to go from being a good leader to a great leader!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;After 2 years of covid, instead of looking forward to going back to the old routine I was dreading it. I realized that I wasn&amp;rsquo;t happy with some aspects of my life, and felt like maybe this was going to be the way it was going to be for the rest of my life: not particularly happy but semi comfortably with how things were. The way I saw it, this was a middle-age crisis. Should I try to change something? My circumstances? Myself? Or just hold on and see.&#xA;&lt;br&gt;&#xA;&lt;strong&gt;Raul Masse&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;em&gt;Senior Test Automation&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Success Stories</title>
-      <link>https://karinholley.com/success_stories/</link>
+      <link>http://localhost:1313/success_stories/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://karinholley.com/success_stories/</guid>
-      <description>&amp;nbsp; I started coaching with Karin to gain traction on elusive long term goals - things I&amp;rsquo;d been working on for years, but hadn&amp;rsquo;t made much progress with.</description>
+      <guid>http://localhost:1313/success_stories/</guid>
+      <description>&lt;article class=&#34;story&#34;&gt;&#xA;&lt;div class=&#34;video-embed&#34; style=&#34;float: right; margin-left: 20px;&#34;&gt;&#xA;    &lt;script src=&#34;https://fast.wistia.com/embed/medias/o4ja7ht4q6.jsonp&#34; async&gt;&lt;/script&gt;&#xA;    &lt;script src=&#34;https://fast.wistia.com/assets/external/E-v1.js&#34; async&gt;&lt;/script&gt;&#xA;    &lt;span class=&#34;wistia_embed wistia_async_o4ja7ht4q6 popover=true&#34; style=&#34;display:inline-block;height:124px;position:relative;width:220px&#34;&gt;&amp;nbsp;&lt;/span&gt;&#xA;  &lt;/div&gt;&#xA;&lt;p&gt;I started coaching with Karin to gain traction on elusive long term goals - things I&amp;rsquo;d been working on for years, but hadn&amp;rsquo;t made much progress with.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

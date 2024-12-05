@@ -8,10 +8,10 @@ include_footer: true
 <div class="columns is-align-items-center">
 <div class="column is-4 ">
 
-{{% title3 "Mental Fitness Coach for Leaders" %}}
+{{% title3 "ICF PCC Certified Leadership, Mindset, and Somatics Coach" %}}
 
 {{% secondarytitle5 "I am:" %}}
-An ICF certified coach with 20 years of experience in international education and leadership development.<br><br>
+An ICF PCC certified coach with 20 years of experience in international education and leadership development.<br><br>
 
 {{% secondarytitle5 "I value:" %}}
 Connection, trust, believing in yourself, growth, and making a difference. 
@@ -39,9 +39,11 @@ Leaders across various sectors to unleash their full potential and create positi
 
 {{% secondarytitle5 "Qualifications:" %}}
 
-  * **Associate Certified Coach (ACC)** with the International Coaching Federation
+  * **Professional Certified Coach (PCC)** with the International Coaching Federation
   * **Advanced Certified Professional Coach (CPC)** with the International Coach Academy
+  * **Certified Group Coach** with the International Coach Academy
   * **Certified Positive Intelligence Coach (CPQC)**
+  * **Certified Somatics Coach** with Coaches Rising
   * Master’s degree in Counselling
   * Master’s degree in Teaching
 
@@ -53,9 +55,10 @@ Leaders across various sectors to unleash their full potential and create positi
 
 {{% secondarytitle5 "I specialize in:" %}}
 
-* **Mental Fitness**, helping you develop the skills and habits to overcome negative thoughts and emotions, and to achieve your peak performance and well-being.
+* **Positive Intelligence**: helping you develop the skills and habits to overcome negative thought patterns and develop the ability to deal with challenges with a positive mindset in order to improve your performance, relationships and well-being.
+* **Somatics**: improve your mind-body awareness to create lasting behavioural transformation.
 * **Transitions** such as career changes, working internationally, parenting, relationship breakups, perimenopause
-* **Mental health issues:** burnout, loneliness, anxiety, insomnia
+* **Mental health issues**: burnout, loneliness, anxiety, insomnia
 
   <div class="action mt-2">
     {{% primarybutton1 "What my clients say" "/success_stories" %}}
@@ -126,7 +129,7 @@ Leaders across various sectors to unleash their full potential and create positi
 * **We explore your beliefs** and discover new perspectives, so that you come up with **your own insights**, action steps and solutions.
 * **Coaching saves you time and energy** by reducing ruminations and indecisiveness while enhancing your clarity of mind and confidence in decision-making.
 * My coaching helps you **grow personally and professionally**.
-* I help you develop your authentic leadership style using the **Positive Intelligence (PQ) Mental Fitness** framework.
+* I help you develop your authentic leadership style using the **Positive Intelligence (PQ) Mental Fitness** framework and **somatic techniques**.
 
 {{% primarybutton1 "More about Coaching" "/coaching_services" %}}
 </div>
@@ -158,9 +161,10 @@ Leaders across various sectors to unleash their full potential and create positi
 </div>
 <div class="column is-5">
 
-{{% secondarytitle5 "PQ combined with my coaching will" %}}
+{{% secondarytitle5 "PQ combined with my somatic techniques and coaching will" %}}
 
 * Drastically accelerate your **awareness of negative mental habits (saboteurs)**.
+* **Increase your body awareness** to help you recognize what’s happening in the moment.
 * Give you the tools to pause and **choose more positive responses** to challenging situations.
 * Allow you to **feel calmer** and more grounded throughout your day.
 * Improve your **professional and personal relationships**.

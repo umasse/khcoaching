@@ -9,9 +9,9 @@ include_footer: true
 <div class="columns is-align-items-center">
 <div class="column is-5">
 
-{{% title3 "ICF Certified Mental Fitness Leadership Coach" %}}
+{{% title3 "ICF PCC Certified Leadership, Mindset, and Somatics Coach" %}}
 
-<p class="checked">Discover <strong>mental patterns that are blocking you</strong> from advancing your goals and vision.</p>
+<p class="checked">Discover <strong>mental and behavioural patterns that are blocking you</strong> from advancing your goals and vision.</p>
 <p class="checked">Gain more <strong>clarity of mind </strong> and <strong>confidence</strong> to improve your focus and decision-making.</p>
 <p class="checked mb-5">Improve your sense of <strong>joy, calm</strong> and well-being.</p>
 <p><strong>Explore what your vision looks like</strong> and decide on which <strong>first step</strong> you'll take TODAY to get there.</p>
@@ -145,7 +145,7 @@ Missing someone with whom you can process your own thinking - it can be lonely b
     <h4>Grow Masterclass</h4>
     <p>Learn about optimal conditions for personal growth, how we self-sabotage, and 3 mental muscles that help us grow.</p>
   </div>
-  <a href="https://appointmentcalendarkarinholley.as.me/?appointmentType=44191676" target="_blank" class="button is-fullwidth primary-btn raised is-bold">Sign up</a>
+  <a href="https://appointmentcalendarkarinholley.as.me/authenticpathways" target="_blank" class="button is-fullwidth primary-btn raised is-bold">Sign up</a>
   </div>
   <div class="column is-4 feature-card is-pricing has-text-centered">
   <div class="info">
